@@ -1,7 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+@use '@angular/material' as mat;
+
+$my-primary: mat.define-palette(mat.$gray-palette, 900);
+$my-accent: mat.define-palette(mat.$amber-palette, A200, A100, A400);
+
+$my-theme: mat.define-light-theme((
+  color: (
+    primary: $my-primary,
+    accent: $my-accent,
+  )
+));
+
+@include mat.all-component-themes($my-theme);
+
+
 
 html, body { height: 100%; }
 body { margin: 0; font-family: 'Chivo', "Helvetica Neue", sans-serif; }
+
+$yellow-color: #ffce1c;
 
 .gray-box {
   background: #E2E2E2;
@@ -9,4 +26,40 @@ body { margin: 0; font-family: 'Chivo', "Helvetica Neue", sans-serif; }
 
 .black-box {
   background: #262929;
+}
+
+.logo {
+  text-transform: uppercase;
+  margin-bottom: .5rem;
+
+  .light {
+    background: $yellow-color;
+    font-size: 2rem;
+    font-weight: 300;
+    padding: .8rem .25rem 0 3.5rem;
+    margin-right: .25rem;
+  }
+
+  .normal {
+    font-size: 3rem;
+    line-height: 3rem;
+  }
+}
+
+.mini-logo {
+  text-transform: uppercase;
+
+  .light {
+    background: $yellow-color;
+    color: black;
+    font-size: .8rem;
+    font-weight: 300;
+    padding: .4rem .25rem 0 2rem;
+    margin-right: .25rem;
+  }
+
+  .normal {
+    font-size: 1.2rem;
+    line-height: 1.2rem;
+  }
 }

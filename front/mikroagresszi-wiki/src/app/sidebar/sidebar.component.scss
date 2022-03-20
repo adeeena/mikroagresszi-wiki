@@ -1,0 +1,54 @@
+@import '../../styles.scss';
+
+.sidebar-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 5rem;
+
+  .sidebar-item {
+    border: 0;
+    border-radius: 0;
+    display: flex;
+    flex-direction: row;
+    height: 3rem;
+    width: 14rem;
+
+    .icon {
+      align-self: center;
+      margin-left: 1rem;
+    }
+
+    .text {
+      align-self: center;
+      margin-left: .5rem;
+    }
+
+    &:nth-child(1) {
+      background: map-get($my-accent, 900);
+    }
+
+    &:nth-child(2) {
+      background: map-get($my-accent, 800);
+    }
+
+    &:nth-child(3) {
+      background: map-get($my-accent, 700);
+    }
+
+    &:nth-child(4) {
+      background: map-get($my-accent, 600);
+    }
+
+    &:nth-child(5) {
+      background: map-get($my-accent, 500);
+    }
+
+    &:nth-child(6) {
+      background: map-get($my-accent, 400);
+    }
+
+    &:nth-child(7) {
+      background: map-get($my-accent, 300);
+    }
+  }
+}

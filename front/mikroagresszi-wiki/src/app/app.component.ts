@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'mikroagresszi-wiki';
+  public isOpened: boolean = false;
+
+  toggleSidenav() {
+    this.isOpened = !this.isOpened;
+  }
+
+
 }

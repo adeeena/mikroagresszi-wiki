@@ -1,4 +1,13 @@
+<button class="toolbar" mat-icon-button color="primary" (click)="toggleSidenav()">
+  <mat-icon>menu</mat-icon>
+</button>
 
-<router-outlet></router-outlet>
-
-<app-footer></app-footer>
+<mat-sidenav-container hasBackdrop="false" class="example-container">
+  <mat-sidenav mode="over" fixedInViewport [opened]="isOpened">
+    <app-sidebar></app-sidebar>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <router-outlet></router-outlet>
+    <app-footer></app-footer>
+  </mat-sidenav-content>
+</mat-sidenav-container>
