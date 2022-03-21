@@ -1,8 +1,14 @@
-<button class="toolbar" mat-icon-button color="primary" (click)="toggleSidenav()">
+<button class="toolbar" mat-icon-button
+        color="primary" *ngIf="!isOpened" (click)="toggleSidenav()">
   <mat-icon>menu</mat-icon>
 </button>
 
-<mat-sidenav-container hasBackdrop="false" class="example-container">
+<button class="toolbar" mat-icon-button
+        color="accent" *ngIf="isOpened" (click)="toggleSidenav()">
+  <mat-icon>close</mat-icon>
+</button>
+
+<mat-sidenav-container disableClose class="example-container">
   <mat-sidenav mode="over" fixedInViewport [opened]="isOpened">
     <app-sidebar></app-sidebar>
   </mat-sidenav>

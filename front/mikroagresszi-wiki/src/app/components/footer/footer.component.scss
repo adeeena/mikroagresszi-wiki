@@ -1,7 +1,7 @@
 @import '../../../styles';
 
 .content {
-  background: $yellow-color;
+  border-top: .3rem solid $yellow-color;
   min-height: 10rem;
   padding: 2vh 0;
 

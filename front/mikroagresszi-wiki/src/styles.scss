@@ -28,6 +28,10 @@ $yellow-color: #ffce1c;
   background: #262929;
 }
 
+.dark-box {
+  background: map-get(mat.$gray-palette, 700);
+}
+
 .logo {
   text-transform: uppercase;
   margin-bottom: .5rem;
@@ -62,4 +66,8 @@ $yellow-color: #ffce1c;
     font-size: 1.2rem;
     line-height: 1.2rem;
   }
+}
+
+.mat-drawer-inner-container {
+  background: map-get(mat.$gray-palette, 900);
 }

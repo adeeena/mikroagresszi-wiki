@@ -11,13 +11,15 @@ import { HomeComponent } from './components/home/home.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
 import {HttpClientModule} from "@angular/common/http";
+import { CategoryComponent } from './components/category/category.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     FooterComponent,
-    SidebarComponent
+    SidebarComponent,
+    CategoryComponent
   ],
   imports: [
     BrowserModule,

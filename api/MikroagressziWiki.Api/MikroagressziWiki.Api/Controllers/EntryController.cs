@@ -24,11 +24,16 @@ namespace MikroagressziWiki.Api.Controllers
         }
 
         [HttpGet("getBy")]
-        public IEnumerable<Entry> GetBy([FromQuery] Guid categoryId)
+        public object GetBy([FromQuery] Guid categoryId)
         {
+            var category = _context.Categories.SingleOrDefault(q => q.Id == categoryId.ToString());
             var entries = _context.Entries.Where(q => q.Categories.Any(w => w.Id == categoryId.ToString())).ToList();
 
-            return entries;
+            return new
+            {
+                Name = category.Name,
+                Entries = entries
+            };
         }
     }
 }

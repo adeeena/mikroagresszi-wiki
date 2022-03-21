@@ -8,15 +8,14 @@ import {Category} from "../../models/category";
   styleUrls: ['./sidebar.component.scss']
 })
 export class SidebarComponent implements OnInit {
-  private categories: any;
+  public categories: Category[] = [];
 
   constructor(private entryService: EntryService) {
   }
 
   ngOnInit(): void {
-    this.categories = [];
     this.entryService.getCategories()
-      .subscribe((data: Category) => {this.categories.push(data); console.dir(data);});
+      .subscribe((data: Category[]) => {this.categories = data; console.dir(data);});
   }
 
 }
