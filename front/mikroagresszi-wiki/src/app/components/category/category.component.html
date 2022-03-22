@@ -31,7 +31,10 @@
       </div>
 
       <div class="category-card-result-set">
-        <mat-card *ngFor="let entry of entries">
+        <mat-card
+          [routerLink]="['/entry']"
+          [queryParams]="{ id: entry.id}"
+          *ngFor="let entry of entries">
           <mat-card-title>
             {{ entry.title }}
           </mat-card-title>
@@ -39,18 +42,17 @@
           <div class="separator"></div>
 
           <div class="card-content">
-            {{ entry.description }}
+            <div>{{ entry.description }}</div>
+
+            <div class="content-fade-out"></div>
           </div>
 
-          <div class="content-fade-out"></div>
+
 
           <mat-card-actions>
-            <a [routerLink]="['/entry']"
-               [queryParams]="{ id: entry.id}">
-              <button mat-icon-button>
-                <mat-icon>call_made</mat-icon>
-              </button>
-            </a>
+            <button mat-icon-button>
+              <mat-icon>call_made</mat-icon>
+            </button>
           </mat-card-actions>
 
         </mat-card>

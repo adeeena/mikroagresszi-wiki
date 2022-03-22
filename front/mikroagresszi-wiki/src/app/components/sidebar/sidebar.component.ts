@@ -21,7 +21,6 @@ export class SidebarComponent implements OnInit {
   }
 
   linkClicked(): void {
-    console.info('link clicked');
     if (this.closing) {
       this.closing.emit('');
     }

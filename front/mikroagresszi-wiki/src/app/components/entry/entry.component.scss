@@ -11,7 +11,23 @@
     .entry-title {
       font-family: Merriweather;
       font-size: 2rem;
+      line-height: 3rem;
       margin-bottom: 2rem;
+    }
+
+    .entry-categories {
+      margin-bottom: 2rem;
+
+      mat-chip {
+        cursor: pointer;
+      }
+    }
+
+    .separator {
+      background: map-get(mat.$gray-palette, 600);
+      height: 1px;
+      margin-bottom: 2rem;
+      width: 100%;
     }
 
     .entry-description {
@@ -21,10 +37,38 @@
       margin-bottom: 1.5rem;
     }
 
-    .back-to-home {
-      a {
+    .entry-actions {
+      display: flex;
+      justify-content: space-between;
+
+      .back-to-home {
+        align-self: center;
+      }
+
+      a, button {
         color: map-get(mat.$gray-palette, 500);
       }
     }
   }
 }
+
+
+input {
+  padding: .5rem;
+  width: 95%;
+}
+
+.close-button-container {
+  display: flex;
+  justify-content: flex-end;
+
+  .close-button {
+    border: 0;
+    border-radius: 5px;
+    background: map-get(mat.$gray-palette, 200);
+    padding: .5rem;
+    margin-top: 1rem;
+  }
+}
+
+

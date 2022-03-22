@@ -7,6 +7,14 @@
     justify-content: space-between;
     min-height: 90vh;
 
+    @media (min-width: 601px) {
+      flex-direction: row;
+    }
+
+    @media (max-width: 600px) {
+      flex-direction: column;
+    }
+
     a {
       color: map-get(mat.$gray-palette, 500);
     }
@@ -14,14 +22,30 @@
     .category-card-side-content {
       background: map-get(mat.$gray-palette, 900);
       padding-top: 5rem;
-      width: 15rem;
+
+
+      @media (min-width: 601px) {
+        width: 15rem;
+      }
+
+      @media (max-width: 600px) {
+        width: 100%;
+        padding-bottom: 2rem;
+      }
 
       .back-to-home {
         margin-bottom: 1rem;
 
         a {
           font-size: .8rem;
-          margin-left: 1.5rem;
+
+          @media (min-width: 601px) {
+            margin-left: 1.5rem;
+          }
+
+          @media (max-width: 600px) {
+            margin-left: 2rem;
+          }
         }
       }
 
@@ -29,19 +53,40 @@
         color: map-get(mat.$gray-palette, 200);
         font-family: Merriweather;
         font-size: 1.8rem;
-        margin-left: 1.5rem;
         margin-bottom: 2vh;
         text-transform: uppercase;
+
+        @media (min-width: 601px) {
+          margin-left: 1.5rem;
+        }
+
+        @media (max-width: 600px) {
+          margin-left: 2rem;
+        }
       }
 
       .category-card-description {
         color: map-get(mat.$gray-palette, 600);
         font-size: .8rem;
         margin: 0 1.5rem;
+
+        @media (min-width: 601px) {
+          margin: 0 1.5rem;
+        }
+
+        @media (max-width: 600px) {
+          margin: 0 2rem;
+        }
       }
 
       .add-new {
-        margin: 2rem 1.5rem 0;
+        @media (min-width: 601px) {
+          margin: 2rem 1.5rem 0;
+        }
+
+        @media (max-width: 600px) {
+          margin: 2rem 2rem 0;
+        }
 
         .add-new-title {
           color: map-get(mat.$gray-palette, 200);
@@ -60,16 +105,23 @@
       flex-flow: wrap;
       justify-content: start;
       margin: 1.5rem 0;
-      width: calc(100% - 17rem);
+
+      @media (min-width: 601px) {
+        width: calc(100% - 17rem);
+      }
+
+      @media (max-width: 600px) {
+        width: calc(100%);
+      }
+
 
       mat-card {
         border-radius: 0;
         background: map-get(mat.$gray-palette, 200);
+        cursor: pointer;
         height: 17rem;
         padding: 1.5rem;
-        margin-bottom: 1rem;
-        margin-right: 1rem;
-        width: 12rem;
+
 
         mat-card-title {
           font-family: Merriweather;
@@ -97,18 +149,32 @@
           overflow: hidden;
           position: relative;
           height: 5rem;
-          margin-bottom: 2rem;
-        }
 
-        .content-fade-out {
-          background: linear-gradient(180deg, transparent 0%, map-get(mat.$gray-palette, 200) 100%);
-          position: absolute;
-          bottom: 3.5rem;
-          height: 3rem;
-          left: 0;
-          right: 0;
+          .content-fade-out {
+            background: linear-gradient(180deg, transparent 0%, map-get(mat.$gray-palette, 200) 100%);
+            position: absolute;
+            bottom: 0;
+            height: 3rem;
+            left: 0;
+            right: 0;
+          }
         }
       }
     }
+  }
+}
+
+@media (min-width: 601px) {
+  mat-card {
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    width: 12rem;
+  }
+}
+
+@media (max-width: 600px) {
+  mat-card {
+    margin-bottom: 1rem;
+    width: 100%;
   }
 }

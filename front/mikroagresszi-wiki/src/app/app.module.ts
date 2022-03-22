@@ -15,6 +15,13 @@ import { CategoryComponent } from './components/category/category.component';
 import {MatCardModule} from "@angular/material/card";
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { EntryComponent } from './components/entry/entry.component';
+import {MatChipsModule} from "@angular/material/chips";
+import {MatFormFieldModule} from "@angular/material/form-field";
+import {MatInputModule} from "@angular/material/input";
+import {FormsModule} from "@angular/forms";
+import {MatDialogModule} from "@angular/material/dialog";
+import { MoreInfoComponent } from './components/more-info/more-info.component';
+
 
 @NgModule({
   declarations: [
@@ -23,20 +30,26 @@ import { EntryComponent } from './components/entry/entry.component';
     FooterComponent,
     SidebarComponent,
     CategoryComponent,
-    EntryComponent
+    EntryComponent,
+    MoreInfoComponent
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    BrowserAnimationsModule,
-    MatToolbarModule,
-    MatSidenavModule,
-    MatIconModule,
-    MatButtonModule,
-    HttpClientModule,
-    MatCardModule,
-    FontAwesomeModule
-  ],
+    imports: [
+        BrowserModule,
+        AppRoutingModule,
+        BrowserAnimationsModule,
+        MatToolbarModule,
+        MatSidenavModule,
+        MatIconModule,
+        MatButtonModule,
+        HttpClientModule,
+        MatCardModule,
+        FontAwesomeModule,
+        MatChipsModule,
+        MatFormFieldModule,
+        MatInputModule,
+        FormsModule,
+        MatDialogModule,
+    ],
   providers: [],
   bootstrap: [AppComponent]
 })

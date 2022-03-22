@@ -1,7 +1,11 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Inject, OnInit} from '@angular/core';
 import {ActivatedRoute} from "@angular/router";
 import {EntryService} from "../../services/entry.service";
-import {Entry} from "../../models/entry";
+import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
+
+export interface DialogData {
+  link: string;
+}
 
 @Component({
   selector: 'app-entry',
@@ -12,7 +16,9 @@ export class EntryComponent implements OnInit {
   public entryId: string = '';
   public entry: any;
 
-  constructor(private route: ActivatedRoute, private entryService: EntryService) { }
+  constructor(private route: ActivatedRoute,
+              private entryService: EntryService,
+              public dialog: MatDialog) { }
 
   ngOnInit(): void {
     this.route.queryParamMap.subscribe(params => {
@@ -26,5 +32,29 @@ export class EntryComponent implements OnInit {
           });
       }
     });
+  }
+
+  openShareDialog(): void {
+    this.dialog.open(DialogElementsExampleDialog, {
+      width: '50vw',
+      data: {
+        link: location.origin + '/entry/' + this.entryId
+      }
+    });
+  }
+}
+
+@Component({
+  selector: 'share-dialog',
+  styleUrls: ['./entry.component.scss'],
+  templateUrl: 'entry-dialog.component.html',
+})
+export class DialogElementsExampleDialog {
+  constructor(public dialogRef: MatDialogRef<DialogElementsExampleDialog>,
+              @Inject(MAT_DIALOG_DATA) public data: DialogData,
+  ) {}
+
+  onClick(): void {
+    this.dialogRef.close();
   }
 }

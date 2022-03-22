@@ -12,7 +12,16 @@
 
   .footer-content {
     color: white;
-    margin: 0 15vw;
+
+    @media (min-width: 601px) {
+      margin: 0 15vw;
+    }
+
+    @media (max-width: 600px) {
+      margin: 0 2rem;
+    }
+
+
 
     .idea-from {
       font-size: .8rem;

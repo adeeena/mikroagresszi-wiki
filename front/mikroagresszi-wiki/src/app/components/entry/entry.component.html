@@ -4,17 +4,38 @@
       {{entry.title}}
     </div>
 
+    <div class="entry-categories">
+      <mat-chip-list
+        class="example-chip">
+        <mat-chip
+          [routerLink]="['/category']"
+          [queryParams]="{ id: category.id}"
+          class="example-box"
+          *ngFor="let category of entry.categories">
+          {{ category.name }}
+        </mat-chip>
+      </mat-chip-list>
+    </div>
+
+    <div class="separator"></div>
+
     <div class="entry-description">
       {{entry.description}}
     </div>
 
-    <div class="back-to-home">
-      <a [routerLink]="['/']">
-        <!--            Vissza a főoldalra-->
-        Back to Home
-      </a>
+    <div class="entry-actions">
+      <div class="back-to-home">
+        <a [routerLink]="['/']">
+          <!--            Vissza a főoldalra-->
+          Back to Home
+        </a>
+      </div>
+
+      <div class="actions">
+        <button mat-icon-button (click)="openShareDialog()">
+          <mat-icon>share</mat-icon>
+        </button>
+      </div>
     </div>
-
-
   </div>
 </div>
