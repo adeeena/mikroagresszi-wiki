@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using MikroagressziWiki.Domain.Models;
 
 namespace MikroagressziWiki.Api.Controllers
@@ -40,7 +41,15 @@ namespace MikroagressziWiki.Api.Controllers
         [HttpGet("getById")]
         public object GetById([FromQuery] Guid entryId)
         {
-            var entry = _context.Entries.SingleOrDefault(q => q.Id == entryId.ToString());
+            var entry = _context.Entries
+                .Include(q => q.Categories)
+                .Include(q => q.Entryresources)
+                .SingleOrDefault(q => q.Id == entryId.ToString());
+
+            foreach (var c in entry.Categories)
+            {
+                c.Entries = null;
+            }
 
             return entry;
         }
