@@ -1,0 +1,30 @@
+@use '@angular/material' as mat;
+@import '../../../styles';
+
+.content {
+  background: map-get(mat.$gray-palette, 200);
+  min-height: 90vh;
+
+  .entry-content {
+    padding: 5rem 15vw;
+
+    .entry-title {
+      font-family: Merriweather;
+      font-size: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .entry-description {
+      color: map-get(mat.$gray-palette, 600);
+      font-weight: 500;
+      line-height: 1.4rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .back-to-home {
+      a {
+        color: map-get(mat.$gray-palette, 500);
+      }
+    }
+  }
+}

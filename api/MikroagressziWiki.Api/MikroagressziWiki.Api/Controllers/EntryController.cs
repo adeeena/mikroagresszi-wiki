@@ -32,6 +32,7 @@ namespace MikroagressziWiki.Api.Controllers
             return new
             {
                 Name = category.Name,
+                Description = category.Description,
                 Entries = entries
             };
         }

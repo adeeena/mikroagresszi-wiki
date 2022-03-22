@@ -13,5 +13,9 @@ export class AppComponent {
     this.isOpened = !this.isOpened;
   }
 
+  closeSidenav() {
+    this.isOpened = false;
+  }
+
 
 }

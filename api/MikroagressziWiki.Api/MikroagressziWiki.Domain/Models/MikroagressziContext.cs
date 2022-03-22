@@ -36,6 +36,10 @@ namespace MikroagressziWiki.Domain.Models
                     .HasMaxLength(100)
                     .HasColumnName("id");
 
+                entity.Property(e => e.Description)
+                    .HasMaxLength(2000)
+                    .HasColumnName("description");
+
                 entity.Property(e => e.Icon)
                     .HasMaxLength(100)
                     .HasColumnName("icon");

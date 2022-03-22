@@ -1,3 +1,20 @@
 <div class="content">
-  
+  <div class="entry-content" *ngIf="entry">
+    <div class="entry-title">
+      {{entry.title}}
+    </div>
+
+    <div class="entry-description">
+      {{entry.description}}
+    </div>
+
+    <div class="back-to-home">
+      <a [routerLink]="['/']">
+        <!--            Vissza a főoldalra-->
+        Back to Home
+      </a>
+    </div>
+
+
+  </div>
 </div>
