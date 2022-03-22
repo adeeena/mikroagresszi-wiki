@@ -1,6 +1,114 @@
+@use '@angular/material' as mat;
+@import '../../../styles';
+
 .content {
   .category-card-content {
-    margin: 0 15vw;
+    display: flex;
+    justify-content: space-between;
     min-height: 90vh;
+
+    a {
+      color: map-get(mat.$gray-palette, 500);
+    }
+
+    .category-card-side-content {
+      background: map-get(mat.$gray-palette, 900);
+      padding-top: 5rem;
+      width: 15rem;
+
+      .back-to-home {
+        margin-bottom: 1rem;
+
+        a {
+          font-size: .8rem;
+          margin-left: 1.5rem;
+        }
+      }
+
+      .category-card-title {
+        color: map-get(mat.$gray-palette, 200);
+        font-family: Merriweather;
+        font-size: 1.8rem;
+        margin-left: 1.5rem;
+        margin-bottom: 2vh;
+        text-transform: uppercase;
+      }
+
+      .category-card-description {
+        color: map-get(mat.$gray-palette, 600);
+        font-size: .8rem;
+        margin: 0 1.5rem;
+      }
+
+      .add-new {
+        margin: 2rem 1.5rem 0;
+
+        .add-new-title {
+          color: map-get(mat.$gray-palette, 200);
+        }
+
+        .add-new-description {
+          color: map-get(mat.$gray-palette, 600);
+          font-size: .8rem;
+
+        }
+      }
+    }
+
+    .category-card-result-set {
+      display: flex;
+      flex-flow: wrap;
+      justify-content: start;
+      margin: 1.5rem 0;
+      width: calc(100% - 17rem);
+
+      mat-card {
+        border-radius: 0;
+        background: map-get(mat.$gray-palette, 200);
+        height: 17rem;
+        padding: 1.5rem;
+        margin-bottom: 1rem;
+        margin-right: 1rem;
+        width: 12rem;
+
+        mat-card-title {
+          font-family: Merriweather;
+          font-size: 1.8rem;
+          font-weight: 400;
+          line-height: 2.5rem;
+        }
+
+        mat-card-actions {
+          position: absolute;
+          bottom: 1rem;
+          right: 1rem;
+        }
+
+        .separator {
+          background: map-get(mat.$gray-palette, 400);
+          height: 1px;
+          margin-bottom: 1.5rem;
+          width: 100%;
+        }
+
+        .card-content {
+          color: map-get(mat.$gray-palette, 700);
+          font-size: .8rem;
+          overflow: hidden;
+          position: relative;
+          height: 5rem;
+          margin-bottom: 2rem;
+        }
+
+        .content-fade-out {
+          background: linear-gradient(180deg, transparent 0%, map-get(mat.$gray-palette, 200) 100%);
+          position: absolute;
+          bottom: 3.5rem;
+          height: 3rem;
+          left: 0;
+          right: 0;
+        }
+      }
+    }
   }
 }

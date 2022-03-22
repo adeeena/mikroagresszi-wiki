@@ -12,6 +12,9 @@ import { FooterComponent } from './components/footer/footer.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
 import {HttpClientModule} from "@angular/common/http";
 import { CategoryComponent } from './components/category/category.component';
+import {MatCardModule} from "@angular/material/card";
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { EntryComponent } from './components/entry/entry.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +22,8 @@ import { CategoryComponent } from './components/category/category.component';
     HomeComponent,
     FooterComponent,
     SidebarComponent,
-    CategoryComponent
+    CategoryComponent,
+    EntryComponent
   ],
   imports: [
     BrowserModule,
@@ -29,7 +33,9 @@ import { CategoryComponent } from './components/category/category.component';
     MatSidenavModule,
     MatIconModule,
     MatButtonModule,
-    HttpClientModule
+    HttpClientModule,
+    MatCardModule,
+    FontAwesomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,7 +1,60 @@
 <div class="content">
-  <div class="gray-box header-card">
+  <div class="category-card">
     <div class="category-card-content">
-      {{categoryId}}
+      <div class="category-card-side-content">
+        <div class="back-to-home">
+          <a [routerLink]="['/']">
+<!--            Vissza a főoldalra-->
+            Back to Home
+          </a>
+        </div>
+
+        <div class="category-card-title">
+            {{categoryTitle}}
+        </div>
+
+        <div class="category-card-description">
+          These are comments and actions based on how young or old someone is. They show up in many ways, including jokes about someone’s age or questioning their ability to understand things or do things.
+        </div>
+
+        <div class="add-new">
+          <div class="add-new-title">
+            <!--Hiányzik valami?-->
+            Something is missing?
+          </div>
+
+          <div class="add-new-description">
+            You can add new entries <a href="https://link.adena.dev/mawform">by filling out this form</a>.
+            <!--<a href="https://link.adena.dev/mawform">Ezen az űrlapon</a> hozzáadhatsz új bejegyzést.-->
+          </div>
+        </div>
+      </div>
+
+      <div class="category-card-result-set">
+        <mat-card *ngFor="let entry of entries">
+          <mat-card-title>
+            {{ entry.title }}
+          </mat-card-title>
+
+          <div class="separator"></div>
+
+          <div class="card-content">
+            {{ entry.description }}
+          </div>
+
+          <div class="content-fade-out"></div>
+
+          <mat-card-actions>
+            <a [routerLink]="['/entry']"
+               [queryParams]="{ id: entry.id}">
+              <button mat-icon-button>
+                <mat-icon>call_made</mat-icon>
+              </button>
+            </a>
+          </mat-card-actions>
+
+        </mat-card>
+      </div>
     </div>
   </div>
 </div>

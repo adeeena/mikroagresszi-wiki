@@ -35,5 +35,13 @@ namespace MikroagressziWiki.Api.Controllers
                 Entries = entries
             };
         }
+
+        [HttpGet("getById")]
+        public object GetById([FromQuery] Guid entryId)
+        {
+            var entry = _context.Entries.SingleOrDefault(q => q.Id == entryId.ToString());
+
+            return entry;
+        }
     }
 }

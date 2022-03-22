@@ -11,6 +11,7 @@ import {Entry} from "../../models/entry";
 })
 export class CategoryComponent implements OnInit {
   public categoryId: string = '';
+  public categoryTitle: string = '';
   public entries: Entry[] = [];
 
   constructor(private route: ActivatedRoute, private entryService: EntryService) { }
@@ -22,7 +23,10 @@ export class CategoryComponent implements OnInit {
 
       if (this.categoryId) {
         this.entryService.getBy(this.categoryId)
-          .subscribe((data: any) => {this.entries = data.entries; console.dir(data);});
+          .subscribe((data: any) => {
+            this.categoryTitle = data.name;
+            this.entries = data.entries;
+          });
       }
     });
   }
