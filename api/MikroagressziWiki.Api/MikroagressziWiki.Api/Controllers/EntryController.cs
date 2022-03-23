@@ -25,10 +25,11 @@ namespace MikroagressziWiki.Api.Controllers
         }
 
         [HttpGet("getBy")]
-        public object GetBy([FromQuery] Guid categoryId)
+        public object GetBy([FromQuery] string categoryId)
         {
-            var category = _context.Categories.SingleOrDefault(q => q.Id == categoryId.ToString());
-            var entries = _context.Entries.Where(q => q.Categories.Any(w => w.Id == categoryId.ToString())).ToList();
+            var category = _context.Categories.SingleOrDefault(q => q.Id == categoryId);
+            var entries = _context.Entries
+                .Where(q => q.Categories.Any(w => w.Id == categoryId)).ToList();
 
             return new
             {
@@ -39,12 +40,12 @@ namespace MikroagressziWiki.Api.Controllers
         }
 
         [HttpGet("getById")]
-        public object GetById([FromQuery] Guid entryId)
+        public object GetById([FromQuery] string entryId)
         {
             var entry = _context.Entries
                 .Include(q => q.Categories)
                 .Include(q => q.Entryresources)
-                .SingleOrDefault(q => q.Id == entryId.ToString());
+                .SingleOrDefault(q => q.Id == entryId));
 
             foreach (var c in entry.Categories)
             {
