@@ -34,7 +34,8 @@
         <mat-card
           [routerLink]="['/entry']"
           [queryParams]="{ id: entry.id}"
-          *ngFor="let entry of entries">
+          [@enter1]="{ value: '', params: { delay: i * 300 } }"
+          *ngFor="let entry of entries; let i = index">
           <mat-card-title>
             {{ entry.title }}
           </mat-card-title>

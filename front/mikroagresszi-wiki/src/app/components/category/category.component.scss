@@ -103,8 +103,7 @@
     .category-card-result-set {
       display: flex;
       flex-flow: wrap;
-      justify-content: start;
-      margin: 1.5rem 0;
+      justify-content: flex-start;
 
       @media (min-width: 601px) {
         width: calc(100% - 17rem);
@@ -119,7 +118,6 @@
         border-radius: 0;
         background: map-get(mat.$gray-palette, 200);
         cursor: pointer;
-        height: 17rem;
         padding: 1.5rem;
 
 
@@ -165,16 +163,26 @@
 }
 
 @media (min-width: 601px) {
-  mat-card {
-    margin-bottom: 1rem;
-    margin-right: 1rem;
-    width: 12rem;
+  .category-card-result-set {
+    margin: 1.5rem 0;
+
+    mat-card {
+      height: 17rem;
+      margin-bottom: 1rem;
+      margin-right: 1rem;
+      width: 12rem;
+    }
   }
 }
 
 @media (max-width: 600px) {
-  mat-card {
-    margin-bottom: 1rem;
-    width: 100%;
+  .category-card-result-set {
+    margin: 1.5rem 0 0;
+
+    mat-card {
+      height: 14rem;
+      margin-bottom: 1rem;
+      width: 100%;
+    }
   }
 }

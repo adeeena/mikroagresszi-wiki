@@ -1,7 +1,8 @@
-import {Component, Inject, OnInit} from '@angular/core';
+import {Component, HostListener, Inject, OnInit} from '@angular/core';
 import {ActivatedRoute} from "@angular/router";
 import {EntryService} from "../../services/entry.service";
 import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
+import {fadeInUpOnEnterAnimation} from "angular-animations";
 
 export interface DialogData {
   link: string;
@@ -10,11 +11,17 @@ export interface DialogData {
 @Component({
   selector: 'app-entry',
   templateUrl: './entry.component.html',
-  styleUrls: ['./entry.component.scss']
+  styleUrls: ['./entry.component.scss'],
+  animations: [
+    fadeInUpOnEnterAnimation({ anchor: 'enter1', duration: 1000, delay: 100, translate: '30px' }),
+    fadeInUpOnEnterAnimation({ anchor: 'enter2', duration: 1000, delay: 300, translate: '30px' }),
+    fadeInUpOnEnterAnimation({ anchor: 'enter3', duration: 1000, delay: 500, translate: '30px' }),
+  ]
 })
 export class EntryComponent implements OnInit {
   public entryId: string = '';
   public entry: any;
+  private innerWidth: number = 0;
 
   constructor(private route: ActivatedRoute,
               private entryService: EntryService,
@@ -34,9 +41,14 @@ export class EntryComponent implements OnInit {
     });
   }
 
+  @HostListener('window:resize', ['$event'])
+  onResize(event: any) {
+    this.innerWidth = window.innerWidth;
+  }
+
   openShareDialog(): void {
     this.dialog.open(DialogElementsExampleDialog, {
-      width: '50vw',
+      width: this.innerWidth <= 600 ? '90vw' : '50vw',
       data: {
         link: location.origin + '/entry/' + this.entryId
       }

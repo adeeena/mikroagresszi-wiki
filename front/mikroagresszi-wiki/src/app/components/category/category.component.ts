@@ -1,13 +1,16 @@
 import { Component, OnInit } from '@angular/core';
 import {ActivatedRoute} from "@angular/router";
 import {EntryService} from "../../services/entry.service";
-import {Category} from "../../models/category";
 import {Entry} from "../../models/entry";
+import {fadeInUpOnEnterAnimation} from "angular-animations";
 
 @Component({
   selector: 'app-category',
   templateUrl: './category.component.html',
-  styleUrls: ['./category.component.scss']
+  styleUrls: ['./category.component.scss'],
+  animations: [
+    fadeInUpOnEnterAnimation({ anchor: 'enter1', duration: 1000, translate: '30px' }),
+  ]
 })
 export class CategoryComponent implements OnInit {
   public categoryId: string = '';

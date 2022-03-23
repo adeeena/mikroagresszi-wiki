@@ -6,18 +6,13 @@
   min-height: 90vh;
 
   .entry-content {
-    padding: 5rem 15vw;
-
     .entry-title {
       font-family: Merriweather;
       font-size: 2rem;
       line-height: 3rem;
-      margin-bottom: 2rem;
     }
 
     .entry-categories {
-      margin-bottom: 2rem;
-
       mat-chip {
         cursor: pointer;
       }
@@ -26,7 +21,6 @@
     .separator {
       background: map-get(mat.$gray-palette, 600);
       height: 1px;
-      margin-bottom: 2rem;
       width: 100%;
     }
 
@@ -52,10 +46,13 @@
   }
 }
 
+.mat-dialog-content {
+  overflow: hidden;
 
-input {
-  padding: .5rem;
-  width: 95%;
+  input {
+    padding: .5rem;
+    width: 95%;
+  }
 }
 
 .close-button-container {
@@ -66,8 +63,28 @@ input {
     border: 0;
     border-radius: 5px;
     background: map-get(mat.$gray-palette, 200);
-    padding: .5rem;
+//    padding: .5rem;
     margin-top: 1rem;
+  }
+}
+
+@media (min-width: 601px) {
+  .entry-content {
+    padding: 5rem 15vw;
+
+    .entry-title, .entry-categories, .separator {
+      margin-bottom: 2rem;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .entry-content {
+    padding: 5rem 1.5rem;
+
+    .entry-title, .entry-categories, .separator {
+      margin-bottom: 1.5rem;
+    }
   }
 }
 

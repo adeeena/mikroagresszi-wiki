@@ -2,11 +2,11 @@
   <div class="gray-box header-card">
     <div class="header-card-content">
       <div class="logo">
-        <span class="light">Mikro</span>
-        <span class="normal">agresszi</span><span class="normal">.wiki</span>
+        <span class="light" [@enter1]>Mikro</span>
+        <span class="normal" [@enter2]>agresszi</span><span class="normal" [@enter3]>.wiki</span>
       </div>
 
-      <p>
+      <p [@enter4]>
 <!--        Interaktív mini-enciklopédia <br />-->
 <!--        a mikroagressziókról és azok hatásáról.-->
         Interactive mini-encyclopaedia<br />
@@ -57,7 +57,7 @@
         Offer a genuine apology without making excuses
       </p>
 
-      <button class="learn-more-button" mat-raised-button color="accent">
+      <button class="learn-more-button" mat-raised-button color="accent" [routerLink]="['/more-info']">
         Learn more
       </button>
     </div>

@@ -1,10 +1,10 @@
 <div class="content">
   <div class="entry-content" *ngIf="entry">
-    <div class="entry-title">
+    <div class="entry-title" [@enter1]>
       {{entry.title}}
     </div>
 
-    <div class="entry-categories">
+    <div class="entry-categories" [@enter2]>
       <mat-chip-list
         class="example-chip">
         <mat-chip
@@ -17,13 +17,13 @@
       </mat-chip-list>
     </div>
 
-    <div class="separator"></div>
+    <div class="separator" [@enter2]></div>
 
-    <div class="entry-description">
+    <div class="entry-description" [@enter3]>
       {{entry.description}}
     </div>
 
-    <div class="entry-actions">
+    <div class="entry-actions" [@enter3]>
       <div class="back-to-home">
         <a [routerLink]="['/']">
           <!--            Vissza a főoldalra-->
