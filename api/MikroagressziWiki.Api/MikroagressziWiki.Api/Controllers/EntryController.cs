@@ -45,7 +45,7 @@ namespace MikroagressziWiki.Api.Controllers
             var entry = _context.Entries
                 .Include(q => q.Categories)
                 .Include(q => q.Entryresources)
-                .SingleOrDefault(q => q.Id == entryId));
+                .SingleOrDefault(q => q.Id == entryId);
 
             foreach (var c in entry.Categories)
             {
