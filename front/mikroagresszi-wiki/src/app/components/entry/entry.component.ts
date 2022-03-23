@@ -50,7 +50,7 @@ export class EntryComponent implements OnInit {
     this.dialog.open(DialogElementsExampleDialog, {
       width: this.innerWidth <= 600 ? '90vw' : '50vw',
       data: {
-        link: location.origin + '/entry/' + this.entryId
+        link: location.origin + '/#/entry/' + this.entryId
       }
     });
   }
