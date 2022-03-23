@@ -7,14 +7,6 @@
     justify-content: space-between;
     min-height: 90vh;
 
-    @media (min-width: 601px) {
-      flex-direction: row;
-    }
-
-    @media (max-width: 600px) {
-      flex-direction: column;
-    }
-
     a {
       color: map-get(mat.$gray-palette, 500);
     }
@@ -23,29 +15,11 @@
       background: map-get(mat.$gray-palette, 900);
       padding-top: 5rem;
 
-
-      @media (min-width: 601px) {
-        width: 15rem;
-      }
-
-      @media (max-width: 600px) {
-        width: 100%;
-        padding-bottom: 2rem;
-      }
-
       .back-to-home {
         margin-bottom: 1rem;
 
         a {
           font-size: .8rem;
-
-          @media (min-width: 601px) {
-            margin-left: 1.5rem;
-          }
-
-          @media (max-width: 600px) {
-            margin-left: 2rem;
-          }
         }
       }
 
@@ -55,39 +29,15 @@
         font-size: 1.8rem;
         margin-bottom: 2vh;
         text-transform: uppercase;
-
-        @media (min-width: 601px) {
-          margin-left: 1.5rem;
-        }
-
-        @media (max-width: 600px) {
-          margin-left: 2rem;
-        }
       }
 
       .category-card-description {
         color: map-get(mat.$gray-palette, 600);
         font-size: .8rem;
         margin: 0 1.5rem;
-
-        @media (min-width: 601px) {
-          margin: 0 1.5rem;
-        }
-
-        @media (max-width: 600px) {
-          margin: 0 2rem;
-        }
       }
 
       .add-new {
-        @media (min-width: 601px) {
-          margin: 2rem 1.5rem 0;
-        }
-
-        @media (max-width: 600px) {
-          margin: 2rem 2rem 0;
-        }
-
         .add-new-title {
           color: map-get(mat.$gray-palette, 200);
         }
@@ -95,7 +45,6 @@
         .add-new-description {
           color: map-get(mat.$gray-palette, 600);
           font-size: .8rem;
-
         }
       }
     }
@@ -105,27 +54,17 @@
       flex-flow: wrap;
       justify-content: flex-start;
 
-      @media (min-width: 601px) {
-        width: calc(100% - 17rem);
-      }
-
-      @media (max-width: 600px) {
-        width: calc(100%);
-      }
-
-
       mat-card {
         border-radius: 0;
         background: map-get(mat.$gray-palette, 200);
         cursor: pointer;
         padding: 1.5rem;
 
-
         mat-card-title {
           font-family: Merriweather;
-          font-size: 1.8rem;
+          font-size: 1.4rem;
           font-weight: 400;
-          line-height: 2.5rem;
+          line-height: 2rem;
         }
 
         mat-card-actions {
@@ -163,21 +102,76 @@
 }
 
 @media (min-width: 601px) {
+  .category-card-content {
+    flex-direction: row;
+
+    .category-card-side-content {
+      width: 18rem;
+
+      .back-to-home {
+        a {
+          margin-left: 1.5rem;
+        }
+      }
+
+      .category-card-title {
+        margin-left: 1.5rem;
+      }
+
+      .category-card-description {
+        margin: 0 1.5rem;
+      }
+
+      .add-new {
+        margin: 2rem 1.5rem 0;
+      }
+    }
+  }
+
   .category-card-result-set {
     margin: 1.5rem 0;
+    width: calc(100% - 20rem);
 
     mat-card {
       height: 17rem;
       margin-bottom: 1rem;
       margin-right: 1rem;
-      width: 12rem;
+      width: 14rem;
     }
   }
 }
 
 @media (max-width: 600px) {
+  .category-card-content {
+    flex-direction: column;
+
+    .category-card-side-content {
+      padding-bottom: 2rem;
+      width: 100%;
+
+      .back-to-home {
+        a {
+          margin-left: 2rem;
+        }
+      }
+
+      .category-card-title {
+        margin-left: 2rem;
+      }
+
+      .category-card-description {
+        margin: 0 2rem;
+      }
+
+      .add-new {
+        margin: 2rem 2rem 0;
+      }
+    }
+  }
+
   .category-card-result-set {
     margin: 1.5rem 0 0;
+    width: calc(100%);
 
     mat-card {
       height: 14rem;
