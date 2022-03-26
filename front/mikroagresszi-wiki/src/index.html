@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>mikroagresszi.wiki</title>
+  <title>Interaktív Mikroagresszió Mini-Enciklopédia</title>
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -12,7 +12,9 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'G-VL8J5V3RTQ');
+    gtag('config', 'G-VL8J5V3RTQ', {
+      'page_path': location.pathname + location.hash
+    });
   </script>
 
   <link rel="icon" type="image/x-icon" href="favicon.ico">
