@@ -88,9 +88,9 @@
           height: 5rem;
 
           .content-fade-out {
-            background: -moz-linear-gradient(top, transparent 0%, map-get(mat.$gray-palette, 200) 100%); /* FF3.6-15 */
-            background: -webkit-linear-gradient(top, transparent 0%, map-get(mat.$gray-palette, 200) 100%); /* Chrome10-25,Safari5.1-6 */
-            background: linear-gradient(to bottom, transparent 0%, map-get(mat.$gray-palette, 200) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            background: -moz-linear-gradient(top, transparent 0%, #EEEEEE 100%); /* FF3.6-15 */
+            background: -webkit-linear-gradient(top, transparent 0%, #EEEEEE 100%); /* Chrome10-25,Safari5.1-6 */
+            background: linear-gradient(to bottom, transparent 0%, #EEEEEE 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
             position: absolute;
             bottom: 0;
             height: 3rem;
