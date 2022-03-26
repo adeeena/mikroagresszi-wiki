@@ -25,6 +25,7 @@
 
     .idea-from {
       font-size: .8rem;
+      margin-top: .5rem;
     }
 
     .links {
@@ -35,33 +36,35 @@
         text-transform: uppercase;
       }
 
-      .link-list {
-        display: flex;
-
-        a {
-          background: map-get(mat.$amber-palette, 400);
-          border-radius: 50px;
-          justify-content: center;
+      .links-flex {
+        .link-list {
           display: flex;
-          height: 2.5rem;
-          margin-right: 1rem;
-          width: 2.5rem;
 
-          fa-icon {
-            align-self: center;
-            color: map-get(mat.$gray-palette, 900);
-            font-size: 1.3rem;
+          a {
+            background: map-get(mat.$amber-palette, 400);
+            border-radius: 50px;
+            justify-content: center;
+            display: flex;
+            height: 2.5rem;
+            margin-right: 1rem;
+            width: 2.5rem;
+
+            fa-icon {
+              align-self: center;
+              color: map-get(mat.$gray-palette, 900);
+              font-size: 1.3rem;
+            }
           }
         }
-      }
-    }
 
-    .email {
-      margin: 1rem 0;
+        .email {
+          margin: 1rem 0;
 
-      a {
-        font-weight: bold;
-        text-decoration: none;
+          a {
+            font-weight: bold;
+            text-decoration: none;
+          }
+        }
       }
     }
   }

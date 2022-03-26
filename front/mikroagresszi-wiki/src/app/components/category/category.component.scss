@@ -25,7 +25,7 @@
 
       .category-card-title {
         color: map-get(mat.$gray-palette, 200);
-        font-family: Merriweather;
+        //font-family: Merriweather;
         font-size: 1.8rem;
         line-height: 2.5rem;
         margin-bottom: 2vh;
@@ -61,7 +61,7 @@
         padding: 1.5rem;
 
         mat-card-title {
-          font-family: Merriweather;
+          //font-family: Merriweather;
           font-size: 1.4rem;
           font-weight: 400;
           line-height: 2rem;

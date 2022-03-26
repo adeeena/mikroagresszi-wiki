@@ -7,7 +7,7 @@
 
   .entry-content {
     .entry-title {
-      font-family: Merriweather;
+      //font-family: Merriweather;
       font-size: 2rem;
       line-height: 3rem;
     }
@@ -52,7 +52,7 @@
 
   input {
     padding: .5rem;
-    width: 95%;
+    width: calc(100% - 1rem);
   }
 }
 
