@@ -44,6 +44,15 @@
         color: map-get(mat.$gray-palette, 500);
       }
     }
+
+    .disclaimer {
+      color: map-get(mat.$gray-palette, 500);
+      margin-top: 2rem;
+
+      a {
+        color: map-get(mat.$gray-palette, 500);
+      }
+    }
   }
 }
 

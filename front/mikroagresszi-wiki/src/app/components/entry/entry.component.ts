@@ -16,6 +16,7 @@ export interface DialogData {
     fadeInUpOnEnterAnimation({ anchor: 'enter1', duration: 1000, delay: 100, translate: '30px' }),
     fadeInUpOnEnterAnimation({ anchor: 'enter2', duration: 1000, delay: 300, translate: '30px' }),
     fadeInUpOnEnterAnimation({ anchor: 'enter3', duration: 1000, delay: 500, translate: '30px' }),
+    fadeInUpOnEnterAnimation({ anchor: 'enter4', duration: 1000, delay: 2000, translate: '30px' }),
   ]
 })
 export class EntryComponent implements OnInit {
