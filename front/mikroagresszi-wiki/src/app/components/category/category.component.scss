@@ -88,9 +88,9 @@
           height: 5rem;
 
           .content-fade-out {
-            background: -moz-linear-gradient(top, transparent 0%, #EEEEEE 100%); /* FF3.6-15 */
-            background: -webkit-linear-gradient(top, transparent 0%, #EEEEEE 100%); /* Chrome10-25,Safari5.1-6 */
-            background: linear-gradient(to bottom, transparent 0%, #EEEEEE 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            background: -moz-linear-gradient(top, transparent 0%, blue 100%); /* FF3.6-15 */
+            background: -webkit-linear-gradient(top, transparent 0%, blue 100%); /* Chrome10-25,Safari5.1-6 */
+            background: linear-gradient(to bottom, transparent 0%, blue 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
             position: absolute;
             bottom: 0;
             height: 3rem;
@@ -103,12 +103,12 @@
   }
 }
 
-@media (min-width: 601px) {
+@media (min-width: 901px) {
   .category-card-content {
     flex-direction: row;
 
     .category-card-side-content {
-      width: 18rem;
+      width: 19rem;
 
       .back-to-home {
         a {
@@ -132,7 +132,7 @@
 
   .category-card-result-set {
     margin: 1.5rem 0;
-    width: calc(100% - 20rem);
+    width: calc(100% - 21rem);
 
     mat-card {
       height: 17rem;
@@ -143,6 +143,48 @@
   }
 }
 
+// iPad Mini 6
+@media (max-width: 900px) {
+  .category-card-content {
+    flex-direction: row;
+
+    .category-card-side-content {
+      width: 19rem;
+
+      .back-to-home {
+        a {
+          margin-left: 1.5rem;
+        }
+      }
+
+      .category-card-title {
+        margin-left: 1.5rem;
+      }
+
+      .category-card-description {
+        margin: 0 1.5rem;
+      }
+
+      .add-new {
+        margin: 2rem 1.5rem 0;
+      }
+    }
+  }
+
+  .category-card-result-set {
+    margin: 1.5rem 0;
+    width: calc(100% - 20.5rem);
+
+    mat-card {
+      min-height: 8rem;
+      margin-bottom: 1rem;
+      margin-right: 1.5rem;
+      width: 100%;
+    }
+  }
+}
+
+// iPhone XS Max
 @media (max-width: 600px) {
   .category-card-content {
     flex-direction: column;
