@@ -3,6 +3,7 @@ import {ActivatedRoute} from "@angular/router";
 import {EntryService} from "../../services/entry.service";
 import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
 import {fadeInUpOnEnterAnimation} from "angular-animations";
+import {Title} from "@angular/platform-browser";
 
 export interface DialogData {
   link: string;
@@ -26,6 +27,7 @@ export class EntryComponent implements OnInit {
 
   constructor(private route: ActivatedRoute,
               private entryService: EntryService,
+              private titleService: Title,
               public dialog: MatDialog) { }
 
   ngOnInit(): void {
@@ -36,6 +38,7 @@ export class EntryComponent implements OnInit {
         this.entryService.getById(this.entryId)
           .subscribe((data: any) => {
             this.entry = data;
+            this.titleService.setTitle(data.title + ' | MiniagressziWiki');
           });
       }
     });

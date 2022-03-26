@@ -3,6 +3,7 @@ import {ActivatedRoute} from "@angular/router";
 import {EntryService} from "../../services/entry.service";
 import {Entry} from "../../models/entry";
 import {fadeInUpOnEnterAnimation} from "angular-animations";
+import {Title} from "@angular/platform-browser";
 
 @Component({
   selector: 'app-category',
@@ -18,7 +19,8 @@ export class CategoryComponent implements OnInit {
   public categoryDescription: string = '';
   public entries: Entry[] = [];
 
-  constructor(private route: ActivatedRoute, private entryService: EntryService) { }
+  constructor(private route: ActivatedRoute, private entryService: EntryService,
+              private titleService: Title) { }
 
   ngOnInit(): void {
     this.route.queryParamMap.subscribe(params =>
@@ -31,6 +33,8 @@ export class CategoryComponent implements OnInit {
             this.categoryTitle = data.name;
             this.categoryDescription = data.description;
             this.entries = data.entries;
+
+            this.titleService.setTitle(data.name + ' | MiniagressziWiki');
           });
       }
     });

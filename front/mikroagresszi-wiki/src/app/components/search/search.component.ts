@@ -3,6 +3,7 @@ import {Entry} from "../../models/entry";
 import {ActivatedRoute} from "@angular/router";
 import {EntryService} from "../../services/entry.service";
 import {fadeInUpOnEnterAnimation} from "angular-animations";
+import {Title} from "@angular/platform-browser";
 
 @Component({
   selector: 'app-search',
@@ -17,7 +18,9 @@ export class SearchComponent implements OnInit {
   public count: number = 0;
   public entries: Entry[] = [];
 
-  constructor(private route: ActivatedRoute, private entryService: EntryService) { }
+  constructor(private route: ActivatedRoute,
+              private entryService: EntryService,
+              private titleService: Title) { }
 
   ngOnInit(): void {
     this.route.queryParamMap.subscribe(params =>
@@ -25,6 +28,8 @@ export class SearchComponent implements OnInit {
       this.query = (params as any).params.query;
 
       if (this.query) {
+        this.titleService.setTitle('Keresés: ' + this.query + ' | MikroagressziWiki');
+        
         this.entryService.searchBy(this.query)
           .subscribe((data: any) => {
             this.count = data.count;

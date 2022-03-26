@@ -1,6 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {fadeInUpOnEnterAnimation} from "angular-animations";
 import {Router} from "@angular/router";
+import {Title} from "@angular/platform-browser";
 
 @Component({
   selector: 'app-home',
@@ -18,11 +19,12 @@ export class HomeComponent implements OnInit {
   private searchText: string = '';
   private _router: Router;
 
-  constructor(_router: Router) {
+  constructor(_router: Router, private titleService: Title) {
     this._router = _router;
   }
 
   ngOnInit(): void {
+    this.titleService.setTitle('Interaktív Mikroagresszió Mini-Enciklopédia');
   }
 
   searchClicked(): void {
