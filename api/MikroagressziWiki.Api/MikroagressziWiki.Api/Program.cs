@@ -1,5 +1,9 @@
 using Microsoft.EntityFrameworkCore;
+using Mikroagresszi.Logic.BusinessLogic;
+using Mikroagresszi.Logic.BusinessLogic.Interfaces;
 using MikroagressziWiki.Domain.Models;
+using MikroagressziWiki.Logic.BusinessLogic;
+using MikroagressziWiki.Logic.BusinessLogic.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +13,13 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddMemoryCache();
+
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddScoped<ICategoryLogic, CategoryLogic>();
+builder.Services.AddScoped<IEntryLogic, EntryLogic>();
+
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<MikroagressziContext>(options =>

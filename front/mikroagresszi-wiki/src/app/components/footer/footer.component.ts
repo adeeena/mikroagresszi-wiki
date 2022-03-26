@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { faGithub, faDiscord, faPatreon, faDev } from "@fortawesome/free-brands-svg-icons";
-import {faEnvelope} from "@fortawesome/free-solid-svg-icons";
+import { faGithub, faDiscord, faPatreon, faDev, faPaypal } from "@fortawesome/free-brands-svg-icons";
+import {faMugSaucer} from "@fortawesome/free-solid-svg-icons";
 
 @Component({
   selector: 'app-footer',
@@ -10,8 +10,9 @@ import {faEnvelope} from "@fortawesome/free-solid-svg-icons";
 export class FooterComponent implements OnInit {
   faGithub = faGithub;
   faDiscord = faDiscord;
-  faEnvelope = faEnvelope;
+  faPaypal = faPaypal;
   faPatreon = faPatreon;
+  faMugSaucer = faMugSaucer;
   faDev = faDev;
 
   constructor() { }

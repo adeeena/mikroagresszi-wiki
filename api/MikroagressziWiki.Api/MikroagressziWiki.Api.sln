@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MikroagressziWiki.Api", "MikroagressziWiki.Api\MikroagressziWiki.Api.csproj", "{F3B67BBF-0659-4450-8DFE-652FDB05DA4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MikroagressziWiki.Api", "MikroagressziWiki.Api\MikroagressziWiki.Api.csproj", "{F3B67BBF-0659-4450-8DFE-652FDB05DA4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MikroagressziWiki.Domain", "MikroagressziWiki.Domain\MikroagressziWiki.Domain.csproj", "{C575E465-3221-4A86-9762-0A3940BB7C6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MikroagressziWiki.Domain", "MikroagressziWiki.Domain\MikroagressziWiki.Domain.csproj", "{C575E465-3221-4A86-9762-0A3940BB7C6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MikroagressziWiki.Logic", "MikroagressziWiki.Logic\MikroagressziWiki.Logic.csproj", "{7B43FFFD-13A7-432F-8A2E-8994623C141A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MikroagressziWiki.Core", "MikroagressziWiki.Core\MikroagressziWiki.Core.csproj", "{0200077B-B0BC-465A-B3DC-75FB72D9042C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{C575E465-3221-4A86-9762-0A3940BB7C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C575E465-3221-4A86-9762-0A3940BB7C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C575E465-3221-4A86-9762-0A3940BB7C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B43FFFD-13A7-432F-8A2E-8994623C141A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B43FFFD-13A7-432F-8A2E-8994623C141A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B43FFFD-13A7-432F-8A2E-8994623C141A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B43FFFD-13A7-432F-8A2E-8994623C141A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0200077B-B0BC-465A-B3DC-75FB72D9042C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0200077B-B0BC-465A-B3DC-75FB72D9042C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0200077B-B0BC-465A-B3DC-75FB72D9042C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0200077B-B0BC-465A-B3DC-75FB72D9042C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

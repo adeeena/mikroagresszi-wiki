@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MikroagressziWiki.Domain.Models;
+using MikroagressziWiki.Logic.BusinessLogic.Interfaces;
+using MikroagressziWiki.Logic.Models;
 
 namespace MikroagressziWiki.Api.Controllers
 {
@@ -10,49 +12,30 @@ namespace MikroagressziWiki.Api.Controllers
     {
         private readonly ILogger<EntryController> _logger;
 
-        private readonly MikroagressziContext _context;
+        private readonly IEntryLogic _entryLogic;
 
-        public EntryController(ILogger<EntryController> logger, MikroagressziContext context)
+        public EntryController(ILogger<EntryController> logger, IEntryLogic entryLogic)
         {
             _logger = logger;
-            _context = context;
-        }
-
-        [HttpGet("categories")]
-        public IEnumerable<Category> Get()
-        {
-            return _context.Categories.OrderBy(q => q.Order).ToList();
+            _entryLogic = entryLogic;
         }
 
         [HttpGet("getBy")]
-        public object GetBy([FromQuery] string categoryId)
+        public CategoryEntriesResultModel GetBy([FromQuery] string categoryId)
         {
-            var category = _context.Categories.SingleOrDefault(q => q.Id == categoryId);
-            var entries = _context.Entries
-                .Where(q => q.Categories.Any(w => w.Id == categoryId)).ToList();
-
-            return new
-            {
-                Name = category.Name,
-                Description = category.Description,
-                Entries = entries
-            };
+            return _entryLogic.GetBy(categoryId);
         }
 
         [HttpGet("getById")]
         public object GetById([FromQuery] string entryId)
         {
-            var entry = _context.Entries
-                .Include(q => q.Categories)
-                .Include(q => q.Entryresources)
-                .SingleOrDefault(q => q.Id == entryId);
+            return _entryLogic.GetById(entryId);
+        }
 
-            foreach (var c in entry.Categories)
-            {
-                c.Entries = null;
-            }
-
-            return entry;
+        [HttpGet("searchBy")]
+        public object searchBy([FromQuery] string query)
+        {
+            return _entryLogic.SearchBy(query);
         }
     }
 }

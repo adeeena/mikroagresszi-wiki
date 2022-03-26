@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import {EntryService} from "../../services/entry.service";
 import {Category} from "../../models/category";
 import { Output, EventEmitter } from '@angular/core';
+import {CategoryService} from "../../services/category.service";
 
 @Component({
   selector: 'app-sidebar',
@@ -12,12 +12,12 @@ export class SidebarComponent implements OnInit {
   @Output() closing = new EventEmitter<string>();
   public categories: Category[] = [];
 
-  constructor(private entryService: EntryService) {
+  constructor(private categoryService: CategoryService) {
   }
 
   ngOnInit(): void {
-    this.entryService.getCategories()
-      .subscribe((data: Category[]) => {this.categories = data; console.dir(data);});
+    this.categoryService.getCategories()
+      .subscribe((data: Category[]) => {this.categories = data;});
   }
 
   linkClicked(): void {
@@ -25,5 +25,4 @@ export class SidebarComponent implements OnInit {
       this.closing.emit('');
     }
   }
-
 }

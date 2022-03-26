@@ -1,0 +1,57 @@
+<div class="content">
+  <div class="category-card">
+    <div class="category-card-content">
+      <div class="category-card-side-content">
+        <div class="back-to-home">
+          <a [routerLink]="['/']">
+            Vissza a főoldalra
+          </a>
+        </div>
+
+        <div class="category-card-title">
+          Keresés
+        </div>
+
+        <div class="category-card-description">
+          "{{query}}"
+        </div>
+
+        <div class="add-new">
+          <div class="add-new-title">
+            Hiányzik valami?
+          </div>
+
+          <div class="add-new-description">
+            <a href="https://link.adena.dev/mawform">Ezen az űrlapon</a> hozzáadhatsz új bejegyzést.
+          </div>
+        </div>
+      </div>
+
+      <div class="category-card-result-set">
+        <mat-card
+          [routerLink]="['/entry']"
+          [queryParams]="{ id: entry.id}"
+          [@enter1]="{ value: '', params: { delay: i * 300 } }"
+          *ngFor="let entry of entries; let i = index">
+          <mat-card-title>
+            {{ entry.title }}
+          </mat-card-title>
+
+          <div class="separator"></div>
+
+          <div class="card-content">
+            <div>{{ entry.description }}</div>
+
+            <div class="content-fade-out"></div>
+          </div>
+
+          <mat-card-actions>
+            <button mat-icon-button>
+              <mat-icon>call_made</mat-icon>
+            </button>
+          </mat-card-actions>
+        </mat-card>
+      </div>
+    </div>
+  </div>
+</div>

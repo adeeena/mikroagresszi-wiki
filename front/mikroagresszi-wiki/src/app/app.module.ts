@@ -22,6 +22,7 @@ import {FormsModule} from "@angular/forms";
 import {MatDialogModule} from "@angular/material/dialog";
 import { MoreInfoComponent } from './components/more-info/more-info.component';
 import {MatExpansionModule} from "@angular/material/expansion";
+import { SearchComponent } from './components/search/search.component';
 
 
 @NgModule({
@@ -33,7 +34,8 @@ import {MatExpansionModule} from "@angular/material/expansion";
     CategoryComponent,
     EntryComponent,
     MoreInfoComponent,
-    DialogElementsExampleDialog
+    DialogElementsExampleDialog,
+    SearchComponent
   ],
   imports: [
     BrowserModule,

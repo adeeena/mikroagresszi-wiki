@@ -36,37 +36,36 @@
         text-transform: uppercase;
       }
 
-      .links-flex {
-        .link-list {
+      .link-list {
+        display: flex;
+
+        a {
+          background: map-get(mat.$amber-palette, 400);
+          border-radius: 50px;
+          justify-content: center;
           display: flex;
+          height: 2.5rem;
+          margin-right: 1rem;
+          width: 2.5rem;
 
-          a {
-            background: map-get(mat.$amber-palette, 400);
-            border-radius: 50px;
-            justify-content: center;
-            display: flex;
-            height: 2.5rem;
-            margin-right: 1rem;
-            width: 2.5rem;
-
-            fa-icon {
-              align-self: center;
-              color: map-get(mat.$gray-palette, 900);
-              font-size: 1.3rem;
-            }
-          }
-        }
-
-        .email {
-          margin: 1rem 0;
-
-          a {
-            font-weight: bold;
-            text-decoration: none;
+          fa-icon {
+            align-self: center;
+            color: map-get(mat.$gray-palette, 900);
+            font-size: 1.3rem;
           }
         }
       }
     }
+
+    .email {
+      margin: 1rem 0;
+
+      a {
+        font-weight: bold;
+        text-decoration: none;
+      }
+    }
+
   }
 }
 

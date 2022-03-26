@@ -11,6 +11,22 @@
         Interaktív mini-enciklopédia<br />
         a mikroagressziókról, azok eredetéről és hatásáról.
       </p>
+
+      <div class="search-bar" [@enter5]>
+        <p>
+          Keress kulcsszavakra, vagy használd a<br />
+          menüt kategóriák böngészéséhez.
+        </p>
+
+        <form class="search-bar-form">
+          <mat-form-field class="example-full-width" appearance="fill">
+            <mat-label>Keresés</mat-label>
+            <input matInput #message maxlength="256" (keydown)="searchUpdated($event)"
+                   (keydown.enter)="searchClicked()"
+                   placeholder="pld. 'munkahely'">
+          </mat-form-field>
+        </form>
+      </div>
     </div>
   </div>
 
@@ -23,13 +39,18 @@
         A mikroagresszió olyan mindennapos bántás és sértés,
         amellyel marginalizált csoportok szembesülnek.
         Ezek gyakran nagyon finom megjegyzések vagy cselekedetek, amelyek implicit előítéletből és/vagy
-        sztereotípiákból erednek. Ezek tűnhetnek bóknak (
-        <a [routerLink]="['entry']" [queryParams]="{
+        sztereotípiákból erednek. Ezek tűnhetnek bóknak
+        (<a [routerLink]="['entry']" [queryParams]="{
           id: 'transznemu-lany-letedre-gyonyoru-vagy'
           }">"Transznemű lány létedre gyönyörű vagy"</a>),
         ártalmatlan
-        megjegyzésnek ("Honnan származol valójában?") vagy tudatalatti cselekvésnek (átkelés az utca túloldalára,
-        hogy elkerülj egy színes bőrű személyt).
+        megjegyzésnek
+        (<a [routerLink]="['entry']" [queryParams]="{
+          id: 'honnan-szarmazol-valojaban'
+          }">"Honnan származol valójában?"</a>) vagy tudatalatti cselekvésnek
+        (<a [routerLink]="['entry']" [queryParams]="{
+          id: 'szemkontaktus-kerulese-a-kisebbsegi-szinesboru-munkatarsakkal'
+          }">Szemkontaktus kerülése a kisebbségi/színesbőrű munkatársakkal</a>).
       </p>
 
       <h4>Hogyan lehet elkerülni?</h4>

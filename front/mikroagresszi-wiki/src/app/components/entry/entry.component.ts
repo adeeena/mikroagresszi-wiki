@@ -36,7 +36,6 @@ export class EntryComponent implements OnInit {
         this.entryService.getById(this.entryId)
           .subscribe((data: any) => {
             this.entry = data;
-            console.dir(this.entry);
           });
       }
     });
