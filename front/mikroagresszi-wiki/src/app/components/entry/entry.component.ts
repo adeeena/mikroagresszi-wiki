@@ -38,6 +38,7 @@ export class EntryComponent implements OnInit {
         this.entryService.getById(this.entryId)
           .subscribe((data: any) => {
             this.entry = data;
+            console.dir(data);
             this.titleService.setTitle(data.title + ' | MiniagressziWiki');
           });
       }

@@ -2,7 +2,7 @@
 @import '../../../styles';
 
 .content {
-  background: map-get(mat.$gray-palette, 200);
+  background: map-get(mat.$gray-palette, 100);
   min-height: 90vh;
 
   .entry-content {
@@ -47,10 +47,19 @@
 
     .disclaimer {
       color: map-get(mat.$gray-palette, 500);
-      margin-top: 2rem;
+      margin: 2rem 0;
 
       a {
         color: map-get(mat.$gray-palette, 500);
+      }
+    }
+
+    .might-interest-you {
+      margin: 2rem auto 0;
+
+      .might-interest-you-result-set {
+        display: flex;
+        flex-wrap: wrap;
       }
     }
   }

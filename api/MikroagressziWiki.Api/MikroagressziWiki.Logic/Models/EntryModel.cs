@@ -1,9 +1,4 @@
 ﻿using Mikroagresszi.Logic.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MikroagressziWiki.Logic.Models
 {
@@ -14,5 +9,7 @@ namespace MikroagressziWiki.Logic.Models
         public string Description { get; set; }
 
         public IList<CategoryModel> Categories { get; set; }
+
+        public IList<EntryModel> RelatedEntries { get; set; }
     }
 }

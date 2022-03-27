@@ -53,52 +53,6 @@
       display: flex;
       flex-flow: wrap;
       justify-content: flex-start;
-
-      mat-card {
-        border-radius: 0;
-        background: map-get(mat.$gray-palette, 200);
-        cursor: pointer;
-        padding: 1.5rem;
-
-        mat-card-title {
-          //font-family: Merriweather;
-          font-size: 1.4rem;
-          font-weight: 400;
-          line-height: 2rem;
-        }
-
-        mat-card-actions {
-          position: absolute;
-          bottom: 1rem;
-          right: 1rem;
-        }
-
-        .separator {
-          background: map-get(mat.$gray-palette, 400);
-          height: 1px;
-          margin-bottom: 1.5rem;
-          width: 100%;
-        }
-
-        .card-content {
-          color: map-get(mat.$gray-palette, 700);
-          font-size: .8rem;
-          overflow: hidden;
-          position: relative;
-          height: 5rem;
-
-          .content-fade-out {
-            background: -moz-linear-gradient(top, rgba(238, 238, 238, 0) 0%, map-get(mat.$gray-palette, 200) 100%); /* FF3.6-15 */
-            background: -webkit-linear-gradient(top, rgba(238, 238, 238, 0) 0%, map-get(mat.$gray-palette, 200) 100%); /* Chrome10-25,Safari5.1-6 */
-            background: linear-gradient(to bottom, rgba(238, 238, 238, 0) 0%, map-get(mat.$gray-palette, 200) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-            position: absolute;
-            bottom: 0;
-            height: 3rem;
-            left: 0;
-            right: 0;
-          }
-        }
-      }
     }
   }
 }
@@ -133,13 +87,6 @@
   .category-card-result-set {
     margin: 1.5rem 0;
     width: calc(100% - 21rem);
-
-    mat-card {
-      height: 17rem;
-      margin-bottom: 1rem;
-      margin-right: 1rem;
-      width: 14rem;
-    }
   }
 }
 
@@ -175,12 +122,7 @@
     margin: 1.5rem 0;
     width: calc(100% - 20.5rem);
 
-    mat-card {
-      min-height: 8rem;
-      margin-bottom: 1rem;
-      margin-right: 1.5rem;
-      width: 100%;
-    }
+
   }
 }
 
@@ -214,13 +156,7 @@
   }
 
   .category-card-result-set {
-    margin: 1.5rem 0 0;
-    width: calc(100%);
-
-    mat-card {
-      height: 14rem;
-      margin-bottom: 1rem;
-      width: 100%;
-    }
+    margin: 1rem 0 0;
+    width: 100%;
   }
 }

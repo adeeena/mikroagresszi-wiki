@@ -23,6 +23,7 @@ import {MatDialogModule} from "@angular/material/dialog";
 import { MoreInfoComponent } from './components/more-info/more-info.component';
 import {MatExpansionModule} from "@angular/material/expansion";
 import { SearchComponent } from './components/search/search.component';
+import { EntryPreviewItemComponent } from './components/entry-preview-item/entry-preview-item.component';
 
 
 @NgModule({
@@ -35,7 +36,8 @@ import { SearchComponent } from './components/search/search.component';
     EntryComponent,
     MoreInfoComponent,
     DialogElementsExampleDialog,
-    SearchComponent
+    SearchComponent,
+    EntryPreviewItemComponent
   ],
   imports: [
     BrowserModule,

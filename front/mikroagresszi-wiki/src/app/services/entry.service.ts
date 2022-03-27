@@ -10,9 +10,9 @@ export class EntryService {
   private entryByUrl:string = 'https://api.mikroagresszi.adena.dev/entry/getById?entryId=';
   private searchByUrl:string = 'https://api.mikroagresszi.adena.dev/entry/searchBy?query=';
 
-  /*private entryUrl:string = 'http://localhost:5071/entry/getBy?categoryId=';
-  private entryByUrl:string = 'http://localhost:5071/entry/getById?entryId=';
-  private searchByUrl:string = 'http://localhost:5071/entry/searchBy?query=';*/
+  // private entryUrl:string = 'http://localhost:5071/entry/getBy?categoryId=';
+  // private entryByUrl:string = 'http://localhost:5071/entry/getById?entryId=';
+  // private searchByUrl:string = 'http://localhost:5071/entry/searchBy?query=';
 
   constructor(private http: HttpClient) { }
 

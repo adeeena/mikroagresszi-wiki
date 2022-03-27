@@ -28,29 +28,10 @@
       </div>
 
       <div class="category-card-result-set">
-        <mat-card
-          [routerLink]="['/entry']"
-          [queryParams]="{ id: entry.id}"
+        <app-entry-preview-item [entry]="entry"
           [@enter1]="{ value: '', params: { delay: i * 300 } }"
-          *ngFor="let entry of entries; let i = index">
-          <mat-card-title>
-            {{ entry.title }}
-          </mat-card-title>
-
-          <div class="separator"></div>
-
-          <div class="card-content">
-            <div>{{ entry.description }}</div>
-
-            <div class="content-fade-out"></div>
-          </div>
-
-          <mat-card-actions>
-            <button mat-icon-button>
-              <mat-icon>call_made</mat-icon>
-            </button>
-          </mat-card-actions>
-        </mat-card>
+          *ngFor="let entry of entries; let i = index"
+          ></app-entry-preview-item>
       </div>
     </div>
   </div>
