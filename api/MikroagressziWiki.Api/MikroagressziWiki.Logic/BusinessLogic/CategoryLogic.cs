@@ -43,10 +43,10 @@ namespace Mikroagresszi.Logic.BusinessLogic
 
             if (!_memoryCache.TryGetValue(CACHE_KEY, out IList<CategoryModel> cacheValue))
             {
-                var cacheEntryOptions = new MemoryCacheEntryOptions()
+                MemoryCacheEntryOptions? cacheEntryOptions = new MemoryCacheEntryOptions()
                     .SetSlidingExpiration(TimeSpan.FromMinutes(20));
 
-                var categories = _context.Categories.OrderBy(q => q.Order).ToList();
+                List<Category>? categories = _context.Categories.OrderBy(q => q.Order).ToList();
                 cacheValue = _mapper.MapCollection<Category, CategoryModel>(categories);
 
                 _memoryCache.Set(CACHE_KEY, cacheValue, cacheEntryOptions);

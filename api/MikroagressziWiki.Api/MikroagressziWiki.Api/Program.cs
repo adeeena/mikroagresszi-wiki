@@ -5,7 +5,7 @@ using MikroagressziWiki.Domain.Models;
 using MikroagressziWiki.Logic.BusinessLogic;
 using MikroagressziWiki.Logic.BusinessLogic.Interfaces;
 
-var builder = WebApplication.CreateBuilder(args);
+WebApplicationBuilder? builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
@@ -21,7 +21,7 @@ builder.Services.AddScoped<ICategoryLogic, CategoryLogic>();
 builder.Services.AddScoped<IEntryLogic, EntryLogic>();
 
 
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+string? connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<MikroagressziContext>(options =>
    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
@@ -33,7 +33,7 @@ builder.Services.AddCors(opt =>
         .AllowAnyMethod());
 });
 
-var app = builder.Build();
+WebApplication? app = builder.Build();
 
 app.UseCors("CorsPolicy");
 

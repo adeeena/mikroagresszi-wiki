@@ -1,7 +1,9 @@
+using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Mikroagresszi.Logic.BusinessLogic.Interfaces;
 using Mikroagresszi.Logic.Models;
-using MikroagressziWiki.Domain.Models;
+using MikroagressziWiki.Api.DTOs;
+using MikroagressziWiki.Core.Extensions;
 
 namespace MikroagressziWiki.Api.Controllers
 {
@@ -9,20 +11,37 @@ namespace MikroagressziWiki.Api.Controllers
     [Route("[controller]")]
     public class CategoryController : ControllerBase
     {
-        private readonly ILogger<CategoryController> _logger;
+        #region Properties
 
         private readonly ICategoryLogic _categoryLogic;
 
-        public CategoryController(ILogger<CategoryController> logger, ICategoryLogic categoryLogic)
+        private readonly IMapper _mapper;
+
+        #endregion
+
+        #region ctor
+
+        public CategoryController(
+            ICategoryLogic categoryLogic,
+            IMapper mapper)
         {
-            _logger = logger;
             _categoryLogic = categoryLogic;
+            _mapper = mapper;
         }
 
+        #endregion
+
+        #region Exposed endpoints
+
         [HttpGet("getAll")]
-        public IEnumerable<CategoryModel> Get()
+        public IEnumerable<CategoryDto> Get()
         {
-            return _categoryLogic.GetAll();
+            IList<CategoryModel> categories = _categoryLogic.GetAll();
+
+            return _mapper.MapCollection<CategoryModel, CategoryDto>(categories);
         }
+
+        #endregion
+
     }
 }

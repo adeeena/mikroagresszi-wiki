@@ -39,18 +39,18 @@ namespace MikroagressziWiki.Logic.BusinessLogic
 
             if (!_memoryCache.TryGetValue(CACHE_KEY, out CategoryEntriesResultModel cacheValue))
             {
-                var cacheEntryOptions = new MemoryCacheEntryOptions()
+                MemoryCacheEntryOptions? cacheEntryOptions = new MemoryCacheEntryOptions()
                     .SetSlidingExpiration(TimeSpan.FromMinutes(20));
 
-                var category = _context.Categories.SingleOrDefault(q => q.Id == categoryId);
-                var entries = _context.Entries
-                    .Where(q => q.Categories.Any(w => w.Id == categoryId)).ToList();
+                Category? category = _context.Categories.SingleOrDefault(q => q.Id == categoryId);
+                List<Entry>? entries = _context.Entries
+                    .Where(q => q.DeletedAt == null && q.Categories.Any(w => w.Id == categoryId)).ToList();
 
                 cacheValue = new CategoryEntriesResultModel
                 {
                     Name = category.Name,
                     Description = category.Description,
-                    Entries = entries
+                    Entries = _mapper.MapCollection<Entry, EntryModel>(entries)
                 };
 
                 _memoryCache.Set(CACHE_KEY, cacheValue, cacheEntryOptions);
@@ -65,23 +65,24 @@ namespace MikroagressziWiki.Logic.BusinessLogic
 
             if (!_memoryCache.TryGetValue(CACHE_KEY, out EntryModel cacheValue))
             {
-                var cacheEntryOptions = new MemoryCacheEntryOptions()
+                MemoryCacheEntryOptions? cacheEntryOptions = new MemoryCacheEntryOptions()
                     .SetSlidingExpiration(TimeSpan.FromMinutes(20));
 
-                var entry = _context.Entries
+                Entry? entry = _context.Entries
+                    .Where(q => q.DeletedAt == null)
                     .Include(q => q.Categories)
                     .Include(q => q.Entryresources)
                     .SingleOrDefault(q => q.Id == entryId);
 
-                var entryRelatedKeywords = entry.Description.Split(' ',
+                List<string>? entryRelatedKeywords = entry.Description.Split(' ',
                     StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries)
                     .OrderByDescending(q => q.Length).Take(3).ToList();
 
                 List<Entry> relatedEntries = new List<Entry>();
 
-                for (var i = 0; i < entryRelatedKeywords.Count(); i++)
+                for (int i = 0; i < entryRelatedKeywords.Count(); i++)
                 {
-                    var keyword = entryRelatedKeywords[i];
+                    string? keyword = entryRelatedKeywords[i];
 
                     if (keyword.Length > 5)
                     {
@@ -89,7 +90,7 @@ namespace MikroagressziWiki.Logic.BusinessLogic
                     }
 
                     relatedEntries.AddRange(_context.Entries
-                        .Where(q => q.Id != entry.Id &&
+                        .Where(q => q.DeletedAt == null && q.Id != entry.Id &&
                         (q.Title.Contains(keyword) || q.Description.Contains(keyword)))
                         .Take(6).ToList());
                 }
@@ -97,7 +98,7 @@ namespace MikroagressziWiki.Logic.BusinessLogic
                 relatedEntries = relatedEntries.DistinctBy(q => q.Id).Take(6).ToList();
 
                 // euh do it in correct way TODO
-                var relatedEntryModels = _mapper.MapCollection<Entry, EntryModel>(relatedEntries);
+                IList<EntryModel>? relatedEntryModels = _mapper.MapCollection<Entry, EntryModel>(relatedEntries);
                 cacheValue = _mapper.Map<Entry, EntryModel>(entry);
                 cacheValue.RelatedEntries = relatedEntryModels;
 
@@ -107,21 +108,21 @@ namespace MikroagressziWiki.Logic.BusinessLogic
             return cacheValue;
         }
 
-        public CategoryEntriesResultModel SearchBy(string query)
+        public SearchResultModel SearchBy(string query)
         {
             string CACHE_KEY = "ENTRY_SEARCH_BY_ID_" + query;
 
-            if (!_memoryCache.TryGetValue(CACHE_KEY, out CategoryEntriesResultModel cacheValue))
+            if (!_memoryCache.TryGetValue(CACHE_KEY, out SearchResultModel cacheValue))
             {
-                var cacheEntryOptions = new MemoryCacheEntryOptions()
+                MemoryCacheEntryOptions? cacheEntryOptions = new MemoryCacheEntryOptions()
                     .SetSlidingExpiration(TimeSpan.FromMinutes(20));
 
-                var entries = _context.Entries
-                    .Where(q => q.Description.Contains(query) || q.Title.Contains(query)).ToList();
+                List<Entry>? entries = _context.Entries
+                    .Where(q => q.DeletedAt == null && (q.Description.Contains(query) || q.Title.Contains(query))).ToList();
 
-                cacheValue = new CategoryEntriesResultModel
+                cacheValue = new SearchResultModel
                 {
-                    Entries = entries
+                    Entries = _mapper.MapCollection<Entry, EntryModel>(entries)
                 };
 
                 _memoryCache.Set(CACHE_KEY, cacheValue, cacheEntryOptions);

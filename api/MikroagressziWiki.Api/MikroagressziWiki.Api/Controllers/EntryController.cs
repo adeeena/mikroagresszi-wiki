@@ -1,6 +1,6 @@
+using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using MikroagressziWiki.Domain.Models;
+using MikroagressziWiki.Api.DTOs;
 using MikroagressziWiki.Logic.BusinessLogic.Interfaces;
 using MikroagressziWiki.Logic.Models;
 
@@ -10,32 +10,62 @@ namespace MikroagressziWiki.Api.Controllers
     [Route("[controller]")]
     public class EntryController : ControllerBase
     {
-        private readonly ILogger<EntryController> _logger;
+        #region Properties
 
         private readonly IEntryLogic _entryLogic;
 
-        public EntryController(ILogger<EntryController> logger, IEntryLogic entryLogic)
+        private readonly IMapper _mapper;
+
+        #endregion
+
+        #region ctor
+
+        public EntryController(IEntryLogic entryLogic, IMapper mapper)
         {
-            _logger = logger;
             _entryLogic = entryLogic;
+            _mapper = mapper;
         }
 
+        #endregion
+
+        #region Exposed endpoints
+
         [HttpGet("getBy")]
-        public CategoryEntriesResultModel GetBy([FromQuery] string categoryId)
+        public CategoryEntriesResultDto GetBy([FromQuery] string categoryId)
         {
-            return _entryLogic.GetBy(categoryId);
+            if (string.IsNullOrEmpty(categoryId))
+            {
+                throw new ArgumentNullException(nameof(categoryId));
+            }
+
+            CategoryEntriesResultModel? result = _entryLogic.GetBy(categoryId);
+            return _mapper.Map<CategoryEntriesResultModel, CategoryEntriesResultDto>(result);
         }
 
         [HttpGet("getById")]
-        public object GetById([FromQuery] string entryId)
+        public EntryDto GetById([FromQuery] string entryId)
         {
-            return _entryLogic.GetById(entryId);
+            if (string.IsNullOrEmpty(entryId))
+            {
+                throw new ArgumentNullException(nameof(entryId));
+            }
+
+            EntryModel? entry = _entryLogic.GetById(entryId);
+            return _mapper.Map<EntryModel, EntryDto>(entry);
         }
 
         [HttpGet("searchBy")]
-        public object searchBy([FromQuery] string query)
+        public SearchResultDto searchBy([FromQuery] string query)
         {
-            return _entryLogic.SearchBy(query);
+            if (string.IsNullOrEmpty(query))
+            {
+                throw new ArgumentNullException(nameof(query));
+            }
+
+            SearchResultModel? result = _entryLogic.SearchBy(query);
+            return _mapper.Map<SearchResultModel, SearchResultDto>(result);
         }
+
+        #endregion
     }
 }

@@ -9,7 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MikroagressziWiki.Domain", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MikroagressziWiki.Logic", "MikroagressziWiki.Logic\MikroagressziWiki.Logic.csproj", "{7B43FFFD-13A7-432F-8A2E-8994623C141A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MikroagressziWiki.Core", "MikroagressziWiki.Core\MikroagressziWiki.Core.csproj", "{0200077B-B0BC-465A-B3DC-75FB72D9042C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MikroagressziWiki.Core", "MikroagressziWiki.Core\MikroagressziWiki.Core.csproj", "{0200077B-B0BC-465A-B3DC-75FB72D9042C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{03B43981-D7C3-4C2F-94B6-144992475F35}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
