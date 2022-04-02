@@ -2,28 +2,25 @@
   <div class="pale-yellow-box header-card">
     <div class="header-card-content">
       <div class="logo">
-        <span class="light" [@enter1]>Mikro</span>
-        <span class="normal" [@enter2]>agresszi</span>
-        <span class="normal" [@enter3]>&nbsp;wiki</span>
+        <span class="light" [@enter1]>{{ 'general.titleFirst' | translate }}</span>
+        <span class="normal" [@enter2]>{{ 'general.titleSecond' | translate }}</span>
+        <span class="normal" [@enter3]>&nbsp;{{ 'general.titleThird' | translate }}</span>
       </div>
 
-      <p [@enter4]>
-        Interaktív mini-enciklopédia<br />
-        a mikroagressziókról, azok eredetéről és hatásáról.
-      </p>
+      <p [@enter4] [innerHTML]="'home.secondaryLine' | translate"></p>
 
       <div class="search-bar" [@enter5]>
-        <p>
-          Keress kulcsszavakra, vagy használd a<br />
-          menüt kategóriák böngészéséhez.
-        </p>
+        <p [innerHTML]="'home.searchTitle' | translate"></p>
 
         <form class="search-bar-form">
           <mat-form-field class="example-full-width" appearance="fill">
-            <mat-label>Keresés</mat-label>
+            <mat-label>
+              {{ 'search.title' | translate }}
+            </mat-label>
+
             <input matInput #message maxlength="256" (keydown)="searchUpdated($event)"
                    (keydown.enter)="searchClicked()"
-                   placeholder="pld. 'munkahely'">
+                   placeholder="'home.searchExample' | translate">
           </mat-form-field>
         </form>
       </div>
@@ -32,70 +29,37 @@
 
   <div class="black-box explain-card">
     <div class="explain-card-content">
-      <h3>Mi az a mikroagresszió?</h3>
+      <h3>{{ 'explain.whatIs.title' | translate }}</h3>
 
       <p>
-        <span class="def">(def.)</span>
-        A mikroagresszió olyan mindennapos bántás és sértés,
-        amellyel marginalizált csoportok szembesülnek.
-        Ezek gyakran nagyon finom megjegyzések vagy cselekedetek, amelyek implicit előítéletből és/vagy
-        sztereotípiákból erednek. Ezek tűnhetnek bóknak
-        (<a [routerLink]="['entry']" [queryParams]="{
-          id: 'transznemu-lany-letedre-gyonyoru-vagy'
-          }">"Transznemű lány létedre gyönyörű vagy"</a>),
-        ártalmatlan
-        megjegyzésnek
-        (<a [routerLink]="['entry']" [queryParams]="{
-          id: 'honnan-szarmazol-valojaban'
-          }">"Honnan származol valójában?"</a>) vagy tudatalatti cselekvésnek
-        (<a [routerLink]="['entry']" [queryParams]="{
-          id: 'szemkontaktus-kerulese-a-kisebbsegi-szinesboru-munkatarsakkal'
-          }">Szemkontaktus kerülése a kisebbségi/színesbőrű munkatársakkal</a>).
+        <span class="def">{{ 'general.def' | translate }}   </span>
+
+        <span [innerHTML]="'explain.whatIs.text' | translate"></span>
       </p>
 
-      <h4>Hogyan lehet elkerülni?</h4>
+      <h4>{{ 'explain.avoid.title' | translate }}</h4>
 
       <p>
-        Mielőtt bármit mondasz, gondold végig, hogy mit szeretnél mondani.
-        A mikroagresszió olyan finom, hogy gyakran észre sem
-        veszed, hogy épp okozol egyet; de ez nem jelenti azt, hogy nem tudod tudatosan megelőzni.
+        {{ 'explain.react.text' | translate }}
       </p>
 
-      <ul>
-        <li>Állj meg egy pillanatra</li>
-        <li>Gondold át, hogy mit akarsz mondani/tenni és miért.</li>
-        <li>Fogalmazd át a gondolataidat a kérdésfeltevés során felfedezett előítéletekkel kapcsolatosan.</li>
-      </ul>
+      <ul [innerHTML]="'explain.avoid.examples' | translate"></ul>
 
-      <h4>Hogyan reagáljunk?</h4>
+      <h4>{{ 'explain.react.title' | translate }}</h4>
 
       <p>
-        Állj meg a beszélgetésben egy pillanatra.
-        A mikroagresszió megtapasztalása megviselheti a mentális és fizikai egészségedet.
+        {{ 'explain.react.text' | translate }}
       </p>
 
-      <ul>
-        <li>Helyezd első helyre saját magad és az igényeidet.</li>
-        <li>Döntsd el, hogy akarsz-e egyáltalán válaszolni vagy sem</li>
-        <li>Ne feledd, hogy nem kell azonnal vagy egyáltalán válaszolnod.</li>
-      </ul>
+      <ul [innerHTML]="'explain.react.examples' | translate"></ul>
 
-      <h4>Hogyan legyünk felelősek?</h4>
+      <h4>{{ 'explain.responsible.title' | translate }}</h4>
 
       <p>
-        Vegyél levegőt egy pillanatra. Mindenki okozott már valamikor mikroagressziót
-        az életében, kellemetlen helyzeteket teremtve.
+        {{ 'explain.responsible.text' | translate }}
       </p>
 
-      <ul>
-        <li>Ne hagyd figyelmen kívül, hogy ami történt.</li>
-        <li>Hallgasd meg, mit mond az a személy, akit megbántottál.</li>
-        <li>Kérj őszinte bocsánatkérést kifogások nélkül;</li>
-      </ul>
-
-<!--      <button class="learn-more-button" mat-raised-button color="accent" [routerLink]="['/more-info']">-->
-<!--        Tudj meg többet-->
-<!--      </button>-->
+      <ul [innerHTML]="'explain.responsible.examples' | translate"></ul>
     </div>
   </div>
 </div>

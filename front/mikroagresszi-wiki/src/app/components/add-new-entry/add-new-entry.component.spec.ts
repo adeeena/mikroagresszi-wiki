@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { MoreInfoComponent } from './more-info.component';
+import { AddNewEntryComponent } from './add-new-entry.component';
 
-describe('MoreInfoComponent', () => {
-  let component: MoreInfoComponent;
-  let fixture: ComponentFixture<MoreInfoComponent>;
+describe('AddNewEntryComponent', () => {
+  let component: AddNewEntryComponent;
+  let fixture: ComponentFixture<AddNewEntryComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ MoreInfoComponent ]
+      declarations: [ AddNewEntryComponent ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(MoreInfoComponent);
+    fixture = TestBed.createComponent(AddNewEntryComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

@@ -10,7 +10,7 @@
         <mat-chip
           [routerLink]="['/category']"
           [queryParams]="{ id: category.id}"
-          class="example-box"
+          class="chip-box"
           *ngFor="let category of entry.categories">
           {{ category.name }}
         </mat-chip>
@@ -20,13 +20,17 @@
     <div class="separator" [@enter2]></div>
 
     <div class="entry-description" [@enter3]>
-      <span class="def">(def.)</span> {{entry.description}}
+      <span class="def">
+        {{ 'general.def' | translate }}
+      </span>
+
+      {{entry.description}}
     </div>
 
     <div class="entry-actions" [@enter3]>
       <div class="back-to-home">
         <a [routerLink]="['/']">
-          Vissza a főoldalra
+          {{ 'general.backToHome' | translate }}
         </a>
       </div>
 
@@ -38,19 +42,22 @@
     </div>
 
     <div class="disclaimer" [@enter4]>
-      <b>Hibát, vagy pontatlanságot találtál az oldalon?</b> Kérjük, írd meg nekünk a <a
-      href="mailto:&#109;&#105;&#107;&#114;&#111;&#97;&#103;&#114;&#101;&#115;&#115;&#122;&#105;&#46;&#119;&#105;&#107;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#109;&#105;&#107;&#114;&#111;&#97;&#103;&#114;&#101;&#115;&#115;&#122;&#105;&#46;&#119;&#105;&#107;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a> címre.
+      <b>{{ 'entry.foundErrorTitle' | translate }}</b>
+      <span [innerHTML]="'entry.foundErrorText' | translate:{'address':
+      '&#109;&#105;&#107;&#114;&#111;&#97;&#103;&#114;&#101;&#115;&#115;&#122;&#105;&#46;&#119;&#105;&#107;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'}"></span>
     </div>
 
     <div class="disclaimer" [@enter4]>
-      <b>Hiányzik valami? </b>
-      <a href="https://link.adena.dev/mawform">Ezen az űrlapon</a> hozzáadhatsz új bejegyzést.
+      <b>{{ 'general.missingSomethingTitle' | translate }} </b>
+      <span [innerHTML]="'general.missingSomethingText' | translate:{
+                  'link': 'https://link.adena.dev/mawform'
+               }"></span>
     </div>
 
     <div class="separator" [@enter4]></div>
 
     <div class="might-interest-you" [@enter4]>
-      <h3>Ez is érdekelhet</h3>
+      <h3>{{ 'entry.mightInterestYou' | translate }}</h3>
 
       <div class="might-interest-you-result-set">
         <app-entry-preview-item [entry]="entry"

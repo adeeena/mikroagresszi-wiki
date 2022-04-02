@@ -1,17 +1,17 @@
 <div class="dark-black-box content">
   <div class="footer-content">
     <div class="mini-logo">
-      <span class="light">Mikro</span>
-      <span class="normal white">agresszi wiki</span>
+      <span class="light">{{ 'general.titleFirst' | translate }}</span>
+      <span class="normal white">{{ 'general.titleLast' | translate }}</span>
     </div>
 
-    <div class="idea-from">
-      A <a href="http://themicropedia.org" target="_blank">The Micropedia</a> ötlete alapján.
+    <div class="idea-from" [innerHTML]="'general.ideaFrom' | translate: {'source': 'http://themicropedia.org'}">
+
     </div>
 
     <div class="links">
       <div class="link-title">
-        Itt támogathatsz minket:
+        {{ 'footer.supportAt' | translate }}
       </div>
 
       <div class="link-list">
@@ -31,7 +31,7 @@
 
     <div class="links">
       <div class="link-title">
-        Itt érhetsz el minket:
+        {{ 'footer.linksAt' | translate }}
       </div>
 
       <div class="link-list">
@@ -50,8 +50,8 @@
     </div>
 
     <div class="email">
-      vagy <a
-      href="mailto:&#109;&#105;&#107;&#114;&#111;&#97;&#103;&#114;&#101;&#115;&#115;&#122;&#105;&#46;&#119;&#105;&#107;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#109;&#105;&#107;&#114;&#111;&#97;&#103;&#114;&#101;&#115;&#115;&#122;&#105;&#46;&#119;&#105;&#107;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>
+      <span [innerHTML]="'footer.emailOr' | translate:{'address':
+      '&#109;&#105;&#107;&#114;&#111;&#97;&#103;&#114;&#101;&#115;&#115;&#122;&#105;&#46;&#119;&#105;&#107;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'}"></span>
     </div>
   </div>
 </div>

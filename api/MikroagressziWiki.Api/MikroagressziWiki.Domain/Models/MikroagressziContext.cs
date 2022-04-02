@@ -19,6 +19,7 @@ namespace MikroagressziWiki.Domain.Models
         public virtual DbSet<Category> Categories { get; set; }
         public virtual DbSet<Entry> Entries { get; set; }
         public virtual DbSet<Entryresource> Entryresources { get; set; }
+        public virtual DbSet<Translation> Translations { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -157,6 +158,30 @@ namespace MikroagressziWiki.Domain.Models
                     .HasForeignKey(d => d.Entryid)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("entryresource_ibfk_1");
+            });
+
+            modelBuilder.Entity<Translation>(entity =>
+            {
+                entity.ToTable("translation");
+
+                entity.HasIndex(e => e.Id, "translation_id_uindex")
+                    .IsUnique();
+
+                entity.HasIndex(e => e.TranslationKey, "translation_key_index");
+
+                entity.Property(e => e.Id).HasColumnName("id");
+
+                entity.Property(e => e.LanguageCode)
+                    .HasMaxLength(2)
+                    .HasColumnName("languageCode");
+
+                entity.Property(e => e.TranslationKey)
+                    .HasMaxLength(200)
+                    .HasColumnName("translationKey");
+
+                entity.Property(e => e.TranslationValue)
+                    .HasColumnType("text")
+                    .HasColumnName("translationValue");
             });
 
             OnModelCreatingPartial(modelBuilder);

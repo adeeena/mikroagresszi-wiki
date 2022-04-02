@@ -4,32 +4,29 @@
       <div class="category-card-side-content">
         <div class="back-to-home">
           <a [routerLink]="['/']">
-            Vissza a főoldalra
+            {{ 'general.backToHome' | translate }}
           </a>
         </div>
 
         <div class="category-card-title">
-          Keresés
+          {{ 'search.title' | translate }}
         </div>
 
         <div class="category-card-description">
           "{{query}}"
         </div>
 
-        <div class="add-new">
-          <div class="add-new-title">
-            Hiányzik valami?
-          </div>
-
-          <div class="add-new-description">
-            <a href="https://link.adena.dev/mawform">Ezen az űrlapon</a> hozzáadhatsz új bejegyzést.
-          </div>
-        </div>
+        <app-add-new-entry></app-add-new-entry>
       </div>
 
       <div class="category-card-result-set">
         <div *ngIf="entries.length === 0">
-          Nincs találat.
+          <img class="no-result" src="assets/images/empty-file.svg" />
+
+          <div class="no-result-text">
+            {{ 'search.noResult' | translate }}
+          </div>
+
         </div>
 
         <app-entry-preview-item [entry]="entry"

@@ -1,0 +1,11 @@
+<div class="add-new">
+  <div class="add-new-title">
+    {{ 'general.missingSomethingTitle' | translate }}
+  </div>
+
+  <div class="add-new-description"
+       [innerHTML]="'general.missingSomethingText' | translate:{
+                  'link': 'https://link.adena.dev/mawform'
+               }">
+  </div>
+</div>
