@@ -45,6 +45,10 @@ namespace MikroagressziWiki.Domain.Models
                     .HasMaxLength(100)
                     .HasColumnName("icon");
 
+                entity.Property(e => e.LanguageCode)
+                    .HasMaxLength(2)
+                    .HasColumnName("languageCode");
+
                 entity.Property(e => e.Name)
                     .IsRequired()
                     .HasMaxLength(1000)
@@ -72,6 +76,10 @@ namespace MikroagressziWiki.Domain.Models
                     .IsRequired()
                     .HasColumnType("text")
                     .HasColumnName("description");
+
+                entity.Property(e => e.LanguageCode)
+                    .HasMaxLength(2)
+                    .HasColumnName("languageCode");
 
                 entity.Property(e => e.ModifiedAt)
                     .HasColumnType("timestamp")

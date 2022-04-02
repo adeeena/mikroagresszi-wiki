@@ -16,6 +16,7 @@ namespace MikroagressziWiki.Domain.Models
         public string Description { get; set; }
         public DateTime ModifiedAt { get; set; }
         public DateTime? DeletedAt { get; set; }
+        public string LanguageCode { get; set; }
 
         public virtual ICollection<Entryresource> Entryresources { get; set; }
 

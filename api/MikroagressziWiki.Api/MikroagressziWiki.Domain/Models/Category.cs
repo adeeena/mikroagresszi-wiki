@@ -15,6 +15,7 @@ namespace MikroagressziWiki.Domain.Models
         public int? Order { get; set; }
         public string Icon { get; set; }
         public string Description { get; set; }
+        public string LanguageCode { get; set; }
 
         public virtual ICollection<Entry> Entries { get; set; }
     }
