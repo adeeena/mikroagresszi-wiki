@@ -80,6 +80,8 @@ namespace MikroagressziWiki.Logic.BusinessLogic
 
                 List<Entry> relatedEntries = new List<Entry>();
 
+                var languageCode = entry.Categories.First().LanguageCode;
+
                 for (int i = 0; i < entryRelatedKeywords.Count(); i++)
                 {
                     string? keyword = entryRelatedKeywords[i];
@@ -90,8 +92,10 @@ namespace MikroagressziWiki.Logic.BusinessLogic
                     }
 
                     relatedEntries.AddRange(_context.Entries
-                        .Where(q => q.DeletedAt == null && q.Id != entry.Id &&
-                        (q.Title.Contains(keyword) || q.Description.Contains(keyword)))
+                        .Where(q =>
+                            q.DeletedAt == null && q.Id != entry.Id &&
+                            (q.Title.Contains(keyword) || q.Description.Contains(keyword))
+                            && q.Categories.Any(w => w.LanguageCode == languageCode))
                         .Take(6).ToList());
                 }
 
