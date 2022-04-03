@@ -47,7 +47,7 @@ namespace MikroagressziWiki.Domain.Models
 
                 entity.Property(e => e.LanguageCode)
                     .HasMaxLength(2)
-                    .HasColumnName("languageCode");
+                    .HasColumnName("language_code");
 
                 entity.Property(e => e.Name)
                     .IsRequired()
@@ -76,10 +76,6 @@ namespace MikroagressziWiki.Domain.Models
                     .IsRequired()
                     .HasColumnType("text")
                     .HasColumnName("description");
-
-                entity.Property(e => e.LanguageCode)
-                    .HasMaxLength(2)
-                    .HasColumnName("languageCode");
 
                 entity.Property(e => e.ModifiedAt)
                     .HasColumnType("timestamp")
@@ -181,15 +177,15 @@ namespace MikroagressziWiki.Domain.Models
 
                 entity.Property(e => e.LanguageCode)
                     .HasMaxLength(2)
-                    .HasColumnName("languageCode");
+                    .HasColumnName("language_code");
 
                 entity.Property(e => e.TranslationKey)
                     .HasMaxLength(200)
-                    .HasColumnName("translationKey");
+                    .HasColumnName("translation_key");
 
                 entity.Property(e => e.TranslationValue)
                     .HasColumnType("text")
-                    .HasColumnName("translationValue");
+                    .HasColumnName("translation_value");
             });
 
             OnModelCreatingPartial(modelBuilder);

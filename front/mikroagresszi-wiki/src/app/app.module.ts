@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { NgModule, APP_INITIALIZER } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { MatToolbarModule} from "@angular/material/toolbar";
 import { MatIconModule} from "@angular/material/icon";
@@ -26,9 +26,14 @@ import { EntryPreviewItemComponent } from './components/entry-preview-item/entry
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import {TranslationLoader} from "./i18n/TranslationLoader";
 import { AddNewEntryComponent } from './components/add-new-entry/add-new-entry.component';
+import {AppConfigService} from "./services/app-config.service";
 
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
+}
+
+export function initConfig(appConfig: AppConfigService) {
+  return () => appConfig.loadConfig();
 }
 
 @NgModule({
@@ -69,7 +74,12 @@ export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
       }
     }),
   ],
-  providers: [],
+  providers: [{
+    provide: APP_INITIALIZER,
+    useFactory: initConfig,
+    deps: [AppConfigService],
+    multi: true,
+  }],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

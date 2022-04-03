@@ -37,16 +37,20 @@ namespace Mikroagresszi.Logic.BusinessLogic
 
         #region Additional methods
 
-        public IList<CategoryModel> GetAll()
+        public IList<CategoryModel> GetBy(string languageCode)
         {
-            const string CACHE_KEY = "ALL_CATEGORIES";
+            string CACHE_KEY = "CATEGORIES_BY_" + languageCode;
 
             if (!_memoryCache.TryGetValue(CACHE_KEY, out IList<CategoryModel> cacheValue))
             {
                 MemoryCacheEntryOptions? cacheEntryOptions = new MemoryCacheEntryOptions()
                     .SetSlidingExpiration(TimeSpan.FromMinutes(20));
 
-                List<Category>? categories = _context.Categories.OrderBy(q => q.Order).ToList();
+                List<Category>? categories =
+                    _context.Categories
+                    .Where(q => q.LanguageCode == languageCode)
+                    .OrderBy(q => q.Order).ToList();
+
                 cacheValue = _mapper.MapCollection<Category, CategoryModel>(categories);
 
                 _memoryCache.Set(CACHE_KEY, cacheValue, cacheEntryOptions);

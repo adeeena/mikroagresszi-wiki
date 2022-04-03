@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import {TranslateService} from "@ngx-translate/core";
+import {AppConfigService} from "./services/app-config.service";
 
 @Component({
   selector: 'app-root',
@@ -7,11 +8,11 @@ import {TranslateService} from "@ngx-translate/core";
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'mikroagresszi-wiki';
   public isOpened: boolean = false;
 
-  constructor(private translate: TranslateService) {
-    translate.setDefaultLang('hu');
+  constructor(private translate: TranslateService,
+              private appConfigService: AppConfigService) {
+    translate.setDefaultLang(appConfigService.getConfig().languageCode);
   }
 
   toggleSidenav() {

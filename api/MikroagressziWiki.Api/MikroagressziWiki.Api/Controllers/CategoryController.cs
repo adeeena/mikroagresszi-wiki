@@ -33,10 +33,15 @@ namespace MikroagressziWiki.Api.Controllers
 
         #region Exposed endpoints
 
-        [HttpGet("getAll")]
-        public IEnumerable<CategoryDto> Get()
+        [HttpGet("getBy")]
+        public IEnumerable<CategoryDto> GetBy([FromQuery] string languageCode)
         {
-            IList<CategoryModel> categories = _categoryLogic.GetAll();
+            if (string.IsNullOrEmpty(languageCode))
+            {
+                throw new ArgumentNullException(nameof(languageCode));
+            }
+
+            IList<CategoryModel> categories = _categoryLogic.GetBy(languageCode);
 
             return _mapper.MapCollection<CategoryModel, CategoryDto>(categories);
         }
