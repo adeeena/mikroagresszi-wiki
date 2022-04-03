@@ -55,14 +55,14 @@
   }
 }
 
-@media (max-width: 900px) {
+@media (min-width: 601px) and (max-width: 900px) {
   .card {
     min-height: 8rem;
     margin-bottom: 1rem;
 
     &:not(.compact) {
       margin-right: 1.5rem;
-      width: 100%;
+      //width: 100%;
     }
   }
 }
@@ -72,8 +72,9 @@
     height: 14rem;
 
     &:not(.compact) {
-      margin: 0 1rem 1rem;
-      width: 100%;
+      //margin: 0 1rem 1rem;
+      margin-bottom: 1rem;
+      //width: 100%;
     }
 
     &.compact {
