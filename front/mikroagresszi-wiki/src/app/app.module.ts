@@ -27,6 +27,7 @@ import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import {TranslationLoader} from "./i18n/TranslationLoader";
 import { AddNewEntryComponent } from './components/add-new-entry/add-new-entry.component';
 import {AppConfigService} from "./services/app-config.service";
+import { HomeExplainComponent } from './components/home-explain/home-explain.component';
 
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
@@ -47,7 +48,8 @@ export function initConfig(appConfig: AppConfigService) {
     DialogElementsExampleDialog,
     SearchComponent,
     EntryPreviewItemComponent,
-    AddNewEntryComponent
+    AddNewEntryComponent,
+    HomeExplainComponent
   ],
   imports: [
     BrowserModule,
