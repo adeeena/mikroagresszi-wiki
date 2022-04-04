@@ -11,5 +11,7 @@ namespace MikroagressziWiki.Logic.Models
         public IList<CategoryModel> Categories { get; set; }
 
         public IList<EntryModel> RelatedEntries { get; set; }
+
+        public IList<EntryResourceModel> Resources { get; set; }
     }
 }

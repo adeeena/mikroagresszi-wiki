@@ -19,10 +19,18 @@
       }
     }
 
+    .examples-list {
+      margin-bottom: 4vh;
+    }
+
     .separator {
       background: map-get(mat.$gray-palette, 600);
       height: 1px;
       width: 100%;
+    }
+
+    .top-margin {
+      margin-top: 2vh;
     }
 
     .entry-description {
@@ -35,6 +43,7 @@
     .entry-actions {
       display: flex;
       justify-content: space-between;
+      margin-bottom: 1vh;
 
       .back-to-home {
         align-self: center;

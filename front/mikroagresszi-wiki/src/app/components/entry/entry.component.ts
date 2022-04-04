@@ -18,7 +18,8 @@ export interface DialogData {
     fadeInUpOnEnterAnimation({ anchor: 'enter1', duration: 1000, delay: 100, translate: '30px' }),
     fadeInUpOnEnterAnimation({ anchor: 'enter2', duration: 1000, delay: 300, translate: '30px' }),
     fadeInUpOnEnterAnimation({ anchor: 'enter3', duration: 1000, delay: 500, translate: '30px' }),
-    fadeInUpOnEnterAnimation({ anchor: 'enter4', duration: 1000, delay: 2000, translate: '30px' }),
+    fadeInUpOnEnterAnimation({ anchor: 'enter4', duration: 1000, delay: 800, translate: '30px' }),
+    fadeInUpOnEnterAnimation({ anchor: 'enter5', duration: 1000, delay: 1500, translate: '30px' }),
   ]
 })
 export class EntryComponent implements OnInit {
@@ -40,6 +41,10 @@ export class EntryComponent implements OnInit {
         this.entryService.getById(this.entryId)
           .subscribe((data: any) => {
             this.entry = data;
+            this.entry.examples = data.resources.filter((q: any) => q.type === 'EXAMPLE');
+            this.entry.moreResources = data.resources.filter((q: any) => q.type === 'RESOURCE');
+
+            console.dir(data);
             this.titleService.setTitle(
               data.title + ' | ' + this.translate.instant('general.title'));
           });

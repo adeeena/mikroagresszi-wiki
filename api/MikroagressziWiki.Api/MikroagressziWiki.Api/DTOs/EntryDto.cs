@@ -9,5 +9,7 @@
         public IList<CategoryDto> Categories { get; set; }
 
         public IList<EntryDto> RelatedEntries { get; set; }
+
+        public IList<EntryResourceDto> Resources { get; set; }
     }
 }

@@ -101,6 +101,9 @@ namespace MikroagressziWiki.Logic.BusinessLogic
 
                 relatedEntries = relatedEntries.DistinctBy(q => q.Id).Take(6).ToList();
 
+                entry.Entryresources =
+                    entry.Entryresources.Where(q => !q.DeletedAt.HasValue).ToList();
+
                 // euh do it in correct way TODO
                 IList<EntryModel>? relatedEntryModels = _mapper.MapCollection<Entry, EntryModel>(relatedEntries);
                 cacheValue = _mapper.Map<Entry, EntryModel>(entry);

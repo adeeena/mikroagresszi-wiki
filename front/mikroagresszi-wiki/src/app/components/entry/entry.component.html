@@ -41,6 +41,44 @@
       </div>
     </div>
 
+    <div class="separator top-margin" [@enter4] *ngIf="entry.examples && entry.examples.length"></div>
+
+    <div [@enter4] *ngIf="entry.examples && entry.examples.length" class="examples-list">
+      <h3>{{ 'entry.examples' | translate }}</h3>
+
+      <div *ngFor="let example of entry.examples">
+
+        <a href="example.link" target="_blank" *ngIf="example.link">
+          {{example.title}}
+        </a>
+      </div>
+    </div>
+
+    <div [@enter4] *ngIf="entry.moreResources && entry.moreResources.length" class="examples-list">
+      <h3>{{ 'entry.resources' | translate }}</h3>
+
+      <div *ngFor="let resource of entry.moreResources">
+
+        <a href="resource.link" target="_blank" *ngIf="resource.link">
+          {{resource.title}}
+        </a>
+      </div>
+    </div>
+
+    <div class="separator top-margin" [@enter4] *ngIf="entry.examples && entry.examples.length"></div>
+
+    <div class="might-interest-you" [@enter5]>
+      <h3>{{ 'entry.mightInterestYou' | translate }}</h3>
+
+      <div class="might-interest-you-result-set">
+        <app-entry-preview-item [entry]="entry"
+                                [mode]="'compact'"
+                                *ngFor="let entry of entry.relatedEntries; let i = index"
+        ></app-entry-preview-item>
+      </div>
+    </div>
+
+
     <div class="disclaimer" [@enter4]>
       <b>{{ 'entry.foundErrorTitle' | translate }} </b>
       <span [innerHTML]="'entry.foundErrorText' | translate:{'address':
@@ -53,19 +91,6 @@
                   'linkHungarian': 'https://link.adena.dev/mawform',
                   'linkFrench': 'https://link.adena.dev/mawformfr'
                }"></span>
-    </div>
-
-    <div class="separator" [@enter4]></div>
-
-    <div class="might-interest-you" [@enter4]>
-      <h3>{{ 'entry.mightInterestYou' | translate }}</h3>
-
-      <div class="might-interest-you-result-set">
-        <app-entry-preview-item [entry]="entry"
-                                [mode]="'compact'"
-                                *ngFor="let entry of entry.relatedEntries; let i = index"
-        ></app-entry-preview-item>
-      </div>
     </div>
   </div>
 </div>
