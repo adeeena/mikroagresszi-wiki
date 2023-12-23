@@ -1,57 +1,48 @@
 <div class="dark-black-box content">
-  <div class="footer-content">
-    <div class="mini-logo">
-      <span class="light">{{ 'general.titleFirst' | translate }}</span>
-      <span class="normal white">{{ 'general.titleLast' | translate }}</span>
-    </div>
+  <div class="section first">
+    <p><a href="https://????.hu">Mikroagresszió Wiki - ????.hu</a></p>
 
-    <div class="idea-from" [innerHTML]="'general.ideaFrom' | translate: {'source': 'http://themicropedia.org'}">
+    <p>Házigazda: <a href="https://adena.dev" target="_blank">Muráncsik Adéna Auróra</a> <span [innerHTML]="'🧿' | utf8EmojisToImages:'apple':20"></span></p>
 
-    </div>
+    <p>Grafika <a href="http://undraw.co" target="_blank">Undraw.co - Katerina Limpitsouni</a> jóvoltából.</p>
 
-    <div class="links">
-      <div class="link-title">
-        {{ 'footer.supportAt' | translate }}
-      </div>
+    <p>
+    Támogatás:
+    <br />
+    <a href="https://www.patreon.com/egytranszpodcast" target="_blank">😄 Patreon</a>
+    <br />
+    <a href="https://www.ko-fi.com/egytranszpodcast" target="_blank">😄 Ko-Fi</a>
+    </p>
+  </div>
 
-      <div class="link-list">
-        <a href="https://www.patreon.com/mikroagressziwiki" target="_blank">
-          <fa-icon [icon]="faPatreon"></fa-icon>
-        </a>
+  <div class="section second">
+    <p>Kapcsolat: <a href="mailto:????@gmail.com">????@gmail.com</a> 👋</p>
 
-        <a href="https://paypal.me/thisisadena" target="_blank">
-          <fa-icon [icon]="faPaypal"></fa-icon>
-        </a>
+    <p>vagy Instagramon <a href="https://www.instagram.com/????/">@????</a>.</p>
 
-        <a href="https://ko-fi.com/adeeena" target="_blank">
-          <fa-icon [icon]="faMugSaucer"></fa-icon>
-        </a>
-      </div>
-    </div>
+    <p>A <i>Mikroagresszió Wiki</i> egy tájékoztató oldal a mikroagressziókkal kapcsolatban.
+    <br /><br />
+    Ha új neked a téma:
+    <br /><a routerLink="/intro">➡ A mikroagresszió alapjai 5 percben 📚</a></p>
+  </div>
 
-    <div class="links">
-      <div class="link-title">
-        {{ 'footer.linksAt' | translate }}
-      </div>
+  <div class="section third">
+    <p>Társoldalak:</p>
 
-      <div class="link-list">
-        <a href="https://link.adena.dev/ghmaw" target="_blank">
-          <fa-icon [icon]="faGithub"></fa-icon>
-        </a>
+    <p>
+    <a href="http://genderutikalauz.hu" target="_blank"
+      [innerHTML]="'➡ Gender Útikalauz' | translate | utf8EmojisToImages:'apple':16"></a>
+    <br />
 
-        <a href="https://discord.gg/4FJkVFvYmu" target="_blank">
-          <fa-icon [icon]="faDiscord"></fa-icon>
-        </a>
+    <p>
+    <a href="http://genderdysphoria.fyi/hu" target="_blank"
+      [innerHTML]="'➡ Nemi Diszfória Biblia, magyarul' | translate | utf8EmojisToImages:'apple':16"
+    ></a>
+    <br />
 
-        <a href="https://link.adena.dev/contact" target="_blank">
-          <fa-icon [icon]="faDev"></fa-icon>
-        </a>
-      </div>
-    </div>
-
-    <div class="email">
-      <span [innerHTML]="'footer.emailOr' | translate:{'address':
-      '&#109;&#105;&#107;&#114;&#111;&#97;&#103;&#114;&#101;&#115;&#115;&#122;&#105;&#46;&#119;&#105;&#107;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'}"></span>
-    </div>
+    <p>
+    <a href="http://1tpc.hu" target="_blank"
+      [innerHTML]="'➡ Egy Transz Podcast. - http://1tpc.hu' | translate | utf8EmojisToImages:'apple':16"></a>
+    <br />
   </div>
 </div>

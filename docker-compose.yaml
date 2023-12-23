@@ -1,0 +1,28 @@
+version: "3"
+
+services:
+  websites-mikroagresszi-wiki-public-files:
+    image: httpd
+    container_name: websites-mikroagresszi-wiki-public-files
+    restart: always
+    volumes:
+      - /home/adena/docker/websites-mikroagresszi-wiki/public-files/htdocs:/usr/local/apache2/htdocs
+      - /home/adena/docker/websites-mikroagresszi-wiki/public-files/conf:/usr/local/apache2/conf
+    ports:
+      - 4204:80
+
+  websites-mikroagresszi-wiki-front:
+    image: httpd
+    restart: always
+    volumes:
+      - /home/adena/docker/websites-mikroagresszi-wiki/front:/usr/local/apache2/htdocs
+    ports:
+      - 4201:80
+    container_name: websites-mikroagresszi-wiki-front
+
+  websites-mikroagresszi-wiki-api:
+    build: api
+    restart: always
+    ports:
+      - 4202:3000
+    container_name: websites-mikroagresszi-wiki-api

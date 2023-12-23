@@ -10,7 +10,7 @@ import {CategoryService} from "../../services/category.service";
 })
 export class SidebarComponent implements OnInit {
   @Output() closing = new EventEmitter<string>();
-  public categories: Category[] = [];
+  public categories: any[] = [];
 
   constructor(private categoryService: CategoryService) {
   }

@@ -11,7 +11,6 @@ import { HomeComponent } from './components/home/home.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
 import {HttpClient, HttpClientModule} from "@angular/common/http";
-import { CategoryComponent } from './components/category/category.component';
 import {MatCardModule} from "@angular/material/card";
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import {DialogElementsExampleDialog, EntryComponent} from './components/entry/entry.component';
@@ -21,14 +20,15 @@ import {MatInputModule} from "@angular/material/input";
 import {FormsModule} from "@angular/forms";
 import {MatDialogModule} from "@angular/material/dialog";
 import {MatExpansionModule} from "@angular/material/expansion";
-import { SearchComponent } from './components/search/search.component';
-import { EntryPreviewItemComponent } from './components/entry-preview-item/entry-preview-item.component';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import {TranslationLoader} from "./i18n/TranslationLoader";
-import { AddNewEntryComponent } from './components/add-new-entry/add-new-entry.component';
 import {AppConfigService} from "./services/app-config.service";
-import { HomeExplainComponent } from './components/home-explain/home-explain.component';
-
+import {Utf8EmojisToImagesModule} from "./lib/utf8-emojis-to-images.module";
+import { PickerModule } from '@ctrl/ngx-emoji-mart';
+import { IntroComponent } from './components/intro/intro.component';
+import { HeaderComponent } from './components/header/header.component';
+import { MarkdownModule } from 'ngx-markdown';
+import {SidenavService} from "./services/sidenav-service.service";
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
 }
@@ -43,13 +43,10 @@ export function initConfig(appConfig: AppConfigService) {
     HomeComponent,
     FooterComponent,
     SidebarComponent,
-    CategoryComponent,
     EntryComponent,
     DialogElementsExampleDialog,
-    SearchComponent,
-    EntryPreviewItemComponent,
-    AddNewEntryComponent,
-    HomeExplainComponent
+    IntroComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
@@ -68,6 +65,9 @@ export function initConfig(appConfig: AppConfigService) {
     FormsModule,
     MatDialogModule,
     MatExpansionModule,
+    PickerModule,
+    Utf8EmojisToImagesModule,
+    MarkdownModule.forRoot(),
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,
@@ -81,7 +81,7 @@ export function initConfig(appConfig: AppConfigService) {
     useFactory: initConfig,
     deps: [AppConfigService],
     multi: true,
-  }],
+  }, SidenavService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

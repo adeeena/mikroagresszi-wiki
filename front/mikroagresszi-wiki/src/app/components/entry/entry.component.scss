@@ -1,11 +1,162 @@
 @use '@angular/material' as mat;
 @import '../../../styles';
 
+::ng-deep {
+  .header-image {
+    text-align: center;
+
+    img {
+      max-height: 30vh;
+      max-width: calc(100% - 3rem);
+    }
+  }
+
+  .content-image {
+    text-align: center;
+
+    img {
+      height: 30vh;
+      object-fit: contain;
+      min-height: 400px;
+      max-width: 70vw;
+    }
+  }
+
+  .graph-image {
+    margin: 1rem 0;
+    text-align: center;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  table {
+    border: 1px solid #202024;
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 80%;
+
+    
+
+    th, td {
+      padding: .5rem;
+    }
+
+    td + td,
+    th + th {
+      border-left: 1px solid #202024;
+    }
+
+    thead + tbody,    
+    tr + tr {
+      border-top: 1px solid #202024;
+    }
+  }
+
+  .center {
+    text-align: center;
+  }
+}
+
 .content {
   background: map-get(mat.$gray-palette, 100);
   min-height: 90vh;
 
   .entry-content {
+    .entry-markdown {
+      ::ng-deep {
+        h1 {
+          margin-top: 4rem;
+        }
+
+        h2 {
+          margin-top: 3rem;
+        }
+
+        h3, h4, h5, h6 {
+          margin-top: 2rem;
+        }
+
+        a {
+          color: #4054b2;
+          font-weight: bold;
+          text-decoration: underline;
+        }
+
+        .infobox {
+          padding: 1rem;
+          margin-bottom: 2rem;
+
+          h5 {
+            font-size: 1rem;
+            font-weight: 500;
+            margin: 0 0 .5rem;
+          }
+
+          p {
+            margin-bottom: 0;
+          }
+
+          &.info {
+            border: 2px solid #4054b2;
+            background: #f0f0ff;
+          }
+
+          &.success {
+            border: 2px solid #16c60c;
+            background: #e8ffeb;
+          }
+
+          &.warning {
+            border: 2px solid #ffc83d;
+            background: #fff6c8;
+          }
+
+          &.error {
+            border: 2px solid #f03a17;
+            background: #ffdbdb;
+          }
+
+          &.podcast-episode {
+            background: #fde9f0;
+            border: 2px solid $pink-color;
+          }
+        }
+      }
+
+      ::ng-deep .flex {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 4vh;
+
+        .flex-item {
+          text-align: center;
+          width: 45%;
+
+          img {
+            height: 30vh;
+          }
+        }
+      }
+
+      ::ng-deep .center-button {
+        background: #4054b2;
+        border-radius: 30px;
+        color: white;
+        display: block;
+        font-weight: bold;
+        margin: 0 auto;
+        padding: 1rem;
+        text-align: center;
+        width: 8rem;
+      }
+    }
+
     .entry-title {
       //font-family: Merriweather;
       font-size: 2rem;
@@ -96,8 +247,44 @@
 }
 
 @media (min-width: 601px) {
+  ::ng-deep {
+    .content {
+      .entry-content {
+        .entry-markdown {
+          .floating-columns {
+            display: flex;
+
+            .floating-bar {
+              order: 1;
+              margin-right: 1rem;
+              width: 15rem;
+            }
+
+            .wiki-content {
+              order: 2;
+              width: 100%;
+
+              &.agression-title {
+                h1 {
+                  background: white;
+                  border: 1px solid #eb387d;
+                  box-shadow: 5px 5px 0 0 #FFCADE;
+                  color: #eb387d;
+                  font-weight: bold;
+                  margin: 1rem 0 2rem;
+                  padding: 1rem;
+                  transform: rotate(-1.5deg);
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
   .entry-content {
-    padding: 5rem 15vw;
+    padding: 5rem;
 
     .entry-title, .entry-categories, .separator {
       margin-bottom: 2rem;
@@ -106,6 +293,17 @@
 }
 
 @media (max-width: 600px) {
+  ::ng-deep {
+    .floating-columns {
+      display: flex;
+      flex-direction: column;
+
+      .floating-bar {
+        order: 2;
+      }
+    }
+  }
+
   .entry-content {
     padding: 5rem 1.5rem;
 

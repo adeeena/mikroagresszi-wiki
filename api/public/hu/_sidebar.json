@@ -1,0 +1,35 @@
+﻿[
+  {
+    "title": "💡 Bevezetés",
+    "children": [
+      {
+        "id": "/intro",
+        "title": "Alapvető tudnivalók"
+      },
+      {
+        "entryId": "mit-jelent-transznak-lenni",
+        "title": "Mit jelent transznak lenni?"
+      },
+      {
+        "entryId": "mit-jelent-nem-binarisnak-lenni",
+        "title": "Mit jelent nem-binárisnak lenni?"
+      },
+      {
+        "entryId": "mit-jelent-interszexnek-lenni",
+        "title": "Mit jelent az interszex?"
+      },
+      {
+        "entryId": "mikroagressziok",
+        "title": "Mikroagressziókat tartalmazó mondatok"
+      },
+      {
+        "id": "/lexikon",
+        "title": "Lexikon"
+      },
+      {
+        "id": "/galery",
+        "title": "Galéria"
+      }
+    ]
+  }
+]

@@ -9,14 +9,14 @@ declare let process: any;
 })
 export class EntryService {
   private readonly baseUrl:string = '';
-  private entryUrl:string = '/entry/getBy?categoryId=';
-  private entryByUrl:string = '/entry/getById?entryId=';
+  private entryUrl:string = '/entry?languageCode=hu&id=';
+  private entryByUrl:string = '/entry?languageCode=hu&id=';
   private searchByUrl:string = '/entry/searchBy?query=';
 
   constructor(private http: HttpClient) {
     const env = process.env.NODE_ENV;
 
-    if (env  === 'production') {
+    if (env === 'production') {
       this.baseUrl = myGlobals.URL_LIVE;
     } else {
       this.baseUrl = myGlobals.URL_DEV;
@@ -28,7 +28,7 @@ export class EntryService {
   }
 
   getById(entryId: string) {
-    return this.http.get<Entry>(this.baseUrl + this.entryByUrl + entryId);
+    return this.http.get(this.baseUrl + this.entryByUrl + entryId, {responseType: 'text'});
   }
 
   searchBy(query: string) {
