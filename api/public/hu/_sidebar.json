@@ -1,34 +1,38 @@
 ﻿[
   {
-    "title": "💡 Bevezetés",
+    "title": "",
     "children": [
       {
-        "id": "/intro",
+        "entryId": "mikroagressziok",
         "title": "Alapvető tudnivalók"
       },
       {
-        "entryId": "mit-jelent-transznak-lenni",
-        "title": "Mit jelent transznak lenni?"
+        "entryId": "faji-hovatartozas-etnikum",
+        "title": "Faji hovatartozás, Etnikum"
       },
       {
-        "entryId": "mit-jelent-nem-binarisnak-lenni",
-        "title": "Mit jelent nem-binárisnak lenni?"
+        "entryId": "fogyatekossag",
+        "title": "♿️ Fogyatékosság"
       },
       {
-        "entryId": "mit-jelent-interszexnek-lenni",
-        "title": "Mit jelent az interszex?"
+        "entryId": "kor",
+        "title": " Kor"
       },
       {
-        "entryId": "mikroagressziok",
-        "title": "Mikroagressziókat tartalmazó mondatok"
+        "entryId": "lmbt",
+        "title": "🌈 LMBT+"
       },
       {
-        "id": "/lexikon",
-        "title": "Lexikon"
+        "entryId": "nem",
+        "title": "Nem"
       },
       {
-        "id": "/galery",
-        "title": "Galéria"
+        "entryId": "osztalyalapu",
+        "title": "Osztályalapú"
+      },
+      {
+        "entryId": "vallas",
+        "title": "Vallás"
       }
     ]
   }

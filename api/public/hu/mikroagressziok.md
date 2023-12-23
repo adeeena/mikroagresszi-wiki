@@ -1,38 +1,8 @@
 ---
-title: "🚫Transz létedre gyönyörű vagy! - Nemi mikroagresszió"
+title: "🚫 Bevezető a mikroagressziókhoz"
 description: "Mikroagresszió magyarázata, háttere, javaslatok."
 lang: hu
 ---
-
-<div class="floating-columns">
-
-<div class="floating-bar">
-
-[Bevezető](/#/entry?id=mikroagressziok)
-
-<hr />
-
-NEMI ALAPÚ MIKROAGRESSZIÓK
-
-[🚫 Transz létedre gyönyörű vagy!](/#/entry?id=mikroagresszio-transz-letedre-gyonyoru-vagy)
-
-[🚫 A rózsaszín lányoknak való](/#/entry?id=mikroagresszio-rozsaszin-lanyoknak-valo)
-
-[🚫 Tolakodó kérdések / feltételezések a nemi irányultsággal és a testtel kapcsolatban](/#/entry?id=mikroagresszio-tolakodo-kerdesek-es-feltetelezesek-a-nemi-iranyultsaggal-kapcsolatban)
-
-[🚫 Születési név megkérdezése](/#/entry?id=mikroagresszio-szuletesi-nev-megkerdezese)
-
-<hr />
-
-LMBT MIKROAGRESSZIÓK
-
-[🚫 Ciszhetet "normálisnak" említeni](/#/entry?id=mikroagresszio-ciszhetet-normalisnak-emliteni)
-
-
-
-</div>
-
-<div class="wiki-content">
 
 <div class="header-image"><img src="assets/images/undraw_feeling_blue.svg" /></div>
 
@@ -76,8 +46,3 @@ Nincs egyetlen helyes módja a mikroagresszióra való reagálásnak, de íme n�
 
 ### 4. Dönts a szituációról
 Mi az, amiben irányítani tudsz? Nem tudod mindig az embereket vagy a helyzetet teljesen kontroll alatt tartani, de azt tudod irányítani, hogy mit veszel ki a helyzetből, és mit vesz ki belőled. A legfontosabb, hogy megvédd saját magadat és a boldogságodat.
-
-
-##
-
-</div>
