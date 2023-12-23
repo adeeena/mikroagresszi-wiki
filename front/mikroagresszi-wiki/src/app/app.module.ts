@@ -27,6 +27,8 @@ import {Utf8EmojisToImagesModule} from "./lib/utf8-emojis-to-images.module";
 import { PickerModule } from '@ctrl/ngx-emoji-mart';
 import { HeaderComponent } from './components/header/header.component';
 import { MarkdownModule } from 'ngx-markdown';
+
+import {SearchService} from "./services/search.service";
 import {SidenavService} from "./services/sidenav-service.service";
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
@@ -79,7 +81,7 @@ export function initConfig(appConfig: AppConfigService) {
     useFactory: initConfig,
     deps: [AppConfigService],
     multi: true,
-  }, SidenavService],
+  }, SidenavService, SearchService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

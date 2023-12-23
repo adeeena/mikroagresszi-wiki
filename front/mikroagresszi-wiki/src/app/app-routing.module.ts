@@ -5,7 +5,7 @@ import {EntryComponent} from "./components/entry/entry.component";
 
 const routes: Routes = [
   {path: '' , component: HomeComponent},
-  {path: 'entry' , component: EntryComponent},
+  {path: 'entry' , component: EntryComponent}
 ];
 
 @NgModule({
