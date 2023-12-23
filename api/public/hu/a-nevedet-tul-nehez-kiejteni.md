@@ -9,9 +9,11 @@ source: e1ec247b-ecb7-482b-801d-264817b6b0c5
 
 # 🚫 A nevedet túl nehéz kiejteni.
 
-Ez a megjegyzés megerősíti a nyugati központú neveket mint normát, és azt kommunikálja az ember felé, hogy egyedi(bb) nevével kívülálló.
+Az a kijelentés, hogy "A nevedet túl nehéz kiejteni," megbélyegzi azokat, akik olyan nevekkel rendelkeznek, amelyek nem illeszkednek a nyugati kiejtési normákhoz. **Ez a megjegyzés nem csak az egyén nevének, hanem az egész kultúrájának, identitásának és hátterének elutasítását is kifejezheti.** Az implicit üzenet az, hogy a nyugati nevek az elfogadottak és könnyen kezelhetők, míg más kultúrák nevei túlösszetettek vagy kellemetlenek.
 
-A név egy személy identitásának lényeges része. Ha valaki nem hajlandó megfelelően kiejteni a nevét, az leértékeli és elveti az identitását, és a tisztelet hiányának jele. Egy "könnyebb" név kérése (gyakran a "nyugati" alternatíva szinonimája) tovább erősíti a tisztelet és az erőfeszítés hiányát, és a nyugati neveket tartja fenn normaként.
+Egy személy neve fontos része az identitásának, és annak elfogadása és tisztelete alapvető emberi jog. **Ha valaki nem hajlandó megpróbálni megtanulni és tiszteletteljesen kiejteni egy másik személy nevét, az nem csupán szóbeli hanyagságot, hanem az empátia és a kulturális érzékenység hiányát is jelzi.** Például egy diák esetében az ilyen megjegyzés a tanárok részéről lehet sértő és demotiváló, és elősegítheti a diák érzését, hogy nem tartozik hozzájuk a tanulási környezetben.
+
+Az ilyen típusú mikroagressziók nem csak személyes kapcsolatokban okozhatnak feszültséget, hanem hozzájárulhatnak a társadalom szélesebb szintű kulturális érzéketlenségéhez. **Az idegen nevekkel való tiszteletteljes és helyes kiejtés megtanulása nemcsak egyéni szinten, hanem társadalmi szinten is segíthet az inkluzívabb és elfogadóbb környezet kialakításában.** Az ilyen mikroagressziók elleni fellépés és a nevek tiszteletteljes kezelése hozzájárulhat a kulturális sokszínűség tiszteletben tartásához és értékeléséhez.
 
 <div class="categories">
 

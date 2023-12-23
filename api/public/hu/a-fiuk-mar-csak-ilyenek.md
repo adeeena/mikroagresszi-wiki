@@ -9,13 +9,13 @@ source: 0eabd145-aaef-4d84-8539-748d4868ece4
 
 # 🚫 A fiúk már csak ilyenek.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+**Ezt a kifejezést gyakran használják arra, hogy felmentse mindenféle hagyományosan férfias viselkedést vagy hozzáállást, s ezen keresztül erősítse a nemek közötti sztereotípiákat.** A "A fiúk már csak ilyenek" vagy "Boys will be boys" kijelentés mögötti gondolatmenet sajnos azt sugallja, hogy a férfiaknak kevesebb önkontrollal rendelkeznek, és bizonyos típusú viselkedést nem képesek vagy nem kötelezőek megfékezni. **Ez nem csak hogy korlátozza a fiúk és férfiak személyes fejlődését, de erősíti és állandósítja az elavult nemi sztereotípiákat.**
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Ezen kifejezés alkalmazása továbbá azt is sugallja, hogy a fiúk természetükből adódóan képtelenek felelősséget vállalni a tetteikért és azok következményeiért. Ez a hozzáállás nem csak az egyéni felelősségvállalást aláássa, hanem az iskolai és társadalmi normákra gyakorolt hatását is befolyásolja. **Azok a fiúk, akik nem felelnek meg a hagyományos férfiasság ideájának, könnyen stigmatizálódnak és kirekesztődnek.**
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
+Ezen kifejezés nemcsak a mindennapi szituációkban, hanem súlyosabb esetekben, **például szexuális erőszak ügyében is problémát okozhat.** A felmentés, amit a "Boys will be boys" kijelentés hordoz, gyakran arra használható, hogy minimalizálják vagy mentségül szolgáljanak olyan tettekhez, amelyek társadalmilag elfogadhatatlanok és törvénybe ütközőek. Ez a hozzáállás megtagadja az egyéni felelősségét, és azt sugallja, hogy minden férfi előre meghatározottan és általánosan az ilyen típusú viselkedésre hajlamos.
 
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Az ilyen kifejezésekkel való szembesülés azt mutatja, hogy fontos folytatni a nemek közötti egyenlőségért folytatott küzdelmet, és elutasítani az olyan kijelentéseket, amelyek erősítik a káros nemi sztereotípiákat. A társadalomnak felelősséget kell vállalnia az ilyen kifejezések terjedése ellen, hogy valódi egyenlőséget és elfogadást érhessünk el minden nem számára.
 
 
 <div class="categories">

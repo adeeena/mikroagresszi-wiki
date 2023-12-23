@@ -1,26 +1,21 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Annyira főnökösködő vagy."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 1e26bcd5-299e-48b2-9cc8-82b1a55efedd
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Annyira főnökösködő vagy.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+**"Annyira főnökösködő vagy."**- ilyen kijelentés számos sztereotípiát hordoz magában, amelyek negatívan érintik az erős, határozott nőket. A megjegyzés elsősorban azt az üzenetet közvetíti, hogy a nőknek nem illik határozottaknak és vezető szerepet vállalóknak lenniük. **Ez a sztereotípia nem csak korlátozza a nők számára elérhető lehetőségeket a munkahelyeken és más területeken, hanem tovább is erősíti azt a társadalmi elvárást, hogy a nőknek szubmisszív és passzív szerepet kell játszaniuk.**
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+A kifejezés mögött rejlő sztereotípia további problémákat is vet fel a nők ambícióival kapcsolatban. Míg a férfiakat gyakran dicsérik és támogatják, ha határozottan vezető szerepet vállalnak, addig a nőknek a "főnökösködő" jelző által gyakran szociális büntetéssel kell szembenézniük. **Ez nem csak a nők motivációját és ambícióját képes lekicsinyelni, de hozzájárul a munkahelyi egyenlőtlenségek fenntartásához és azoknak a sztereotípiáknak az állandósításához, amelyek szerint a nőknek inkább támogató, mint irányító szerepet kell vállalniuk.**
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+A mikroagressziók elleni küzdelemben fontos az ilyen kifejezések felismerése és azokkal szembeni fellépés. **Az olyan támogató munkahelyi környezet kialakítása, ahol az erős női vezetői szerepek elismerést és támogatást kapnak, hozzájárulhat a valódi egyenlőség megteremtéséhez.** A társadalomnak át kell értékelnie azokat az elvárásokat, amelyeket a nőkkel szemben támaszt, és támogatást kell nyújtania azoknak, akik határozottan törekszenek a vezetői pozíciók elérésére.
 
 <div class="categories">
-
-[Kor](/#/entry?id=kor)
 
 [Nem](/#/entry?id=nem)
 
@@ -28,12 +23,23 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
+➡️ [We all belong here.](https://www.youtube.com/watch?v=kc-7CrtdnKs&t=36s)
 
+➡️ [Beyonce wants you to stop saying “bossy”.](https://www.rollingstone.com/music/music-news/beyonce-wants-you-to-stop-saying-bossy-203689/)
 
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [The bossy double standard.](https://www.youtube.com/watch?v=IYrPxLYb75g)
 
 ## Forrás:
+
+➡️ [How not to sound like a sexist jerk even if you’re a woman.](https://time.com/22004/how-to-not-sound-like-a-sexist-jerk-even-if-youre-a-woman/)
+
+➡️ [Why girls get called bossy and how to avoid it.](https://www.psychologytoday.com/ca/blog/give-and-take/201403/why-girls-get-called-bossy-and-how-avoid-it)
+
+➡️ [The different words we use to describe male and female leaders.](https://hbr.org/2018/05/the-different-words-we-use-to-describe-male-and-female-leaders)
+
+➡️ [Women are bossy, men are leaders: how women in power are perceived differently to men.](https://www.drutherssearch.com/2019-1-17-women-are-bossy-men-are-leaders-how-women-in-power-are-perceived-differently-to-men/)
+
+➡️ [Words matter: how “bossy” and “feisty” undermine female employees.](https://www.inhersight.com/blog/insight-commentary/words-matter-bossy-feisty)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

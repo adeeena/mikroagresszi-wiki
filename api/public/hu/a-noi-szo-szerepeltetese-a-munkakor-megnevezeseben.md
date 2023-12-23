@@ -9,11 +9,13 @@ source: 7d74a038-f245-4c0a-928c-2568e04288b9
 
 # 🚫 A 'női' szó szerepeltetése a munkakör megnevezésében.
 
-Ez azt feltételezi, hogy bizonyos munkakörökben, pozíciókban és iparágakban a férfiak az alapértelmezettek, vagy hogy a magasan képzett és jól fizető munkakörökben dolgozó nők kívül esnek a normán.
+Az olyan kifejezések, amelyek a "női" jelzőt használják a munkakör megnevezésében, tovább erősítik a nemek közötti sztereotípiákat és eredményezhetik a nemi szerepek megerősítését a munkahelyeken. **Ez a gyakorlat alapvetően feltételezi, hogy bizonyos munkakörök, pozíciók vagy iparágak alapértelmezett módon a férfiak számára fenntartottak, és a nők csak kivételesek vagy eltérőek az általános normától.**
 
-Feltételezi, hogy a sztereotipikusan megbecsült munkaköröket (pl. orvos, mérnök, vezérigazgató stb.) férfiak töltik be.
+Az ilyen megkülönböztető jelzők a magasan tisztelt és jól fizető munkakörök esetében különösen problémásak, mivel **elősegítik azt a téves hiedelmet, hogy az ilyen pozíciókban a férfiak a szokásos és elfogadott választások, míg a nők a kivételek vagy különleges esetek.** Például a "orvosnő" vagy a "rendőrnő" kifejezés nem csak a nők megerősítő, hanem eltérő és kiemelt kategóriaként történő ábrázolását eredményezheti.
 
-Egy nőt \"női vezérigazgatóként\" vagy \"lányfőnökként\" leírni lekezelő módon utalhat egy nő teljesítményére és képességeire. Ez arra késztetheti a nőt, hogy megkérdőjelezze a tekintélyt parancsoló pozícióját. De azt is jelezheti a társadalom felé, hogy bár tisztelik őket, de közel sem annyira, mint egy hasonló pozícióban lévő férfit.
+A kifejezések használata, mint például "női vezérigazgató" vagy "girlboss", nem csak lekicsinylő, hanem alábecsülő is lehet. **Ezek azok a szóhasználatok, amelyek aláássák a nők teljesítményét és vezetői képességeit, mintha a nemükhöz kapcsolódó jelzők alapján értékelhetőek lennének.** Az efféle megkülönböztető kifejezések nemcsak a munkahelyi egyenlőség hiányát tükrözik, hanem azt is sugallják, hogy a nők által betöltött vezetői pozíciók nem érik el ugyanazt a társadalmi tiszteletet és elismerést, mint a férfiak által vezetett hasonló pozíciók.
+
+Egy elfogadóbb és inkluzív munkahelyi környezet kialakítása érdekében fontos elkerülni az olyan kifejezéseket, amelyek nem csak megerősítik a nemi sztereotípiákat, hanem aláássák is a nők munkahelyi szerepét és teljesítményét. A nyelvi pontosság és a tiszteletteljes kifejezésmód hozzájárulhat a valódi egyenlőség eléréséhez minden munkahelyen.
 
 
 <div class="categories">

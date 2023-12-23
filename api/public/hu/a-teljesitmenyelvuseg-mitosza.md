@@ -1,39 +1,40 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 A teljesítményelvűség mítosza"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 5c249eea-0c6d-4299-b49c-6d004a5eb08f
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 A teljesítményelvűség mítosza
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+**A teljesítményelvűség mítosza** olyan meggyőződés, amely hangsúlyozza, hogy a siker kizárólag a kemény munka és az egyéni teljesítmény függvénye, és figyelmen kívül hagyja a társadalmi struktúrák és egyéb tényezők szerepét. **Ez a megközelítés azt sugallja, hogy a faji hovatartozás, nemi azonosság, fogyatékosság vagy más szociokulturális tényezők nem befolyásolják az egyének esélyeit és lehetőségeit.**
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Ebben a mítoszban rejlő veszély, hogy félredi azokat a társadalmi kihívásokat, amelyekkel különböző csoportoknak szembesülniük kell, és elítéli azokat, akiknek a siker nem csupán a saját erőfeszítéseiken múlik. **Ez a meggyőződés hozzájárulhat az egyének sikerétől való társadalmi elszigetelődéshez, mivel figyelmen kívül hagyja a strukturális egyenlőtlenségeket, amelyek széles körűen érintik az egyéni lehetőségeket.**
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Az olyan kifejezések és elvek támogatása, amelyek a teljesítményelvűség mítoszára épülnek, nemcsak egyénekre nehezedő nyomást hoznak létre, hanem erősítik a társadalmi igazságtalanságokat és egyenlőtlenségeket is. **A valódi egyenlőség és befogadás eléréséhez szükséges a strukturális problémák és társadalmi kihívások szem előtt tartása, és az olyan mítoszok lebontása, amelyek korlátozzák a valóságos esélyegyenlőséget.** Az ilyen félrevezető elképzelések helyett fontos hangsúlyozni a társadalmi felelősséget és a szolidaritást, amelyek hozzájárulnak egy igazságosabb és befogadóbb társadalom kialakításához.
 
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
+[Fogyatékosság](/#/entry?id=fogyatekossag)
+
+[Osztályalapú](/#/entry?id=kor)
+
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Nem](/#/entry?id=nem)
 
 </div>
 
-## Példák:
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás:
+
+➡️ [Racial microaggressions in everyday life.](https://auburn.edu/equitytaskforce/pdf/Racial_MicroaggressionsshortVersion.pdf)
+
+
+➡️ [Examples of racial microaggressions.](https://sph.umn.edu/site/docs/hewg/microaggressions.pdf)
+
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 
