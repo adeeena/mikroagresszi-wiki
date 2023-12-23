@@ -25,7 +25,6 @@ import {TranslationLoader} from "./i18n/TranslationLoader";
 import {AppConfigService} from "./services/app-config.service";
 import {Utf8EmojisToImagesModule} from "./lib/utf8-emojis-to-images.module";
 import { PickerModule } from '@ctrl/ngx-emoji-mart';
-import { IntroComponent } from './components/intro/intro.component';
 import { HeaderComponent } from './components/header/header.component';
 import { MarkdownModule } from 'ngx-markdown';
 import {SidenavService} from "./services/sidenav-service.service";
@@ -45,7 +44,6 @@ export function initConfig(appConfig: AppConfigService) {
     SidebarComponent,
     EntryComponent,
     DialogElementsExampleDialog,
-    IntroComponent,
     HeaderComponent
   ],
   imports: [
