@@ -1,39 +1,34 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Örökös idegen sztereotípia"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 4a21646d-dd63-48ad-9319-73d6e2605391
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Örökös idegen sztereotípia
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Az "örökös idegen sztereotípia" azokra az előítéletekre és feltételezésekre utal, amelyek szerint egy nem fehér bőrű személyt automatikusan bevándorlónak tekintenek az országában, annak ellenére, hogy ott született. Ez a mikroagresszió erősíti a társadalmi elvárásokat és a gyakran fennálló rasszista sztereotípiákat, és káros hatással lehet az egyének érzéseire, identitására és beilleszkedésére.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**Az örökös idegen sztereotípia aláássa az egyének jogát a méltósághoz és az elfogadáshoz azáltal, hogy feltételezi, hogy kizárólag a külső megjelenés alapján lehet megítélni valakit az állampolgárságára vonatkozóan.** Például egy nem fehér bőrű egyén esetében az előítélet automatikusan feltételezi, hogy ő bevándorló vagy idegen, ami nem csak sértő, hanem elvonja a figyelmet az egyén egyéb jellemzőiről és értékeiről.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+A jobb megértés és elfogadás érdekében fontos felismerni és elutasítani az ilyen sztereotípiákat. Az előítéletekkel szembeni tudatosság növelése és a különböző kultúrák és identitások tiszteletben tartása hozzájárulhat egy olyan társadalom kialakításához, ahol minden egyén méltósága és jogai tiszteletben vannak tartva, függetlenül a bőrszínüktől vagy származásuktól.
 
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [During the 2021 NYC mayoral race a a political cartoon depicted Andrew Yang as a tourist to the city.](https://www.theguardian.com/us-news/2021/may/25/andrew-yang-new-york-mayor-tourist-cartoon)
 
 ## Forrás:
+
+➡️ [Microaggressions in everyday life.](https://books.google.ca/books?id=jyzcuvgTaIMC&pg=PA37&redir_esc=y#v=onepage&q&f=false)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

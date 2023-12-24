@@ -2,14 +2,18 @@
 title: "🚫 Transznemű lány létedre gyönyörű vagy."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 9dbb846a-6744-4c19-b648-1ce6f399ddb0
 ---
 
 <div class="wiki-content agression-title">
 
 # 🚫 Transznemű lány létedre gyönyörű vagy.
 
-Ezt általában bókként mondják, de jelzi a transznemű nőknek, hogy nem várják el tőlük, hogy szépek legyenek. Amikor valaki meglepődik, vagy hozzáteszi a megjegyzéséhez, hogy \"transznemű lány létére\", valójában azt akarja mondani, hogy a transznemű nőknek nem kell szépnek lenniük. Ez aláássa az identitásukat. Úgy kezeli őket, mint akik kevésbé érdemlik meg a csodálatot, mint mások. Megerősíti a társadalomban, hogy a transznemű nők \"abnormálisan\" vagy \"másképp\" néznek ki. A \"transznemű lánynak\" hozzáadása azt sugallja, hogy az illető nem is igazán nő.
+A "Transznemű lány létedre gyönyörű vagy" megjegyzés, bár látszólag bók, valójában számos problémát vet fel és mikroagressziót hordoz. Ez a kijelentés kifejezi, hogy **a szépség az alapján értékelhető, hogy valaki transznemű-e vagy sem, mintha a transznemű nőknek külön kategóriába kellene tartozniuk, és nem lehetnek egyszerűen nők.**
+
+Egy ilyen megjegyzés szorosan kapcsolódik a cisznormatív társadalmi normákhoz, amelyek azt sugallják, hogy a transznemű nők nem illeszkednek a "hagyományos" szépségideálokhoz. Azáltal, hogy a szépségüket a transzneműségükhöz köti, az üzenet az, hogy a transznemű nők csak azért lehetnek gyönyörűek, mert meghaladták az elvárásokat vagy a normákat.
+
+Egy jobb megközelítés az lenne, amikor elismerjük, hogy minden nő egyedi és szép a maga módján, függetlenül attól, hogy cisz- vagy transznemű. Az olyan kijelentések, mint "Gyönyörű vagy" vagy "Jól nézel ki", mindenféle feltétel nélkül fejezhetik ki az elismerést és az értékelést, és hozzájárulhatnak egy elfogadóbb és tiszteletteljes környezet kialakításához, ahol senkit nem korlátoznak vagy kategorizálnak a nemük vagy identitásuk alapján.
 
 
 <div class="categories">
@@ -20,14 +24,11 @@ Ezt általában bókként mondják, de jelzi a transznemű nőknek, hogy nem vá
 
 </div>
 
-## Példák:
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás:
+
+ [4 ‘compliments’ trans people don’t need you to make about their bodies.](https://everydayfeminism.com/2015/12/cissexist-compliments/)
+
+➡️ [What you need to know about microaggressions | trans women & non-binary POC.](https://www.youtube.com/watch?v=XoHzS-XNCSw)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

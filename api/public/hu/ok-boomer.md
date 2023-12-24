@@ -1,39 +1,36 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 OK, Boomer."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: d0793908-7c21-49d7-a2a5-738736f9e977
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 OK, Boomer.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Az "OK, Boomer" kifejezés használata mögötti mikroagresszió azt sugallja, hogy minden Baby Boomer egy homogén csoport, egyazon gondolkodásmóddal, cselekvési stílussal és viselkedéssel. **A kifejezés, bár eredetileg a generációs különbségeket szándékozta kifejezni, elterjedt és tágan értelmezhetővé vált egy idősebb, zárt gondolkodású, vagy a változásokkal szemben ellenálló személy általi jelzőként.** Ez az általánosítás káros, mert elnyomja az egyéni különbségeket és előítéleteket generál.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+A "boomer" kifejezés használata a társadalmi párbeszédet leegyszerűsíti, és a generációk közötti valóságos különbségeket homályossá teszi. Példaként, amikor egy fiatal "OK, Boomer" -t mond egy idősebb személynek azért, mert az nem ért egy új technológiát, az nemcsak az egyéni készségeket hagyja figyelmen kívül, hanem elősegíti azt a hangulatot is, amelyben az idősebbek érezhetik, hogy a véleményük értéktelen és figyelmen kívül hagyható.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Fontos megjegyezni, hogy a "OK, Boomer" nemcsak a generációk közötti különbségeket fejezi ki, hanem egyúttal a párbeszéd leegyszerűsítését és az empátia hiányát is. Ahelyett, hogy az egyéni tapasztalatokra és nézőpontokra nyitottak lennénk, ez a kifejezés előítéleteket és feszültséget szül. A generációk közötti kölcsönös megértésre való törekvésnek kellene helyet kapnia a társadalmi párbeszédben, és a sztereotípiák helyett az egyéni különbségek tiszteletben tartásán kellene alapulnia.
 
 
 <div class="categories">
 
 [Kor](/#/entry?id=kor)
 
-[Nem](/#/entry?id=nem)
-
 </div>
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
+➡️ [US Supreme Court Age Bias Case.](https://www.nytimes.com/2020/01/15/us/supreme-court-age-bias-ok-boomer.html)
 
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [“OK BOOMER Have A Terrible Day” t-shirt.](https://www.bonfire.com/store/ok-boomer)
 
 ## Forrás:
+
+➡️ [“OK boomer” is dividing generations. What does it mean?](https://www.nbcnews.com/better/lifestyle/ok-boomer-diving-generation-what-does-it-mean-ncna1077261 )
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

@@ -1,39 +1,34 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 A 'náci' szó melléknévként való használata."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 68b8b989-c0a8-41d4-b7f4-a304dd7dc248
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 A 'náci' szó melléknévként való használata.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Az a gyakorlat, hogy a "náci" szót melléknévként használják, káros hatásokkal jár mind a történelemre, mind a társadalmi párbeszédre nézve. **Amikor a kifejezést olyan kontextusban alkalmazzák, mint például "nyelvtannáci", az csökkenti a "náci" szó eredeti, súlyos jelentését.** Ezáltal lekicsinyli a nácik által a történelemben okozott valós pusztítást, és átlagos, hétköznapi jelentésbe helyezi azt, ami sértő lehet azok számára, akik az áldozatokkal kapcsolatban emlékeznek a múlt szörnyűségeire.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+A "náci" szó melléknévként való használata nem csupán a történelem súlyos tényeit veszélyezteti, hanem a társadalmi párbeszéd minőségét is rombolja. Az olyan példák, mint "kávéfőzőnáci" vagy "rendszernáci", széles körben elfogadottá tehetik azt a gondolkodásmódot, hogy a nácizmus valamilyen könnyed, tréfás dolog. Ez pedig súlyosan sértő lehet azok számára, akik személyesen érintettek voltak vagy családtagjaikat vesztették el a nácik kegyetlensége miatt.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+A helyes megközelítés a szavak megfelelő és tisztelettudó használata, különös tekintettel azokra, amelyek olyan történelmi tragédiákat reprezentálnak, mint a nácizmus által elkövetett népirtás. Az ilyen kifejezések kerülése nem csupán az empátia és tisztelet kifejezése a múlt iránt, hanem hozzájárul a társadalmi párbeszéd tiszta és konstruktív szinten tartásához is.
 
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
-[Nem](/#/entry?id=nem)
+[Vallás](/#/entry?id=vallas)
 
 </div>
 
-## Példák:
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás:
+
+➡️ [Stop calling yourself a grammar Nazi. ](https://www.quickanddirtytips.com/education/grammar/stop-calling-yourself-a-grammar-nazi)
+
+➡️ [Why we need to stop using the term “Grammar Nazi”.](https://www.kveller.com/why-we-need-to-stop-using-the-term-grammar-nazi/)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

@@ -1,13 +1,13 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Hangnem-kontroll"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 58afe2ce-f531-4495-a215-38be4e1e3c76
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Hangnem-kontroll
 
 Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
 
@@ -20,20 +20,23 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
+[Fogyatékosság](/#/entry?id=fogyatekossag)
+
+[LMBT+](/#/entry?id=lmbt)
+
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Nem](/#/entry?id=nem)
 
 </div>
 
-## Példák:
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás:
+
+➡️ [No, we won't calm down. Tone policing is just another way to protect privilege.](ct privilege https://everydayfeminism.com/2015/12/tone-policing-and-privilege/)
+
+➡️ [How to identify and help stop tone policing in the workplace.](https://www.businessinsider.com/how-to-identify-and-help-stop-tone-policing-in-workplace-2020-8)
+
+➡️ [What is tone policing?](https://www.purewow.com/wellness/what-is-tone-policing)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

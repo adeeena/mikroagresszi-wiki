@@ -2,15 +2,17 @@
 title: "🚫 Szóval, mikor kezded a hormonterápiát?"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
 ---
 
 <div class="wiki-content agression-title">
 
 # 🚫 Szóval, mikor kezded a hormonterápiát?
 
-Ez a kérdés invazív. Azt sugallja, hogy valaki úgy, ahogy van, nem teljes, hogy kevésbé nő vagy férfi. Számos akadálya van az hormonterápiának. Egyesek nem kívánnak különböző eljárásokon átesni. Az is előfordulhat, hogy nem akarnak erről nyíltan beszélni. A transznemű nők nők. A transznemű férfiak férfiak. Függetlenül attól, hogy milyen eljárásokon estek vagy nem estek át. Ez a kérdés az egyén identitását arra redukálja, hogy átesett-e egy orvosi eljáráson.
+A  kérdés nemcsak invazív, de sértő és tiszteletteljes is lehet egy személy transzidentitásával szemben. **Az ilyen megjegyzések mögötti téves feltételezés, hogy valaki csak akkor teljes vagy érvényes, ha bizonyos orvosi beavatkozásokon átesett, aláássa a transznemű személyek önazonosságát és jogát arra, hogy saját identitásukat azonosítsák.**
 
+Az ilyen kérdések nem veszik figyelembe azt a tényt, hogy minden transznemű egyén saját utat jár be az önazonosság kifejezése felé, és nem mindenki választja azonos módon a hormonterápiát vagy más orvosi eljárásokat. Az ilyen feltételezésekkel járó nyomás lehetőséget teremt az egyén számára, hogy magyarázkodjon vagy igazolja transzneműségét, ami sértő és megalázó.
+
+Fontos megérteni, hogy a transznemű nők és férfiak valódi és érvényes identitások, függetlenül attól, hogy részt vesznek-e orvosi beavatkozásokon vagy sem. Az igazságos és tiszteletteljes kommunikáció részeként érdemes elkerülni az olyan kérdéseket, amelyek az egyént csupán az orvosi eljárásokon keresztül próbálják azonosítani. Az elfogadás és a tisztelet támogatása az olyan kommunikáció irányába terelhet, amely nem összpontosít az egyén fizikai változásaira, hanem inkább az önazonosságuk tiszteletben tartására és elfogadására.
 
 <div class="categories">
 
@@ -20,12 +22,6 @@ Ez a kérdés invazív. Azt sugallja, hogy valaki úgy, ahogy van, nem teljes, h
 
 </div>
 
-## Példák:
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
 
 ## Forrás:
 

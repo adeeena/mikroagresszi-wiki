@@ -9,7 +9,11 @@ source: 0eabd145-aaef-4d84-8539-748d4868ece4
 
 # 🚫 Szerényebben (vagy kevésbé kislányosan) kellene öltözködnöd.
 
-Ezek a megjegyzések vagy arra ösztönzik a nőket, hogy szerényebben öltözzenek, vagy arra, hogy többet mutassanak magukból. Kizárólag a nők külsejére összpontosítanak. Teljesen elvonatkoztatnak a nők perspektívájától és a munkájukhoz való hozzáállásuktól, ehelyett helytelen és kéretlen tanácsokat adnak egy irreleváns, személyes témában. A nemi sztereotípiákból és a nőkkel szembeni elvárásokból fakadnak. A nőknek egyszerre kell konzervatívnak, ugyanakkor stílusosnak és vonzónak lenniük a munkahelyen. Ezeknek a tényezőknek semmi közük nem lehet a munkájukhoz és a munkához való hozzáállásukhoz. Az ilyen mondatok célja, hogy ellenőrzést gyakoroljanak a nők személyes döntései felett.
+Az ilyen típusú megjegyzések, amelyek azt sugallják, hogy "szerényebben kellene öltözködnöd," vagy "kevésbé kislányosan kellene viselkedned," nem csak sértik a nők személyes döntéseit, hanem mélyen gyökereznek a nemi sztereotípiákból és elvárásokból. Az ilyen kijelentések kizárólag a nők külső megjelenésére fókuszálnak, figyelmen kívül hagyva a szakmai képességeiket és a munkájuk iránti elkötelezettségüket. Ez nemcsak, hogy semlegesíti a nők személyes önrendelkezési jogát, hanem a munkahelyi egyenlőtlenségeket is erősíti.
+
+**Az ilyen típusú tanácsok nemcsak tévesek és irrelevánsak, hanem a munkakörnyezetben kirekesztő hatásúak is lehetnek. Például, amikor a nőket arra ösztönzik, hogy "kevésbé kislányosan öltözzenek," az a feltételezés is rejlik mögötte, hogy a fiatalos vagy játékos megjelenés ellentétes a szakmai komolysággal.** Ezen kívül ezek a megjegyzések elősegítik a társadalmi elvárásokat, amelyek szerint a nőknek meg kell felelniük egy szűkös szépségideálnak a munkahelyi siker érdekében.
+
+Ahhoz, hogy ezen mikroagressziók ellen hatékonyan fellépjünk, fontos az ilyen típusú elvárások és megjegyzések tudatosítása. Egy jobb megközelítés lehetne egy olyan munkahelyi kultúra kialakítása, amely elismeri és támogatja a szakmai teljesítményt függetlenül a külső megjelenéstől. Az olyan intézkedések, amelyek felhívják a figyelmet a nemi egyenlőség és az elfogadás fontosságára, hozzájárulhatnak a tudatosság növeléséhez és egy olyan munkakörnyezet kialakításához, amely minden alkalmazottnak egyenlő esélyeket biztosít.
 
 
 <div class="categories">
@@ -20,12 +24,11 @@ Ezek a megjegyzések vagy arra ösztönzik a nőket, hogy szerényebben öltözz
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [Women fight to change Australia workwear norms. ](https://www.theguardian.com/fashion/2021/nov/19/i-lost-part-of-my-identity-to-fit-in-women-fight-to-change-australias-workwear-norms)
 
 ## Forrás:
+
+➡️ [How workplace attires affects employee perceptions and organizational culture.](https://aquila.usm.edu/cgi/viewcontent.cgi?article=1784&context=honors_theses)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

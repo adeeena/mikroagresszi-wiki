@@ -9,7 +9,11 @@ source: 0eabd145-aaef-4d84-8539-748d4868ece4
 
 # 🚫 Nem tudom, hogy csináltad. Soha nem tudnék lemondani a gyerekemről.
 
-Ez a megjegyzés megszégyeníti azt a személyt, aki örökbe adta a gyermekét. Mind a szülőket, mind a gyermeket rossznak vagy erkölcsileg megkérdőjelezhetőnek bélyegzi meg. Nem veszi figyelembe a különböző okokat, amelyek miatt valaki fontolóra veheti, hogy örökbe adja a gyermekét, és gyakran figyelmen kívül hagyja a szülői érzéseket ezzel kapcsolatban. Szégyent ébreszthet a szülőkben a nehéz döntés miatt, amelyet meg kellett hozniuk.
+Ez a típusú megjegyzés mély sebeket üthet azokban, akik örökbe adták gyermekeiket, és súlyos károkat hordoz. **A kijelentés implicit módon sugallja, hogy az örökbefogadás egy olyan cselekedet, amelyet csak szívtelen vagy erkölcsileg megkérdőjelezhető személy hajlandó elkövetni. Ez az állítás teljesen figyelmen kívül hagyja azokat az érzelmi, személyes és körülményi tényezőket, amelyek befolyásolhatják egy szülőt, hogy ezt a nehéz döntést hozza meg.**
+
+Az ilyen kijelentések a szülők iránti tiszteletteljes hozzáállás hiányát tükrözik, és nem veszik figyelembe az érzéseiket és az örökbefogadási döntés mögötti komplexitást. Gyakran előfordulhat, hogy az örökbefogadó szülők felelős és szeretetteljes döntést hoztak a gyermekük jövőjével kapcsolatban. Az ilyen kijelentések megkérdőjelezik az örökbefogadó szülők szeretetét és odaadását, miközben további súlyt tesznek egy már nehéz döntésre.
+
+A tiszteletteljes párbeszéd és a mások érzéseinek tiszteletben tartása segíthet elkerülni az ilyen típusú mikroagressziókat, és hozzájárulhat egy elfogadóbb és megértőbb társadalom kialakításához.
 
 
 <div class="categories">
@@ -20,14 +24,11 @@ Ez a megjegyzés megszégyeníti azt a személyt, aki örökbe adta a gyermekét
 
 </div>
 
-## Példák:
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás:
+
+➡️ [“You were adopted?!”: An exploratory analysis of microaggressions.](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=2316&context=theses)
+
+➡️ [Microaggressions and transracial adoptions.](https://www.fertilityiq.com/adoption/microaggressions-and-transracial-adoption#microaggressions-towards-adopted-children-and-adoptive-parents)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 
