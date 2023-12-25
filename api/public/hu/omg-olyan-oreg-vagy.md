@@ -1,39 +1,36 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 OMG, olyan öreg vagy."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 956f1874-e7a9-45e8-895d-2a9838a2d66c
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 OMG, olyan öreg vagy.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Az "OMG, olyan öreg vagy" megjegyzés nemcsak sértő és illetlen, de számos előítéletet és sztereotípiát hordoz magában az idősebb emberekkel kapcsolatban. Ezen kijelentés használata azt sugallja, hogy az idősek kevésbé értelmesek, kevésbé képesek vagy értékesebbek a társadalomban. Ez a típusú mikroagresszió lekicsinyli az idősebb emberek tapasztalatait és értékét, és elősegíti az elavult sztereotípiákat az öregedéssel kapcsolatban.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**Például, amikor valaki ezt mondja, akkor nemcsak az életkorra, hanem az idősebbek képességeire és relevanciájára is utal.** Az ilyen megjegyzések nem csak a személyes kapcsolatokban, de a munkahelyeken is negatívan befolyásolhatják az idősebb munkavállalók elbírálását és lehetőségeit. Az ilyen megjegyzések erősítik az elavult társadalmi normákat és az öregedéssel kapcsolatos előítéleteket, amelyek hatással vannak az idősek önbecsülésére és társadalmi beilleszkedésére.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Ahelyett, hogy az életkorra utaló negatív megjegyzéseket használnánk, fontos lenne tiszteletteljes és pozitív kommunikációra összpontosítani. Az embereknek nem az életkoruk alapján kellene megítélniük vagy értékelniük egymást, hanem a személyes képességek, tapasztalatok és hozzájárulások alapján. Az idősebb generáció tagjai értékes forrásai lehetnek a társadalomnak, és az ilyen típusú sztereotípiák lebontása hozzájárulhat a tiszteletteljes és inkluzív környezet kialakításához minden korosztály számára.
 
 
 <div class="categories">
 
 [Kor](/#/entry?id=kor)
 
-[Nem](/#/entry?id=nem)
-
 </div>
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [SNL: Amazon Echo.](https://www.youtube.com/watch?v=YvT_gqs5ETk)
 
 ## Forrás:
+
+➡️ [The language of ageism: why we need to use words carefully.](https://academic.oup.com/gerontologist/article/56/6/997/2952876)
+
+➡️ [What does ageism in tech look like? ](https://technical.ly/diversity-equity-inclusion/ageism-in-tech/)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

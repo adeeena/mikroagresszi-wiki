@@ -1,37 +1,24 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Nem lehet megmondani, hogy meleg vagy."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Nem lehet megmondani, hogy meleg vagy.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Az a kijelentés, hogy "Nem lehet megmondani, hogy meleg vagy," problémás, mert homogenizálja és egységesíti a melegek közötti sokféleséget. Az ilyen megjegyzések elmulasztják elfogadni, hogy a szexuális orientáció egy személy egyéni része, és nincsenek általánosítások vagy külső jegyek, amelyek alapján egy meleg személy azonosítható lenne. Minden egyén különböző, és a melegség nem kivetített külső vagy személyiségjegyek alapján azonosítható.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
-
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+Ezenkívül az efféle kijelentések elbizonytalaníthatják az egyéneket az identitásukban, mivel sugallják, hogy a meleg személyeknek valamilyen közös vonásuk van. Az ilyen állítások hozzájárulnak a sztereotípiák és a melegekkel kapcsolatos előítéletek fenntartásához. Fontos hangsúlyozni, hogy a melegség egyéni tapasztalat, és mindenkit tisztelettel kell kezelni az egyedi személyiségében, függetlenül attól, hogy az illető ezt mennyire nyilvánosságra hozza.
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
+[LMBT+](/#/entry?id=lmbt)
 
 [Nem](/#/entry?id=nem)
 
 </div>
-
-## Példák:
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
 
 ## Forrás:
 

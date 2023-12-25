@@ -1,26 +1,23 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Olyan egzotikusan nézel ki."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: cab19bbf-1dec-407e-9575-cd50b489e4fd
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Olyan egzotikusan nézel ki.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A "Olyan egzotikusan nézel ki" kifejezés mögötti mikroagresszió számos kihívást vet fel, különösen a kulturális és etnikai sztereotípiák terén. Habár az "egzotikus" szó feltehetően jó szándékú bóknak szánható, valójában erősítheti a fehér kultúrát mint az elfogadott vagy kívánatos szépségideált. Ezáltal az érintett személy érezheti, hogy valamiben különleges vagy "nem normális", és kihívottá válhat a környezetében.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Az "egzotikus" kifejezés használata gyakran vezethet ahhoz, hogy az egyén bizonyos tulajdonságait kizárólagosan kiemelik vagy fetishizálják. Ennek eredményeként az illető nem az egyedisége, hanem az idegenként való kezelése miatt kerül figyelem középpontjába. Ez a jelenség gyakran fokozza a tárgyiasítást, és az illető kulturális vagy etnikai hátterét szélsőségesen hangsúlyozza.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+A helyes megközelítés az lenne, ha mindenkit személyiségük, képességeik és érdekeik alapján értékelnénk, anélkül, hogy az "egzotikus" jelzőt alkalmaznánk, mely könnyen vezethet sztereotípiákhoz és az egyén kulturális vagy etnikai hátterének egysíkú megítéléséhez. Az elfogadás és a sokszínűség tiszteletben tartása hozzájárulhat egy befogadóbb és támogatóbb környezet kialakításához.
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Nem](/#/entry?id=nem)
 
@@ -28,12 +25,19 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
+➡️ [The Office: “You’re very exotic looking. Was your dad a GI?”](https://getyarn.io/yarn-clip/b36d441c-c931-4b20-9441-11216782e01b)
 
+➡️ [Reporter reminds Rashida Jones she’s tan.](https://www.bustle.com/articles/60746-reporter-tells-rashida-jones-she-looks-very-tan-its-reminiscent-of-a-certain-cringeworthy-office)
 
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [Lily Singh: Real things white people have said to me.](https://www.youtube.com/watch?v=-ZkphjQUvzc)
+
+➡️ [Why I hate being called an “exotic beauty”.](https://www.glamour.com/story/exotic-beauty-compliment)
 
 ## Forrás:
+
+➡️ [Why calling me “exotic” isn’t a compliment.](https://www.rifemagazine.co.uk/2016/09/why-calling-me-exotic-isnt-a-compliment/ )
+
+➡️ [What people actually mean when they say someone is “exotic”.](https://wearemitu.com/mitu-voice/can-we-talk-about-the-word-exotic/)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

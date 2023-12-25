@@ -2,6 +2,7 @@
 title: "🚫 Szóval, mikor kezded a hormonterápiát?"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
+source: c6fb1db6-c8d6-4414-81a0-f948ef0ca8d8
 ---
 
 <div class="wiki-content agression-title">
@@ -22,8 +23,14 @@ Fontos megérteni, hogy a transznemű nők és férfiak valódi és érvényes i
 
 </div>
 
+## Példák:
+
+➡️ [I’m Genderqueer - Please stop asking me when I’m “really” going to transition.](http://www.mtv.com/news/2428003/genderqueer-transition-trans-awareness/)
+
 
 ## Forrás:
+
+➡️ [GLAAD launches trans microaggressions photo project.](https://www.glaad.org/blog/glaad-launches-trans-microaggressions-photo-project-transwk)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

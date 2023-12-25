@@ -1,39 +1,34 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Olyan nagymamás vagy."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 09464f23-2ff7-4203-9540-08dba3a2a856
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Olyan nagymamás vagy.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Az "Olyan nagymamás vagy" megjegyzés mögött rejlő mikroagresszió mélyebb problémákat vet fel az öregedéssel kapcsolatos előítéletekkel és sztereotípiákkal kapcsolatban. Ez a kijelentés nem csak az idős emberek értékét vitatja el, de azokat is kirekeszti, mintha az idős kor valamiféle hátrány lenne, amely csökkenti az egyén hasznosságát a társadalomban.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Ezen megjegyzés általánosító jellege továbbá elősegíti az idős emberek sztereotípiáit, mint például azt, hogy az idősebb generációk konzervatívak, technológiai analfabéták vagy érdekütközésben állnak a fiatalabbakkal. Az ilyen kijelentésekkel elkerülik azt a tiszteletteljes és befogadó légkört, amely minden korosztálynak meg kellene járnia, és amelyben mindenki méltó az elismerésre és a tiszteletre.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Ahelyett, hogy az idősödést negatív fényben látnánk, fontos hangsúlyozni az élettapasztalat, a bölcsesség és a különféle szerepek gazdagító hatásait. A közös időtöltés, tapasztalatmegosztás és tiszteletteljes beszélgetés lehetőséget teremthet arra, hogy minden generáció tanuljon és támogassa egymást. Az ilyen típusú megjegyzések helyett az egyének személyes erősségeire és hozzájárulásaikra összpontosítva segíthetünk elkerülni az életkorral kapcsolatos előítéleteket és hozzájárulni egy befogadóbb társadalom kialakításához.
 
 
 <div class="categories">
 
 [Kor](/#/entry?id=kor)
 
-[Nem](/#/entry?id=nem)
-
 </div>
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [Women over 50 cast for only stereotypical roles in Hollywood.](https://www.usatoday.com/story/entertainment/movies/2020/10/27/women-over-50-losing-out-major-movie-roles-study-finds/6048202002/)
 
 ## Forrás:
+
+➡️ [At my age, it’s time to fight everyday ageism.](https://www.washingtonpost.com/health/everyday-ageism-isnt-funny/2020/12/18/c542a0c6-34bf-11eb-8d38-6aea1adb3839_story.html)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

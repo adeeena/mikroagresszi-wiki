@@ -1,39 +1,32 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Javaslat, hogy két ember randizzon csak azért, mert mindketten melegek."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 0dd4aa66-8c41-488e-9118-21efb4c5b3e8
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Javaslat, hogy két ember randizzon csak azért, mert mindketten melegek.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Homogenizálja a melegek közösséget, és elmulasztja elismerni az egyéni preferenciákat és személyes vonzalmakat. Bár a jó szándékból fakad, hogy támogató és befogadó közösséget teremtsenek a melegek körében, ez a javaslat azon a feltételezésen alapul, hogy a melegek kizárólag az azonos nemi vonzalom miatt alkotnak párkapcsolatokat.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
-
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Ezen túlmenően, a javaslat dehumanizáló hatású lehet, mivel elhanyagolja az egyének személyes kívánságait és azonosítását. Mintha azt feltételezné, hogy a melegeknek nincsenek egyedi vágyaik és személyes preferenciáik a párkapcsolatok terén. A melegek, mint minden más csoport, különböző érdeklődési körökkel, személyes tulajdonságokkal és preferenciákkal rendelkeznek, és érdemlik, hogy ezeket tiszteletben tartsák a kapcsolatokban is.
 
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[LMBT+](/#/entry?id=lmbt)
 
 </div>
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [What if we treated straight couples like we treat gay couples on holiday?](https://www.youtube.com/watch?v=lPaVM4nkZFw)
 
 ## Forrás:
+
+➡️ [Stop saying ‘that's so gay’.](https://psychologybenefits.org/2014/02/07/anti-lgbt-microaggressions/)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

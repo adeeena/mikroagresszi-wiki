@@ -1,26 +1,22 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Csak férfiaknak adni elismerést egy nő munkájáért vagy ötleteiért."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 3403861f-0495-4220-bc54-e5446cb3606e
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Csak férfiaknak adni elismerést egy nő munkájáért vagy ötleteiért.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Az elismerés és dicséret egyenlőtlen elosztása az alapján, hogy valaki férfi vagy nő, komoly problémákat vet fel a munkahelyi egyenlőség és jogosság szempontjából. Amikor egy nő munkájáért vagy ötleteiért nem kap megfelelő elismerést, ez erősítheti az elavult nemi sztereotípiákat és előítéleteket. Az ilyen típusú mikroagressziók nem csupán a konkrét egyént érintik, hanem egész szervezeti kultúrákat és normákat alakíthatnak.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Például, ha egy csapatban egy nő javaslatáért vagy projektjéért kizárólag a férfi kollégák kapnak elismerést, az káros hatással lehet a csapatbeli dinamikára és a munkahelyi légkörre. Ez nem csak a nő munkáját értéktelenedíti, hanem lekicsinyli a nők hozzájárulását és szakértelmét az adott területen. Ezenfelül, ha a nők félnek kritikát megfogalmazni vagy kiállni az igazukért, mert attól tartanak, hogy "nehéz esetnek" bélyegzik őket, az tovább mélyíti a problémát, és a nők érzik, hogy nem kapnak megfelelő támogatást és megbecsülést a munkahelyi környezetben.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+A változás elérése érdekében fontos a munkahelyi kultúra átfogó vizsgálata és az egyenlőséget elősegítő intézkedések bevezetése. Az elismerésnek objektívnak és méltányosnak kell lennie, függetlenül az alkalmazott nemétől. A vezetőségnek aktívan támogatnia kell a nők részvételét és vezetői szerepvállalását, és biztosítania kell, hogy minden munkatárs érdemei megfelelően elismerésre kerüljenek. A nyílt kommunikáció és az esélyegyenlőségi politikák népszerűsítése segíthet abban, hogy a munkahely pozitív irányba változzon és mindenkinek egyenlő esélyeket biztosítson a karrierépítésben.
 
 
 <div class="categories">
-
-[Kor](/#/entry?id=kor)
 
 [Nem](/#/entry?id=nem)
 
@@ -28,12 +24,17 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
+➡️ [When a male colleague took credit for my work.](https://www.huffpost.com/entry/oh-no-he-didnt_b_5921bda8e4b07617ae4cbd19 )
 
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [Please don’t take credit for my work.](https://swaay.com/taking-credit-for-my-work )
 
 ## Forrás:
+
+➡️ [No credit where credit is due.](https://gap.hks.harvard.edu/no-credit-where-credit-due-attributional-rationalization-women’s-success-male-female-teams  )
+
+➡️ [ Men are taking credit for women’s work, and now we know why.](https://themq.org/2019/05/articles/news/men-are-taking-credit-for-womens-work-and-now-we-know-why/  )
+
+➡️ [The art of claiming credit.](https://hbr.org/podcast/2018/10/the-art-of-claiming-credit  )
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

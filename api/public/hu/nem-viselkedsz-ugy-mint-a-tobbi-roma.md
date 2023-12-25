@@ -1,37 +1,29 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Nem viselkedsz úgy, mint a többi roma."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Nem viselkedsz úgy, mint a többi roma.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A "Nem viselkedsz úgy, mint a többi roma" kijelentés mögött rejlő mikroagresszió súlyos hatással lehet az érintett személyre, különösen a roma közösséghez tartozókra. Ezen megjegyzés azzal az előfeltevéssel él, hogy minden roma egy homogén csoportot alkot, és megkérdőjelezi az egyéni személyiségüket, identitásukat és kulturális hűségüket.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Az efféle megjegyzés által érintett személyek számára ez komolyan sértő lehet, hiszen nem csak azt érzik, hogy elutasítják egyéni személyiségüket, de szintén azt, hogy egyetlen sztereotípiával próbálják őket definiálni. Ebben az esetben a félvér emberek is érezhetik ezt a nyomást, amikor rájuk próbálnak erőltetni egy adott "oldalt".
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Az ilyen megjegyzések elmozdítják az egyéni sokféleséget és erősítik a sztereotípiákat a roma közösségről. Az, hogy valaki nem viselkedik a várt módón, nem jelenti azt, hogy nem felel meg a kulturális identitásnak. Fontos lenne elkerülni az ilyen sztereotípiákon alapuló megítéléseket, és helyette támogatni az egyéni kibontakozást és autentikus kulturális kifejezést. Az elfogadás és tisztelet mindenkinek jár, függetlenül attól, hogy mennyire illeszkedik be az előzetes elképzeléseinkbe.
 
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Nem](/#/entry?id=nem)
 
 </div>
 
-## Példák:
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
 
 ## Forrás:
 

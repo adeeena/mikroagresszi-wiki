@@ -1,13 +1,13 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Egy fogyatékossággal élő személyt speciális igényűként emlegetni."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 3bfc16cf-9d66-409e-b8a8-119fd012571f
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Egy fogyatékossággal élő személyt speciális igényűként emlegetni.
 
 Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
 
@@ -20,20 +20,14 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[Fogyatékosság](/#/entry?id=fogyatekossag)
 
 </div>
 
-## Példák:
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás:
+
+➡️ [Why “special needs” is not helpful.](https://rebecca-cokley.medium.com/why-special-needs-is-1959e2a6b0e)
+
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

@@ -1,39 +1,29 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Csak ne nyomulj rám, kérlek."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: fe5e98b2-d364-4247-a3fd-54e077d807cb
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Csak ne nyomulj rám, kérlek.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A "Csak ne nyomulj rám, kérlek" kifejezés mögötti mikroagresszió nem csupán személyes hatást gyakorol, hanem mélyebb társadalmi előítéleteket is tükröz. **Az ilyen megjegyzésekkel általában azt sugallják, hogy az LMBT+ közösség tagjai szexuális jellegű szándékokkal közelítik meg másokat, és ezáltal leegyszerűsítik és kirekesztik őket pusztán szexuális orientációjuk alapján.**
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Ezen kijelentés általánosító természete azt erősíti, hogy a melegek vagy más LMBT+ személyeknek kizárólag szexuális szándékaik vannak, és nem lehetnek olyan mély vagy érzelmi kapcsolatokban, mint a heteroszexuális emberek. Ez az előítéletesség és a sztereotípiák továbbra is erősítik az LMBT+ közösség tagjainak társadalmi kirekesztését.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+Ahelyett, hogy az LMBT+ emberek szexuális orientációját a közösség vagy a kapcsolatok során egyedülálló tényezőként kezelnénk, fontos hangsúlyozni az egyének sokszínűségét, személyes értékeit és mélységes kapcsolati igényeit. Az olyan kijelentések, amelyek az előítéleteket és negatív sztereotípiákat elutasítják, hozzájárulhatnak egy elfogadóbb és támogatóbb társadalom kialakításához, ahol minden egyén méltóságát és jogát tiszteletben tartják, függetlenül szexuális orientációjuktól.
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[LMBT+](/#/entry?id=lmbt)
 
 </div>
 
-## Példák:
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás:
+
+➡️ [Being gay is not a trend.](https://coppellstudentmedia.com/94760/opinions/being-gay-is-not-a-trend/)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

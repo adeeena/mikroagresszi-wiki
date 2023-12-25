@@ -1,13 +1,13 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Király! Te vagy az első transz barátom."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: b8f37be9-c177-4346-8599-0e5ae31a79ff
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Király! Te vagy az első transz barátom.
 
 Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
 
@@ -20,7 +20,7 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
+[LMBT+](/#/entry?id=lmbt)
 
 [Nem](/#/entry?id=nem)
 
@@ -28,12 +28,15 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [Not your token: trans bodies in post-secondary spaces.](https://theeyeopener.com/2019/11/not-your-token-trans-bodies-in-post-secondary-spaces/)
 
 ## Forrás:
+
+➡️ [This Is What Trans People Need From Their Cisgender Friends Right Now.](https://www.huffpost.com/entry/cis-people-better-friends-to-trans-people_l_604be596c5b672fce4eca33e)
+
+➡️ [GLAAD launches trans microaggressions photo project.](https://www.glaad.org/blog/glaad-launches-trans-microaggressions-photo-project-transwk)
+
+➡️ [Tokenism: what it is and its mental health effects.](https://www.health.com/mind-body/health-diversity-inclusion/tokenism)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

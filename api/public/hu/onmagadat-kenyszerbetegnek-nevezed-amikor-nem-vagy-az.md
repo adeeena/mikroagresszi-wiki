@@ -1,39 +1,36 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Önmagadat kényszerbetegnek nevezed, amikor nem vagy az."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 9f4faa92-2e5d-4bfa-acb1-7606e31b5d75
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Önmagadat kényszerbetegnek nevezed, amikor nem vagy az.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Az önmagát kényszerbetegnek nevező kifejezés használata nem csupán szóhasználati pontatlanságokat vet fel, hanem erősen negatívan hat a kényszerbetegséggel élő emberekkel való empátia és megértés terén. **Az ilyen megjegyzések azt sugallhatják, hogy a kényszerbetegség csupán az elrendezés iránti szokásos igényt jelenti, és ezzel elhomályosítja a valós mentális betegségek kihívásait és súlyosságát.** Az efféle szóhasználat nem csak pontatlan, de diszkriminatív is lehet, mivel lekicsinyli a mentális egészségügyi problémákkal élők élményeit és küzdelmeit.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Például, amikor valaki azáltal, hogy "kényszerbetegnek" nevezi önmagát, csak arra utal, hogy rendezett vagy tiszta környezetet kedvel, az figyelmen kívül hagyja a kényszerbetegség valódi, komplex jellegét. A kényszerbetegség egy olyan mentális zavar, amely szorongást és szenvedést okozhat, és a mindennapi élet számos területére kihat. Az ilyen kifejezések nem csak félrevezetőek, hanem marginalizálhatják azokat, akik valódi kényszerbetegséggel küzdenek, és nehezítik az empátiát és a megértést a mentális egészség terén.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Az elmozdulás a pontosabb és tiszteletteljes szóhasználat felé hozzájárulhat a mentális egészséggel kapcsolatos társadalmi sztereotípiák lebontásához és az empátia növeléséhez. Az önfeltételezés helyett inkább olyan kifejezéseket célszerű használni, amelyek tükrözik az egyén sajátosságait és preferenciáit, de nem félrevezetően asszociálnak mentális egészségügyi problémákkal.
 
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[Fogyatékosság](/#/entry?id=fogyatekossag)
 
 </div>
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [OMG, I’m so OCD.](https://www.nami.org/Blogs/NAMI-Blog/October-2015/OMG,-I’m-So-OCD)
 
 ## Forrás:
+
+➡️ [Please stop using OCD to describe your obsessive personality traits.](https://metro.co.uk/2017/10/11/please-stop-using-ocd-to-describe-your-obsessive-personality-traits-6989699/)
+
+➡️ [Obsessiveness or OCD? How to tell the difference.](https://www.everydayhealth.com/ocd/are-you-simply-obsessive-or-do-you-have-obsessive-compulsive-disorder/ )
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

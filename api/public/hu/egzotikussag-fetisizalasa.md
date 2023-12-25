@@ -1,39 +1,46 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Egzotikusság fetisizálása"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: eb345732-3c94-4d63-a300-1a6a7a56ec49
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Egzotikusság fetisizálása
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Azt jelenti, hogy valakit vagy valamit kizárólag azért értékelünk vagy találunk vonzónak, mert szokatlan vagy eltér a saját kulturális normáinktól. Ez a fajta megközelítés gyakran az egzotikusnak vagy idegenszerűnek tartott elemeket szűk, egydimenziós keretek közé szorítja, és azokat kizárólag tárgyként kezeli.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Az egzotikusság fetisizálása nem veszi figyelembe a kultúrák sokféleségét és összetettségét. Például, ha valakit kizárólag azért találunk vonzónak, mert különbözik tőlünk kulturális származása vagy megjelenése miatt, az egyszerűsítheti és elfoghatatlanná teheti az illető teljes személyiségét. Ez gyakran azt eredményezi, hogy az egyént nem a saját egyedi tulajdonságaival, érzéseivel és tapasztalataival szemléljük, hanem egyfajta exotikus kiegészítőként kezeljük.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Egy példa erre az, amikor valakit csak az etnikai vagy kulturális háttere miatt találunk érdekesnek, anélkül, hogy az illető egyéb tulajdonságait vagy érdekeit megvizsgálnánk. Ez a hozzáállás objektiválja az embereket, és megingathatja az egyenlőség és tisztelet alapelveit a sokszínűség terén. Az egzotikusság fetisizálása hozzájárulhat a sztereotípiák erősítéséhez és az egyének összetett identitásának leegyszerűsítéséhez, amely hosszú távon káros hatásokkal járhat.
 
 
 <div class="categories">
+
+[LMBT+](/#/entry?id=lmbt)
 
 [Kor](/#/entry?id=kor)
 
 [Nem](/#/entry?id=nem)
 
+[Faji hovatartozás, Etnikum](/#/entry?id=faji-hovatartozas-etnikum)
+
+[Vallás](/#/entry?id=vallas)
+
 </div>
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
+➡️ [The ‘magical negro’ trope makes a comeback in two new movies.](https://www.nbcnews.com/news/nbcblk/magical-negro-meme-makes-comeback-two-new-movies-n641296 )
 
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [Avril Lavigne, Asian women are not your props.](https://www.huffpost.com/entry/avril-lavigne-hello-kitty_n_5198199)
 
 ## Forrás:
+
+➡️ [4 reasons why calling a woman of colour “exotic” is racist.](https://everydayfeminism.com/2016/01/calling-woc-exotic-is-racist/)
+
+➡️ [White people think Black people are “magic”.](https://www.mic.com/articles/104298/white-people-think-black-people-are-magical)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

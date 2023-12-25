@@ -1,39 +1,34 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Hűha, olyan profi vagy."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: fe010c1c-6342-4e5e-98ba-05ed6d50be5a
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Hűha, olyan profi vagy.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A "Hűha, olyan profi vagy" megjegyzés, bár első pillantásra dicséretként tűnhet, valójában mikroagressziót rejt magában. Ez a kifejezés impliciten sugallja, hogy a kisebbségi embereknek vagy szakembereknek meglepő, amikor magas szintű szakértelmet vagy profizmust tanúsítanak. Ezenfajta megjegyzések továbberősítik a sztereotípiákat és előítéleteket, miszerint a kisebbségi szakemberek kevésbé járatosak vagy képesek a munkájukban, és ezzel aláássák az elért eredményeiket.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+A kisebbségi szakemberek ilyen típusú megkülönböztetése nem csak szakmailag demotiváló, hanem személyes érzéseket is kiválthat. Az ilyen kijelentések arra utalnak, hogy a személy származása vagy kisebbségi státusa meglepő lehetőségként értelmezhető, amely tovább táplálhatja a megbélyegzést és az elszigetelést.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+A helyes irány a munkahelyi környezet kialakítása, ahol minden szakember tiszteletteljes elismerést kap a szakértelméért és teljesítményéért, függetlenül attól, hogy milyen származású vagy kisebbségi csoportba tartozik. A pozitív visszajelzésnek objektívnek és mindenki számára egyenlő alapon kell nyilvánulnia, hogy elősegítse az inkluzív és támogató munkakörnyezetet.
 
 
 <div class="categories">
 
 [Kor](/#/entry?id=kor)
 
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
+
 [Nem](/#/entry?id=nem)
 
 </div>
 
-## Példák:
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás:
+
+➡️ [The bias of “professionalism” standards.](https://ssir.org/articles/entry/the_bias_of_professionalism_standards)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

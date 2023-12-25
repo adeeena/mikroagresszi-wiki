@@ -2,15 +2,18 @@
 title: "🚫 Valakire úgy hivatkozni, mint \"kerekesszékes\" vagy \"rokkant\"."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 5523e1f7-e1a4-44dd-afb0-b32a1a4df6e2
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 Valakire úgy hivatkozni, mint \"kerekesszékes\" vagy \"rokkant\".
+# 🚫 Valakire úgy hivatkozni, mint "kerekesszékes" vagy "rokkant".
 
-Ezeket a kifejezéseket gyakran használják a fogyatékossággal nem rendelkező emberek. Azon a meggyőződésen alapulnak, hogy a kerekesszék használata korlátozó. Ezt a hiedelmet a médiában a kerekesszéket használó emberek olyan ábrázolása támasztja alá, amely szerint ők képtelenek ugyanúgy élni vagy cselekedni, mint egy ép testű ember. Ezek a mondatok emlékeztethetik a személyt arra, hogy a többiek kevésbé tekintik alkalmasnak. Ezek a kifejezések nem azt sugallják, hogy a kerekesszékek mobilitást, függetlenséget és szabadságot biztosítanak az emberek számára. Azt sugallják, hogy elavult módon tekintenek a fogyatékossággal élő emberekre és arra, hogy hogyan élik az életüket.
+A kifejezés azért káros, mivel erősíti a fogyatékossággal élő emberekkel szembeni sztereotípiákat és előítéleteket. Ezek a kifejezések gyakran a fogyatékossággal nem rendelkező emberek részéről származnak, és alapjaiban téves nézeteket tükröznek a fogyatékossággal élők életminőségéről és képességeiről. A "kerekesszékes" jelző például azt az előítéletet hordozza magában, hogy a kerekesszék használata korlátozza az érintett személy mobilitását és életvezetési képességeit.
 
+Ezen kifejezések problémája továbbá mélyebben gyökerezik a média által terjesztett, torzított képben, amely a fogyatékossággal élő embereket sokszor tehetetlen vagy másodrendű szereplőkként ábrázolja. Az ilyen jellegű kifejezések nem csupán a nyelvi pontatlanság miatt aggályosak, hanem mivel társadalmi szinten erősítik a fogyatékossággal élőkkel szembeni elavult és diszkriminatív nézeteket.
+
+Az ilyen kifejezések elkerülése és helyettük tiszteletteljes és pontos nyelvhasználat elősegítése segíthet abban, hogy a fogyatékossággal élő emberek méltósága és egyenlősége jobban érvényesüljön. Az olyan kifejezések, mint "kerekesszék-használó" vagy "fogyatékossággal élő," az egyén személyiségét és képességeit hangsúlyozzák, elkerülve a negatív előítéletek erősítését. Az ilyen pozitív nyelvhasználat hozzájárulhat ahhoz, hogy a társadalomban elfogadóbb és befogadóbb légkört teremtsünk minden egyén számára.
 
 <div class="categories">
 
@@ -18,14 +21,10 @@ Ezeket a kifejezéseket gyakran használják a fogyatékossággal nem rendelkez�
 
 </div>
 
-## Példák:
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás:
+
+➡️ [Proper terminology: don't use “confined” or “wheelchair bound”.](https://canbc.org/blog/proper-terminology-dont-use-confined-to-or-wheelchair-bound/)
+
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

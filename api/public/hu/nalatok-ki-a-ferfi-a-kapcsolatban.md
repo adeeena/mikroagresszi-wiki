@@ -1,26 +1,22 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Nálatok ki a férfi a kapcsolatban?"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 7c6b55b5-5bd0-4936-9ce7-44e9d28ed33d
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Nálatok ki a férfi a kapcsolatban?
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A "Nálatok ki a férfi a kapcsolatban?" kérdés megingathatja a kapcsolatok sokszínűségét és az egyéni nemi identitást. Ez a kérdés a nemi sztereotípiák mély gyökereiből táplálkozik, mivel azt feltételezi, hogy minden kapcsolatnak meg kell felelnie a hagyományos, heteroszexuális szerepmegosztásnak. Az ilyen típusú sztereotípiákban a "férfias" és "nőies" szerepek kategorizálják az egyes személyeket.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
-
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Ez a kérdés nem csupán elavult és merev nemi szerepekre utal, de egyúttal elutasítja azt az alapelvet, hogy minden ember komplex és változatos. Az emberek biológiai nemüktől vagy nemi identitásuktól függetlenül rendelkezhetnek mind férfias, mind nőies tulajdonságokkal. A heteronormatív elvárások megkérdőjelezhetik és kihívhatják azokat a kapcsolatokat, amelyek nem illeszkednek bele az előre meghatározott nemi szerepekbe. Fontos hangsúlyozni, hogy minden kapcsolat egyedi és egyenlő alapokon nyugszik, és nincs szükség arra, hogy az egyik személyt a hagyományos sztereotípiák alapján "férfiasnak" vagy "nőiesnek" kategorizálják. Az ilyen kérdések nem csak szűkítik a kapcsolatok sokszínűségét, de elősegítik a sztereotípiák fenntartását is.
 
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
+[LMBT+](/#/entry?id=lmbt)
 
 [Nem](/#/entry?id=nem)
 
@@ -28,12 +24,15 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
+➡️ [Why the gender divide in same-sex relationships is a farce.](https://www.theguardian.com/lifeandstyle/2016/aug/23/same-sex-relationship-gender-roles-chores)
 
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
 
 ## Forrás:
+
+➡️ [Please stop asking me who the “man” is in my relationship with another woman.](https://www.elitedaily.com/p/why-asking-who-the-man-is-in-my-relationship-with-another-woman-is-not-cool-8653440)
+
+➡️ [ “Who’s the man?”: Heteronormativity and Queer Relationships.](https://everydayfeminism.com/2014/04/whos-the-man/)
+
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

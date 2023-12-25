@@ -1,21 +1,19 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Hány éves vagy? Olyan fiatalnak tűnsz."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 709d8eaf-cd93-44e7-88e0-8722ea110e51
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Hány éves vagy? Olyan fiatalnak tűnsz.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A "Hány éves vagy? Olyan fiatalnak tűnsz" megjegyzés mögötti mikroagresszió számos negatív hatást gyakorol az érintett személyekre. Ez a kérdés, bár első pillantásra elismerőnek tűnhet, valójában lekicsinyli az egyén élettapasztalatát és szakmai tekintélyét. Az ilyen típusú megjegyzésekkel gyakran elutasítják vagy érvénytelenítik az érintett személy élettapasztalatát és bölcsességét, amelyek valójában értékes erőforrások lehetnek a munkahelyen vagy más társadalmi környezetekben.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Ezen kívül ez a megjegyzés nyomást helyezhet az emberekre, hogy megfeleljenek egy bizonyos életkori elvárásnak, és szégyenérzetet kelthet a természetes öregedési folyamat miatt. Fiatalabb személyek, különösen nők esetében, ezáltal érezhetik, hogy érvénytelenítik vezetői képességeiket és szakmai hozzáértésüket.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+A helyes kommunikáció és tiszteletteljes kapcsolatok kialakításának érdekében fontos, hogy az életkort ne tekintsük kizárólagos tényezőnek, ami alapján megítéljük vagy értékeljük az embereket. Az élettapasztalat és a fiatalos lendület mindkét életkorcsoportban értékes lehet, és a két generáció közötti együttműködés előnyös lehet mind a munkahelyi, mind a társadalmi kapcsolatokban. Az életkori sokféleség tiszteletben tartása hozzájárulhat egy elfogadóbb és támogatóbb környezet kialakításához.
 
 
 <div class="categories">
@@ -28,12 +26,13 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 ## Példák:
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
+➡️ [When you look too young to be the doctor.](https://journals.lww.com/em-news/fulltext/2016/09000/careerealism__when_you_look_too_young_to_be_the.20.aspx )
 
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [PSA: Stop telling me I look “young” at work.](https://thefinancialdiet.com/psa-stop-telling-me-i-look-young-at-work/ )
 
 ## Forrás:
+
+➡️ [How looking young can shape your career.](https://www.bbc.com/worklife/article/20210503-how-looking-young-can-shape-your-career)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 
