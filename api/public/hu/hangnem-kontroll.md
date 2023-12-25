@@ -30,7 +30,7 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [No, we won't calm down. Tone policing is just another way to protect privilege.](ct privilege https://everydayfeminism.com/2015/12/tone-policing-and-privilege/)
 

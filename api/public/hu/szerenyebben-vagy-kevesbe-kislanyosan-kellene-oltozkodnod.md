@@ -22,11 +22,11 @@ Ahhoz, hogy ezen mikroagressziók ellen hatékonyan fellépjünk, fontos az ilye
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Women fight to change Australia workwear norms. ](https://www.theguardian.com/fashion/2021/nov/19/i-lost-part-of-my-identity-to-fit-in-women-fight-to-change-australias-workwear-norms)
 
-## Forrás:
+## Forrás
 
 ➡️ [How workplace attires affects employee perceptions and organizational culture.](https://aquila.usm.edu/cgi/viewcontent.cgi?article=1784&context=honors_theses)
 

@@ -21,11 +21,11 @@ Az ilyen típusú megjegyzések a megjelenésen alapuló rasszista sztereotípi�
 </div>
 
 
-## Példák:
+## Példák
 
 ➡️ [A '90-es évek népszerű szitkomjában, a 'Jóbarátokban' az volt a visszatérő egyik vicc, hogy Rachel Green (aki zsidó) kevésbé volt vonzó orrműtétje előtt.](https://hu.wikipedia.org/wiki/A_J%C3%B3bar%C3%A1tok_epiz%C3%B3djainak_list%C3%A1ja#2._%C3%A9vad:_1995-1996)
 
-## Forrás:
+## Forrás
 
 ➡️ [Index - Miért van a zsidóknak nagy orruk?](https://index.hu/tudomany/til/2020/06/18/miert_van_a_zsidoknak_nagy_orruk/)
 

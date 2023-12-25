@@ -22,13 +22,13 @@ A bőrszínvakság elutasítása nem csupán figyelmen kívül hagyja az egyéne
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [The problem with the phrase, “I don't see colour”.](https://youtu.be/7uBq2G65lUo)
 
 ➡️ [We need to talk about the comments that started Sutton & Crystal’s RHOBH feud.](https://www.refinery29.com/en-ca/2021/06/10507536/sutton-crystal-racism-colour-conversation-real-housewives-beverly-hills)
 
-## Forrás:
+## Forrás
 
 ➡️ [Why the “I don't see colour” mantra is hurting your diversity and inclusion efforts.](https://www.forbes.com/sites/janicegassam/2019/02/15/why-the-i-dont-see-color-mantra-is-hurting-diversity-and-inclusion-efforts/?sh=238598212c8d)
 

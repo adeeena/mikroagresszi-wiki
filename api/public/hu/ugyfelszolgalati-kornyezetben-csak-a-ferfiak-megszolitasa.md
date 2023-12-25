@@ -21,13 +21,13 @@ Ahhoz, hogy kezeljük és csökkentsük az ilyen mikroagressziókat az ügyféls
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Women are sharing their “I’m the client, not my husband” stories and “To say I’m fuming would be an understatement.”](https://www.buzzfeed.com/victoriavouloumanos/women-share-being-ignored-by-men-for-men  )
 
 ➡️ [Requesting quotes from contractor who’s demanding spouse/boyfriend be present.](https://www.reddit.com/r/Feminism/comments/hop3gj/requesting_quotes_from_contractors_demanding_the/ )
 
-## Forrás:
+## Forrás
 
 ➡️ [The gender gap: do dealerships treat women differently?](https://www.edmunds.com/car-safety/the-gender-gap-do-dealerships-treat-women-differently.html )
 

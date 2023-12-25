@@ -24,7 +24,7 @@ Egy jobb megközelítés az lenne, ha az emberek elhagynák az ilyen káros kife
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Roy Hibbert apologizes for use of gay slur, fined by NBA.](https://www.sportingnews.com/us/nba/news/4502775-roy-hibbert-no-homo-apology-gay-slur-pacers-heat-nba-playoffs-2013-david-stern)
 
@@ -32,7 +32,7 @@ Egy jobb megközelítés az lenne, ha az emberek elhagynák az ilyen káros kife
 
 ➡️ [Homophobia is a real fear…but of what exactly?](https://slate.com/human-interest/2014/01/what-is-homophobia-why-straight-men-are-right-to-be-afraid-of-homosexuality.html)
 
-## Forrás:
+## Forrás
 
 ➡️ [On why saying ‘no homo’ is perpetuating homophobia.](https://uws-promethean.com/2020/03/10/on-why-saying-no-homo-is-perpetuating-homophobia/ )
 

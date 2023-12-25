@@ -21,7 +21,7 @@ A mikroagressziók elleni küzdelemben fontos az ilyen kifejezések felismerése
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [We all belong here.](https://www.youtube.com/watch?v=kc-7CrtdnKs&t=36s)
 
@@ -29,7 +29,7 @@ A mikroagressziók elleni küzdelemben fontos az ilyen kifejezések felismerése
 
 ➡️ [The bossy double standard.](https://www.youtube.com/watch?v=IYrPxLYb75g)
 
-## Forrás:
+## Forrás
 
 ➡️ [How not to sound like a sexist jerk even if you’re a woman.](https://time.com/22004/how-to-not-sound-like-a-sexist-jerk-even-if-youre-a-woman/)
 

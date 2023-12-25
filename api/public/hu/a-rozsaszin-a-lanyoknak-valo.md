@@ -24,7 +24,7 @@ A rózsaszín színnel kapcsolatos sztereotípiák nemcsak a gyerekeket érintik
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [How to ask grandpa not to tell your son ‘boys don't cry’.](https://www.huffpost.com/archive/ca/entry/gender-language-advice_a_23485435)
 

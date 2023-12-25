@@ -23,12 +23,12 @@ Az ilyen kérdések elkerülése és helyette a tiszteletteljes, elfogadó kommu
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Katie Couric’s offensive interview reveals need for transgender visibility.](https://www.baltimoresun.com/features/bs-xpm-2014-01-09-bs-gm-katie-couric-laverne-cox-offensive-transgender-question-20140109-story.html)
 
 
-## Forrás:
+## Forrás
 
 ➡️ [Questionable Questions About Transgender Identity.](https://transequality.org/issues/resources/questionable-questions-about-transgender-identity)
 

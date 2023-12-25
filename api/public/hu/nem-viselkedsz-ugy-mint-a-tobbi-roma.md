@@ -25,7 +25,7 @@ Az ilyen megjegyzések elmozdítják az egyéni sokféleséget és erősítik a 
 </div>
 
 
-## Forrás:
+## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

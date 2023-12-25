@@ -23,7 +23,7 @@ A valódi elfogadás és tisztelet iránti elkötelezettség elengedhetetlen a v
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [#handsoffmyhijab Muslim women speak out against France’s ban of hijabs.](https://www.reuters.com/world/europe/hands-off-my-hijab-young-muslim-women-protest-proposed-french-ban-2021-05-04/)
 
@@ -31,7 +31,7 @@ A valódi elfogadás és tisztelet iránti elkötelezettség elengedhetetlen a v
 
 ➡️ [Hands Off My Hijab’ campaign.](https://twitter.com/handsoffmyhijab)
 
-## Forrás:
+## Forrás
 
 ➡️ [Where France’s possible hijab ban fits into history.](https://time.com/6049226/france-hijab-ban/)
 

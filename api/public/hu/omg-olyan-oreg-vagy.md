@@ -22,11 +22,11 @@ Ahelyett, hogy az életkorra utaló negatív megjegyzéseket használnánk, font
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [SNL: Amazon Echo.](https://www.youtube.com/watch?v=YvT_gqs5ETk)
 
-## Forrás:
+## Forrás
 
 ➡️ [The language of ageism: why we need to use words carefully.](https://academic.oup.com/gerontologist/article/56/6/997/2952876)
 

@@ -19,7 +19,7 @@ Ez a feltételezés egy olyan narratívát tart fenn, amelyben a zsidó emberek 
 </div>
 
 
-## Példák:
+## Példák
 
 ➡️ [Parody from “Curb Your Enthusiasm” where Larry finds out his lawyer isn’t Jewish.](https://www.youtube.com/watch?v=uGkLjfPWqeI)
 
@@ -30,7 +30,7 @@ Ez a feltételezés egy olyan narratívát tart fenn, amelyben a zsidó emberek 
 ➡️ [Hosts who crossed lines.](https://carpetbagger.blogs.nytimes.com/2013/02/25/accusations-of-anti-semitism-and-other-hosts-whove-crossed-lines/)
 
 
-## Forrás:
+## Forrás
 
 ➡️ [Exploring Jewish stereotypes in pop culture.](https://blogs.uoregon.edu/mediaprojecttroolinesdupont/)
 

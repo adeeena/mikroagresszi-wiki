@@ -24,7 +24,7 @@ A tiszteletteljes párbeszéd és a mások érzéseinek tiszteletben tartása se
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [“You were adopted?!”: An exploratory analysis of microaggressions.](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=2316&context=theses)
 

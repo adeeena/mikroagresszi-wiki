@@ -23,7 +23,7 @@ Ezen túlmenően, a "Csak segélyen képes élni" kijelentés általánosít és
 </div>
 
 
-## Forrás:
+## Forrás
 
  [Ontario Human Rights Commission: Forms of Discrimination.](http://www.ohrc.on.ca/en/policy-preventing-discrimination-based-mental-health-disabilities-and-addictions/10-forms-discrimination)
 

@@ -29,7 +29,7 @@ Fontos megérteni, hogy ezek a mikroagressziók nem csak egyedi esetek, hanem eg
 A javaslatok és megoldási lehetőségek felvázolására összpontosítva, hangsúlyozni kell a társadalmi tudatosság és oktatás fontosságát a fogyatékossággal kapcsolatos kérdésekben. Az olyan programok és kezdeményezések támogatása, amelyek célja a megértés és elfogadás növelése, kulcsfontosságú a mikroagressziók csökkentésében. Emellett fontos, hogy az embereket ösztönözzük arra, hogy ne alkalmazzanak előítéleteket, és helyezzék magukat a másik fél helyébe, így segítve a társadalom egészét a befogadóbb és támogatóbb környezet kialakításában.
 
 
-## Forrás:
+## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

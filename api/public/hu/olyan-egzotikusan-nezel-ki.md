@@ -23,7 +23,7 @@ A helyes megközelítés az lenne, ha mindenkit személyiségük, képességeik 
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [The Office: “You’re very exotic looking. Was your dad a GI?”](https://getyarn.io/yarn-clip/b36d441c-c931-4b20-9441-11216782e01b)
 
@@ -33,7 +33,7 @@ A helyes megközelítés az lenne, ha mindenkit személyiségük, képességeik 
 
 ➡️ [Why I hate being called an “exotic beauty”.](https://www.glamour.com/story/exotic-beauty-compliment)
 
-## Forrás:
+## Forrás
 
 ➡️ [Why calling me “exotic” isn’t a compliment.](https://www.rifemagazine.co.uk/2016/09/why-calling-me-exotic-isnt-a-compliment/ )
 

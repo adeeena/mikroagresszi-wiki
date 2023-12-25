@@ -20,13 +20,13 @@ A hasonló kifejezések használata elnyomó légkört teremt, és megnehezíti 
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Hilary Duff on CNN - ‘That's So Gay’ Think B4 You Speak!](https://youtu.be/yzebaOXdWxA)
 
 ➡️ [Universal removing gay slur from &quot;Dilemma&quot;.](https://www.hollywoodreporter.com/news/general-news/universal-removing-gay-slur-dilemma-28943/)
 
-## Forrás:
+## Forrás
 
 ➡️ [Common trans and/or non-binary based microaggressions.](https://www.ed.ac.uk/equality-diversity/students/microaggressions/lgbtq-microaggressions/trans-and-or-non-binary-microaggressions/commontrans-and-non-binary-based-microaggression)
 

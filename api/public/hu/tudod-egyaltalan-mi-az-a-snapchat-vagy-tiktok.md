@@ -22,11 +22,11 @@ A helyes megközelítés az lenne, ha nem a korhoz kötnénk a technológiai tud
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Ageist stereotypes in “The Intern”.](https://social-hire.com/blog/candidate/ageism-and-career-stereotypes-from-the-intern)
 
-## Forrás:
+## Forrás
 
 ➡️ [Are you guilty of microaggressions?](https://www.seniorconcerns.org/are-you-guilty-of-microaggressions/)
 

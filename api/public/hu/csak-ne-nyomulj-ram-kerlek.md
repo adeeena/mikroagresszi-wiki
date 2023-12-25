@@ -21,7 +21,7 @@ Ahelyett, hogy az LMBT+ emberek szexuális orientációját a közösség vagy a
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [Being gay is not a trend.](https://coppellstudentmedia.com/94760/opinions/being-gay-is-not-a-trend/)
 

@@ -30,13 +30,13 @@ Egy példa erre az, amikor valakit csak az etnikai vagy kulturális háttere mia
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [The ‘magical negro’ trope makes a comeback in two new movies.](https://www.nbcnews.com/news/nbcblk/magical-negro-meme-makes-comeback-two-new-movies-n641296 )
 
 ➡️ [Avril Lavigne, Asian women are not your props.](https://www.huffpost.com/entry/avril-lavigne-hello-kitty_n_5198199)
 
-## Forrás:
+## Forrás
 
 ➡️ [4 reasons why calling a woman of colour “exotic” is racist.](https://everydayfeminism.com/2016/01/calling-woc-exotic-is-racist/)
 

@@ -23,7 +23,7 @@ Ahelyett, hogy az egyének transzidentitását az előítéletes sztereotípiák
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Doctor Who refuses to acknowledge gender choice challenged by trans woman [good point about transition at 1:58].](https://youtu.be/mrt-4rWnBbI?t=118)
 
@@ -31,7 +31,7 @@ Ahelyett, hogy az egyének transzidentitását az előítéletes sztereotípiák
 
 ➡️ [Zoolander 2 reinforcing transgender stereotypes.](https://www.bbc.com/news/newsbeat-34904848)
 
-## Forrás:
+## Forrás
 
 ➡️ [What is a microaggression? 14 offensive phrases to avoid saying.](https://www.businessinsider.com/microaggression-unconscious-bias-at-work-2018-6#youre-transgender-wow-you-dont-look-like-it-at-all-2)
 

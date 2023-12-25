@@ -21,7 +21,7 @@ Ez a kifejezés egyértelműen jelzi a nemi sztereotípiák megerősítését, m
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [When asked what the downside is to having a female President, Marc Rudov responds with ‘You mean besides the PMS and the mood swings right?’](https://www.mediamatters.org/fox-nation/marc-rudov-downside-woman-president-you-mean-besides-pms-and-mood-swings-right)
 
@@ -29,7 +29,7 @@ Ez a kifejezés egyértelműen jelzi a nemi sztereotípiák megerősítését, m
 
 ➡️ [Pam Stone joke about friend being hospitalized for ‘female problems’.](https://www.chicagotribune.com/news/ct-xpm-1990-03-06-9001190313-story.html )
 
-## Forrás:
+## Forrás
 
 ➡️ [The problem with men who assume it's that “time of the month”.](https://www.huffpost.com/entry/problem-with-men-assuming-periods-time-of-the-month_n_55d1e18ae4b0ab468d9db129)
 

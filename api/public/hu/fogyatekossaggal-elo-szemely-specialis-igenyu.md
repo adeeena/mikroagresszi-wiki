@@ -24,7 +24,7 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [Why “special needs” is not helpful.](https://rebecca-cokley.medium.com/why-special-needs-is-1959e2a6b0e)
 

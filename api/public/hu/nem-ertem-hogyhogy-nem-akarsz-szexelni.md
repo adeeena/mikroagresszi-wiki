@@ -26,14 +26,14 @@ Az ilyen megjegyzések lekicsinylik az aszexuális emberek tapasztalatait azzal,
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Asexuals say the sexuality doesn’t fit anywhere… yet.](https://torontoobserver.ca/2021/10/27/asexuality/)
 
 
 ➡️ [Asexuality: The ascent of the ‘invisible’ sexual orientation.](https://www.bbc.com/worklife/article/20210507-asexuality-the-ascent-of-the-invisible-sexual-orientation)
 
-## Forrás:
+## Forrás
 
 ➡️ [Mi az aszexualitás és hogyan alakul ki?](https://napidoktor.hu/noi-egeszseg/mi-az-aszexualitas-es-hogyan-alakul-ki/)
 

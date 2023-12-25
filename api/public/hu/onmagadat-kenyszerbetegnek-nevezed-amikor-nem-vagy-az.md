@@ -22,11 +22,11 @@ Az elmozdulás a pontosabb és tiszteletteljes szóhasználat felé hozzájárul
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [OMG, I’m so OCD.](https://www.nami.org/Blogs/NAMI-Blog/October-2015/OMG,-I’m-So-OCD)
 
-## Forrás:
+## Forrás
 
 ➡️ [Please stop using OCD to describe your obsessive personality traits.](https://metro.co.uk/2017/10/11/please-stop-using-ocd-to-describe-your-obsessive-personality-traits-6989699/)
 

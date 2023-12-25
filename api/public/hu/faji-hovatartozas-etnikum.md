@@ -28,7 +28,7 @@ A mikroagressziók háttere gyakran a társadalmi sztereotípiákban és előít
 
 A megelőzés és kezelés érdekében kiemelten fontos a társadalmi tudatosság növelése, amely felhívja az emberek figyelmét az etnikummal és faji hovatartozással kapcsolatos mikroagressziók káros hatásaira. Olyan oktatási programok és kezdeményezések támogatása is elengedhetetlen, amelyek célja a sokszínűség elismerése és a tolerancia erősítése. Emellett fontos a párbeszéd ösztönzése, amely lehetőséget teremt a különböző kultúrákból származó emberek közötti megértés és tisztelet kialakítására. Az ilyen intézkedések hozzájárulhatnak egy olyan társadalomhoz, amely befogadóbb és támogatóbb minden etnikum és faji hovatartozású egyén számára.
 
-## Forrás:
+## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

@@ -25,7 +25,7 @@ Az ilyen kifejezések használata nem csak a heteroszexuális és cisznemű embe
 </div>
 
 
-## Forrás:
+## Forrás
 
 ➡️ [Why heteronormativity is a bad thing.](https://www.teenvogue.com/story/heteronormativity-gender-identity-sexual-orientation)
 

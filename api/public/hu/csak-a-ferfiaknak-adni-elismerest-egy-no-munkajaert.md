@@ -22,13 +22,13 @@ A változás elérése érdekében fontos a munkahelyi kultúra átfogó vizsgá
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [When a male colleague took credit for my work.](https://www.huffpost.com/entry/oh-no-he-didnt_b_5921bda8e4b07617ae4cbd19 )
 
 ➡️ [Please don’t take credit for my work.](https://swaay.com/taking-credit-for-my-work )
 
-## Forrás:
+## Forrás
 
 ➡️ [No credit where credit is due.](https://gap.hks.harvard.edu/no-credit-where-credit-due-attributional-rationalization-women’s-success-male-female-teams  )
 

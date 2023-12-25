@@ -28,11 +28,11 @@ A társadalomban való egyenlőség és tisztelet előmozdítása létfontosság
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Man claims he was refused service because he’s Black.](https://www.cbc.ca/news/canada/nova-scotia/man-claims-he-was-refused-service-because-he-s-black-1.1305374)
 
-## Forrás:
+## Forrás
 
 ➡️ [Microaggressions in everyday life.](https://books.google.ca/books?id=jyzcuvgTaIMC&pg=PA37&redir_esc=y#v=onepage&q&f=false)
 

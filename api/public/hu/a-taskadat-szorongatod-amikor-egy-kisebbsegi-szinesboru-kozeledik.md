@@ -24,14 +24,14 @@ Ez a megközelítés szorosan kapcsolódik ahhoz a problémához, hogy a mainstr
 </div>
 
 
-## Példák:
+## Példák
 
 ➡️ [The best part about working remotely: fewer microaggressions.](https://www.fastcompany.com/90516992/the-best-part-about-working-from-home-is-fewer-microaggressions)
 
 ➡️ [What documenting women clutching their purses taught me about racism.](https://vincedixonportfolio.com/2019/03/28/women-clutching-purse-black-men/)
 
 
-## Forrás:
+## Forrás
 
 ➡️ [The clutch of fear.](https://www.chicagoreader.com/chicago/the-clutch-of-fear/Content?oid=903053)
 

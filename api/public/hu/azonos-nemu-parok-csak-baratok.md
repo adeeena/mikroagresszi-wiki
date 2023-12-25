@@ -22,11 +22,11 @@ Az ilyen mikroagressziók elleni küzdelemben fontos a társadalmi tudatosság n
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [My Son’s Boyfriend Is Not His ‘Friend’.](https://www.theatlantic.com/entertainment/archive/2015/06/friend-gay-relationship-language-mores/397028/)
 
-## Forrás:
+## Forrás
 
 ➡️ [Queer couple called friends: what to do, why assumptions are harmful.](https://www.businessinsider.com/queer-couple-called-friends-what-to-do-assumptions-are-harmful-2020-2)
 

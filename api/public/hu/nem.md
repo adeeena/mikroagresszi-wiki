@@ -28,7 +28,7 @@ A mikroagressziók háttere gyakran a társadalmi és kulturális normákban rej
 
 A változás előmozdítása érdekében elengedhetetlen a szemléletváltás és az oktatás. Az embereknek tudatosítaniuk kell, hogy a nemek közötti sokszínűség természetes, és minden egyes személy egyedi. Az oktatási intézményekben és a munkahelyeken elő kell segíteni a tiszteletteljes kommunikációt és a nemek közötti egyenlőséget erősítő gyakorlatokat. A párbeszéd ösztönzése és az elfogadóbb társadalom kialakítása mindenkit segít abban, hogy a saját nemének vagy nemi identitásának megfelelően érezze magát.
 
-## Forrás:
+## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

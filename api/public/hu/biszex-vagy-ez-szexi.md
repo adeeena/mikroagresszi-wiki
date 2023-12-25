@@ -24,14 +24,14 @@ A mikroagressziók megelőzésének és kezelésének részeként fontos a társ
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Everyone Is Gay on TikTok. Straight young men on the app are posting suggestive videos with their buddies.](https://www.nytimes.com/2020/10/24/style/tiktok-gay-homiesexuals.html)
 
 
 ➡️ [Girl crush anyone? The evolution of lesbian chic.](https://theconversation.com/girl-crush-anyone-the-evolution-of-lesbian-chic-28451)
 
-## Forrás:
+## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

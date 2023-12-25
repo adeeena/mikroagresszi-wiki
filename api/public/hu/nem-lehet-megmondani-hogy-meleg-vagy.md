@@ -20,7 +20,7 @@ Ezenkívül az efféle kijelentések elbizonytalaníthatják az egyéneket az id
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

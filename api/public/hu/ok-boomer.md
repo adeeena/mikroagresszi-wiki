@@ -22,13 +22,13 @@ Fontos megjegyezni, hogy a "OK, Boomer" nemcsak a generációk közötti külön
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [US Supreme Court Age Bias Case.](https://www.nytimes.com/2020/01/15/us/supreme-court-age-bias-ok-boomer.html)
 
 ➡️ [“OK BOOMER Have A Terrible Day” t-shirt.](https://www.bonfire.com/store/ok-boomer)
 
-## Forrás:
+## Forrás
 
 ➡️ [“OK boomer” is dividing generations. What does it mean?](https://www.nbcnews.com/better/lifestyle/ok-boomer-diving-generation-what-does-it-mean-ncna1077261 )
 

@@ -22,7 +22,7 @@ Az ilyen típusú mikroagressziók nem csak személyes kapcsolatokban okozhatnak
 </div>
 
 
-## Példák:
+## Példák
 
 ➡️ [Chiwetel Ejiofor: I was a kid with a funny name. People said acting would be difficult.](https://www.theguardian.com/culture/2015/apr/11/chiwetel-ejiofor-interview-12-years-a-slave)
 
@@ -33,7 +33,7 @@ Az ilyen típusú mikroagressziók nem csak személyes kapcsolatokban okozhatnak
 ➡️ [Lily Singh; Real things white people have said to me.](https://www.youtube.com/watch?v=-ZkphjQUvzc)
 
 
-## Forrás:
+## Forrás
 
 ➡️ [Teachers, please learn our names.](https://www.tandfonline.com/doi/full/10.1080/13613324.2012.674026)
 

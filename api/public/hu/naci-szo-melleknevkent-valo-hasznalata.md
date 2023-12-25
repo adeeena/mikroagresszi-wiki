@@ -24,7 +24,7 @@ A helyes megközelítés a szavak megfelelő és tisztelettudó használata, kü
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [Stop calling yourself a grammar Nazi. ](https://www.quickanddirtytips.com/education/grammar/stop-calling-yourself-a-grammar-nazi)
 

@@ -26,7 +26,7 @@ A helyes irány a munkahelyi környezet kialakítása, ahol minden szakember tis
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [The bias of “professionalism” standards.](https://ssir.org/articles/entry/the_bias_of_professionalism_standards)
 

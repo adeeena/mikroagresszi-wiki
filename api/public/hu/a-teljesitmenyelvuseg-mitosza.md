@@ -28,7 +28,7 @@ Az olyan kifejezések és elvek támogatása, amelyek a teljesítményelvűség 
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [Racial microaggressions in everyday life.](https://auburn.edu/equitytaskforce/pdf/Racial_MicroaggressionsshortVersion.pdf)
 

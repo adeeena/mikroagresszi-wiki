@@ -24,13 +24,13 @@ A helyes kommunikáció és tiszteletteljes kapcsolatok kialakításának érdek
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [When you look too young to be the doctor.](https://journals.lww.com/em-news/fulltext/2016/09000/careerealism__when_you_look_too_young_to_be_the.20.aspx )
 
 ➡️ [PSA: Stop telling me I look “young” at work.](https://thefinancialdiet.com/psa-stop-telling-me-i-look-young-at-work/ )
 
-## Forrás:
+## Forrás
 
 ➡️ [How looking young can shape your career.](https://www.bbc.com/worklife/article/20210503-how-looking-young-can-shape-your-career)
 

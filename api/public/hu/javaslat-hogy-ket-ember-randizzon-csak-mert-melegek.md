@@ -20,11 +20,11 @@ Ezen túlmenően, a javaslat dehumanizáló hatású lehet, mivel elhanyagolja a
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [What if we treated straight couples like we treat gay couples on holiday?](https://www.youtube.com/watch?v=lPaVM4nkZFw)
 
-## Forrás:
+## Forrás
 
 ➡️ [Stop saying ‘that's so gay’.](https://psychologybenefits.org/2014/02/07/anti-lgbt-microaggressions/)
 

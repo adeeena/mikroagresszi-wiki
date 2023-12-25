@@ -28,7 +28,7 @@ Az efféle előítéletek nem csupán egyéni szinten érintik az érintetteket,
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

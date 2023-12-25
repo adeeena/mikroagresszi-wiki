@@ -24,7 +24,7 @@ A jobb megértés és tisztelet érdekében fontos felismerni, hogy a nyelvi kü
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [Language bullies, pedants and grammar nerds who correct people all the time: cut it out.](https://slate.com/human-interest/2013/09/language-bullies-pedants-and-grammar-nerds-who-correct-people-all-the-time-cut-it-out.html )
 

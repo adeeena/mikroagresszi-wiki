@@ -22,11 +22,11 @@ Ahelyett, hogy az idősödést negatív fényben látnánk, fontos hangsúlyozni
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Women over 50 cast for only stereotypical roles in Hollywood.](https://www.usatoday.com/story/entertainment/movies/2020/10/27/women-over-50-losing-out-major-movie-roles-study-finds/6048202002/)
 
-## Forrás:
+## Forrás
 
 ➡️ [At my age, it’s time to fight everyday ageism.](https://www.washingtonpost.com/health/everyday-ageism-isnt-funny/2020/12/18/c542a0c6-34bf-11eb-8d38-6aea1adb3839_story.html)
 

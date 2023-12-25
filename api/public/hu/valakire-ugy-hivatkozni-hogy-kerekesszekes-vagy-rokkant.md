@@ -21,7 +21,7 @@ Az ilyen kifejezések elkerülése és helyettük tiszteletteljes és pontos nye
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [Proper terminology: don't use “confined” or “wheelchair bound”.](https://canbc.org/blog/proper-terminology-dont-use-confined-to-or-wheelchair-bound/)
 

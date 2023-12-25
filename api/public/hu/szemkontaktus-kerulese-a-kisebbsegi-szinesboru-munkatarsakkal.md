@@ -18,7 +18,7 @@ Ez a viselkedés annyira apró és finom, nagyon nehezen észrevehető. A kisebb
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [Excerpts from: racial microaggressions in everyday life.](http://auburn.edu/equitytaskforce/pdf/Racial_MicroaggressionsshortVersion.pdf)
 

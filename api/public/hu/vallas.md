@@ -28,7 +28,7 @@ A mikroagressziók háttere részben a vallási sokszínűség hiányában és a
 
 A változás eléréséhez kulcsfontosságú a vallási sokszínűség tiszteletben tartása és az interkulturális megértés elősegítése. Az oktatásnak és a társadalmi programoknak kiemelten kell foglalkozniuk a vallási sokszínűséggel, és ösztönözniük kell a tiszteletteljes párbeszédet különböző vallási hátterű emberek között. Az intézményeknek, munkahelyeknek és közösségeknek ki kell alakítaniuk olyan környezeteket, amelyek támogatják a vallási sokszínűséget, és ahol mindenki érzi, hogy tiszteletteljesen kezelik vallási hovatartozásától függetlenül.
 
-## Forrás:
+## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

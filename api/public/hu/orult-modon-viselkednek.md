@@ -23,7 +23,7 @@ A helyes megközelítés a szóhasználat változtatása, például "szokatlanul
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [How the stigma of mental health is spread by mass media.](https://www.verywellmind.com/mental-health-stigmas-in-mass-media-4153888#depictions-of-schizophrenia-in-film)
 
@@ -31,7 +31,7 @@ A helyes megközelítés a szóhasználat változtatása, például "szokatlanul
 
 ➡️ [How cinema stigmatizes mental illness.](https://www.bbc.com/culture/article/20180828-how-cinema-stigmatises-mental-illness)
 
-## Forrás:
+## Forrás
 
 ➡️ [Why people are arguing to stop using the words.](https://www.npr.org/2019/07/08/739643765/why-people-are-arguing-to-stop-using-the-words-crazy-and-insane)
 

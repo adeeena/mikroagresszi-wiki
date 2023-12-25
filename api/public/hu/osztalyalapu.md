@@ -28,7 +28,7 @@ A mikroagressziók háttere szorosan kapcsolódik a társadalmi struktúrákhoz 
 
 Az osztályalapú kapcsolatos mikroagressziók elleni küzdelemhez kulcsfontosságú a társadalmi tudatosság növelése és az empátia erősítése. Az oktatási rendszerekben és a munkahelyeken fontos olyan programokat bevezetni, amelyek ösztönzik a megértést és tiszteletteljes kommunikációt a különböző társadalmi osztályokhoz tartozó emberek között. Az intézményeknek aktívan részt kell venniük az egyenlőség és az igazságosság előmozdításában, és biztosítaniuk kell, hogy minden egyén méltósága és értéke független legyen az anyagi helyzetétől.
 
-## Forrás:
+## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

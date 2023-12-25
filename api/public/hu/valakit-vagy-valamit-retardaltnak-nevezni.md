@@ -24,7 +24,7 @@ A tudatos és felelős nyelvhasználat kulcsfontosságú az inkluzív társadalo
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Mean Girls movie uses the r-word repeatedly.](https://gnds1252016.wordpress.com/2016/02/01/the-display-of-disabilities-in-mean-girls/ )
 
@@ -32,7 +32,7 @@ A tudatos és felelős nyelvhasználat kulcsfontosságú az inkluzív társadalo
 
 ➡️ [Kim Kardashian apologizes for use of r-word.](https://www.usatoday.com/story/life/people/2018/11/01/kim-kardashian-west-sorry-using-derogatory-term-over-costume/1851859002/)
 
-## Forrás:
+## Forrás
 
 ➡️ [The use of the r-word and why it’s a problem.](https://www.bu.edu/wheelock/the-use-of-the-r-word-and-why-its-a-problem/)
 

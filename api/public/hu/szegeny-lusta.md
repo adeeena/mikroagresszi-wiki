@@ -22,7 +22,7 @@ Ezen előítéleteknek következményei vannak nem csak a szegény emberek szám
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [Effects of poverty on childhood development seen in children as young as 5.](https://www.sciencedaily.com/releases/2020/10/201009093542.htm)
 

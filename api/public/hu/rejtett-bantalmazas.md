@@ -26,7 +26,7 @@ A manipuláció egy formája, amelyet arra használnak, hogy megkérdőjelezzék
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [What is gaslighting? And how to you know if it’s happening to you?](https://www.nbcnews.com/better/health/what-gaslighting-how-do-you-know-if-it-s-happening-ncna890866)
 

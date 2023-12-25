@@ -26,11 +26,11 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Not your token: trans bodies in post-secondary spaces.](https://theeyeopener.com/2019/11/not-your-token-trans-bodies-in-post-secondary-spaces/)
 
-## Forrás:
+## Forrás
 
 ➡️ [This Is What Trans People Need From Their Cisgender Friends Right Now.](https://www.huffpost.com/entry/cis-people-better-friends-to-trans-people_l_604be596c5b672fce4eca33e)
 

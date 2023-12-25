@@ -29,7 +29,7 @@ A korral kapcsolatos mikroagressziók háttere gyakran a társadalmi elvárások
 A mikroagressziók csökkentése érdekében elengedhetetlen a társadalmi tudatosság növelése az öregedéssel kapcsolatos kérdésekben. Fontos, hogy az embereket ne ítéljék meg az életkoruk alapján, és a társadalom tegyen erőfeszítéseket az idősebb generációk tiszteletteljes és értékes hozzájárulásának elismerése érdekében. Az oktatás és a párbeszéd segíthet abban, hogy az emberek felismerjék a korral kapcsolatos mikroagressziók káros hatásait, és ösztönözzék a befogadóbb és támogatóbb hozzáállást minden életkorral kapcsolatos kérdésben.
 
 
-## Forrás:
+## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

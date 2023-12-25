@@ -24,7 +24,7 @@ Az ilyen típusú kérdésekkel való szembesülés azt mutatja, hogy továbbra 
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [Unconscious bias — the impact of microaggressions in workplace.](https://www.allegisgroup.com/en-gb/insights/blog/2020/july/unconscious-bias-the-impact-of-microagressions-in-the-workplace)
 

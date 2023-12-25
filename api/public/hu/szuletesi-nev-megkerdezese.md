@@ -23,7 +23,7 @@ A születési név megkérdezése további problémát is felvet, amikor az ille
 
 </div>
 
-## Forrás:
+## Forrás
 
 ➡️ [Why asking students their preferred pronouns is not a good idea.](https://www.insidehighered.com/views/2018/09/19/why-asking-students-their-preferred-pronoun-not-good-idea-opinion)
 

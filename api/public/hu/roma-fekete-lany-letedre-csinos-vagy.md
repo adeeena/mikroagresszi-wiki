@@ -20,7 +20,7 @@ Ez a megjegyzés azt sugallja, hogy a nem roma (vagy nem fekete) emberek jelenti
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Zendaya: “I'm Hollywood’s acceptable version of a Black girl”.](https://www.bbc.com/news/newsbeat-43879480)
 
@@ -28,7 +28,7 @@ Ez a megjegyzés azt sugallja, hogy a nem roma (vagy nem fekete) emberek jelenti
 
 ➡️ [Excerpts from: racial microaggressions in everyday life.](https://byblacks.com/opinion/2736-how-internalized-racism-ruined-dating-for-me)
 
-## Forrás:
+## Forrás
 
 ➡️ [You’re pretty, for a Black girl.](https://www.thsppl.com/thsppl-articles/2017/4/27/youre-pretty-for-a-blackgirl)
 

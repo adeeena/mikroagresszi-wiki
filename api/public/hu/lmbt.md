@@ -28,7 +28,7 @@ A mikroagressziók háttere gyakran a társadalmi előítéletekben és sztereot
 
 A megoldások között szerepel a társadalmi tudatosság növelése az LMBT+-téma kapcsán, valamint az oktatás és a párbeszéd erősítése. Fontos hangsúlyozni az elfogadás és tisztelet fontosságát, valamint támogatni az olyan kezdeményezéseket, amelyek elősegítik a szexuális és nemi sokféleség elfogadását a mindennapi életben. Az olyan pozitív változások, mint a média reprezentáció sokszínűségének növelése és a diszkriminatív törvények elleni küzdelem, hozzájárulhatnak egy olyan társadalomhoz, amely mindenkit tiszteletteljesen kezel, függetlenül a nemi identitásától és szexuális orientációjától.
 
-## Forrás:
+## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

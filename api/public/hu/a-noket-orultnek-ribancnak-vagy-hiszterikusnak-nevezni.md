@@ -22,7 +22,7 @@ A társadalmi normák megváltoztatásához és a mikroagressziók elleni küzde
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Donald Trump on Megyn Kelly: “There was blood coming out of her wherever”.](https://www.youtube.com/watch?v=M28z9y4yT6Y)
 
@@ -33,7 +33,7 @@ A társadalmi normák megváltoztatásához és a mikroagressziók elleni küzde
 ➡️ [Wedding Crashers - “Jeremy, I love you”.](https://www.youtube.com/watch?v=hSf5IUE67Tw)
 
 
-## Forrás:
+## Forrás
 
 ➡️ [Female hysteria: the history of a “condition”.](https://www.medicalnewstoday.com/articles/the-controversy-of-female-hysteria)
 

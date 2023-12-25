@@ -22,11 +22,11 @@ A jobb megértés és elfogadás érdekében fontos felismerni és elutasítani 
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [During the 2021 NYC mayoral race a a political cartoon depicted Andrew Yang as a tourist to the city.](https://www.theguardian.com/us-news/2021/may/25/andrew-yang-new-york-mayor-tourist-cartoon)
 
-## Forrás:
+## Forrás
 
 ➡️ [Microaggressions in everyday life.](https://books.google.ca/books?id=jyzcuvgTaIMC&pg=PA37&redir_esc=y#v=onepage&q&f=false)
 

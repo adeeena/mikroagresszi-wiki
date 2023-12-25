@@ -22,12 +22,12 @@ Ez a kérdés nem csupán elavult és merev nemi szerepekre utal, de egyúttal e
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Why the gender divide in same-sex relationships is a farce.](https://www.theguardian.com/lifeandstyle/2016/aug/23/same-sex-relationship-gender-roles-chores)
 
 
-## Forrás:
+## Forrás
 
 ➡️ [Please stop asking me who the “man” is in my relationship with another woman.](https://www.elitedaily.com/p/why-asking-who-the-man-is-in-my-relationship-with-another-woman-is-not-cool-8653440)
 

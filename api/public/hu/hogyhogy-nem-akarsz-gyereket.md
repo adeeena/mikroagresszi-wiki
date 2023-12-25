@@ -26,14 +26,14 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
 
 
 ➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
 
-## Forrás:
+## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

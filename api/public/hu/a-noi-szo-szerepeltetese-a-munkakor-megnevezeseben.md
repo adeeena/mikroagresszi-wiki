@@ -25,7 +25,7 @@ Egy elfogadóbb és inkluzív munkahelyi környezet kialakítása érdekében fo
 </div>
 
 
-## Példák:
+## Példák
 
 ➡️ [Why we must get rid of “girlboss” culture for good.](https://www.refinery29.com/en-gb/2020/01/9044921/girlboss-culture-women-work)
 
@@ -37,7 +37,7 @@ Egy elfogadóbb és inkluzív munkahelyi környezet kialakítása érdekében fo
 ➡️ [“Girlboss”: when empowerment slogans backfire.](https://www.bbc.com/worklife/article/20200127-the-advert-that-triggered-a-debate-about-girl-boss)
 
 
-## Forrás:
+## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

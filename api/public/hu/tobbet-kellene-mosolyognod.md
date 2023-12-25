@@ -22,7 +22,7 @@ A jobb megértés és az egyenlőtlenségek felszámolása érdekében fontos le
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [A brief history of women being told to smile.](https://www.cnn.com/2018/01/31/politics/women-politicians-told-to-smile/index.html )
 
@@ -30,7 +30,7 @@ A jobb megértés és az egyenlőtlenségek felszámolása érdekében fontos le
 
 ➡️ [Brie Larson brilliantly claps back at sexist trolls who want Captain Marvel to smile.](https://www.stylist.co.uk/people/brie-larson-sexism-smile-superhero-captain-marvel-troll-twitter-instagram-films/228168)
 
-## Forrás:
+## Forrás
 
 ➡️ [Why it’s high time we stop telling women to smile.](https://www.stylist.co.uk/life/stop-telling-women-to-smile-feminism-sexism-victoria-beckham-brie-larson-experiment-psychology-opinion/229587)
 

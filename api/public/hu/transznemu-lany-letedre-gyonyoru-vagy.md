@@ -24,7 +24,7 @@ Egy jobb megközelítés az lenne, amikor elismerjük, hogy minden nő egyedi é
 
 </div>
 
-## Forrás:
+## Forrás
 
  [4 ‘compliments’ trans people don’t need you to make about their bodies.](https://everydayfeminism.com/2015/12/cissexist-compliments/)
 

@@ -23,12 +23,12 @@ Fontos megérteni, hogy a transznemű nők és férfiak valódi és érvényes i
 
 </div>
 
-## Példák:
+## Példák
 
 ➡️ [I’m Genderqueer - Please stop asking me when I’m “really” going to transition.](http://www.mtv.com/news/2428003/genderqueer-transition-trans-awareness/)
 
 
-## Forrás:
+## Forrás
 
 ➡️ [GLAAD launches trans microaggressions photo project.](https://www.glaad.org/blog/glaad-launches-trans-microaggressions-photo-project-transwk)
 
