@@ -17,6 +17,8 @@ Ahelyett, hogy az LMBT+ emberek szexuális orientációját a közösség vagy a
 
 <div class="categories">
 
+## Kategóriák
+
 [LMBT+](/#/entry?id=lmbt)
 
 </div>

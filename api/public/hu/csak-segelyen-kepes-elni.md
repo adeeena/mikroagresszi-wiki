@@ -18,6 +18,8 @@ Ezen túlmenően, a "Csak segélyen képes élni" kijelentés általánosít és
 
 <div class="categories">
 
+## Kategóriák
+
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>

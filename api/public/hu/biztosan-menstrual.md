@@ -17,6 +17,8 @@ Ez a kifejezés egyértelműen jelzi a nemi sztereotípiák megerősítését, m
 
 <div class="categories">
 
+## Kategóriák
+
 [Nem](/#/entry?id=nem)
 
 </div>

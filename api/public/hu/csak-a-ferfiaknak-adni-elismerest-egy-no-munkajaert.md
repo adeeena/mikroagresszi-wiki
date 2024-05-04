@@ -18,6 +18,8 @@ A változás elérése érdekében fontos a munkahelyi kultúra átfogó vizsgá
 
 <div class="categories">
 
+## Kategóriák
+
 [Nem](/#/entry?id=nem)
 
 </div>

@@ -18,6 +18,8 @@ Az ilyen típusú kérdésekkel való szembesülés azt mutatja, hogy továbbra 
 
 <div class="categories">
 
+## Kategóriák
+
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Nem](/#/entry?id=nem)

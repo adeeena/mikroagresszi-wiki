@@ -1,25 +1,5 @@
 <div class="content">
   <div class="trans-background header-card">
-    <div class="search-section">
-      <mat-form-field class="search-field">
-        <mat-label>
-          <mat-icon>
-            search
-          </mat-icon>
-          
-          Keresés...
-        </mat-label>
-        <input matInput #message (input)="searchUpdated($event)" placeholder="például: 'biszex'...">
-      </mat-form-field>
-
-      <div *ngIf="searchResults && searchResults.length" class="floating">
-        <div class="item" routerLink="/entry" [queryParams]="{ id: res.fileName }" *ngFor="let res of searchResults">
-          <div class="title">{{ res.title }}</div>
-          {{ res.contextBefore }}<b>{{ res.match }}</b>{{ res.contextAfter }}...
-        </div>
-      </div>
-    </div>
-
     <div class="header-card-content">
 
       <div class="home-box">

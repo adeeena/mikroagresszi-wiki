@@ -16,6 +16,8 @@ A hasonló kifejezések használata elnyomó légkört teremt, és megnehezíti 
 
 <div class="categories">
 
+## Kategóriák
+
 [LMBT+](/#/entry?id=lmbt)
 
 </div>

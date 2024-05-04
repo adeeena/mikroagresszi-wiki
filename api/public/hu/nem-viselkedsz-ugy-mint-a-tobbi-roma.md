@@ -18,6 +18,8 @@ Az ilyen megjegyzések elmozdítják az egyéni sokféleséget és erősítik a 
 
 <div class="categories">
 
+## Kategóriák
+
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Nem](/#/entry?id=nem)

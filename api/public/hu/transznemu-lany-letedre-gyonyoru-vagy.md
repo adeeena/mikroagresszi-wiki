@@ -18,6 +18,8 @@ Egy jobb megközelítés az lenne, amikor elismerjük, hogy minden nő egyedi é
 
 <div class="categories">
 
+## Kategóriák
+
 [LMBT+](/#/entry?id=lmbt)
 
 [Nem](/#/entry?id=nem)

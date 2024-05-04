@@ -14,6 +14,8 @@ Ezenkívül az efféle kijelentések elbizonytalaníthatják az egyéneket az id
 
 <div class="categories">
 
+## Kategóriák
+
 [LMBT+](/#/entry?id=lmbt)
 
 [Nem](/#/entry?id=nem)

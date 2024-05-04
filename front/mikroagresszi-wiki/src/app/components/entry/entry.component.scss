@@ -41,8 +41,6 @@
     margin: 0 auto;
     width: 80%;
 
-    
-
     th, td {
       padding: .5rem;
     }
@@ -52,7 +50,7 @@
       border-left: 1px solid #202024;
     }
 
-    thead + tbody,    
+    thead + tbody,
     tr + tr {
       border-top: 1px solid #202024;
     }
@@ -83,9 +81,22 @@
         }
 
         a {
-          color: #4054b2;
+          color: #c03f90;
           font-weight: bold;
           text-decoration: underline;
+        }
+
+        .categories {
+          p {
+            background: white;
+            border: 1px solid #24183d;
+            box-shadow: 5px 5px 0 0 #24183d;
+            color: #24183d;
+            display: inline-block;
+            font-weight: bold;
+            margin: 1rem 0 2rem;
+            padding: 1rem;
+          }
         }
 
         .infobox {
@@ -268,9 +279,9 @@
             &.agression-title {
               h1 {
                 background: white;
-                border: 1px solid #eb387d;
-                box-shadow: 5px 5px 0 0 #FFCADE;
-                color: #eb387d;
+                border: 1px solid #24183d;
+                box-shadow: 5px 5px 0 0 #24183d;
+                color: #24183d;
                 font-weight: bold;
                 margin: 1rem 0 2rem;
                 padding: 1rem;
@@ -284,7 +295,7 @@
   }
 
   .entry-content {
-    padding: 5rem;
+    padding: 0 5rem 5rem;
 
     .entry-title, .entry-categories, .separator {
       margin-bottom: 2rem;

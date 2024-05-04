@@ -20,6 +20,8 @@ Az efféle előítéletek nem csupán egyéni szinten érintik az érintetteket,
 
 <div class="categories">
 
+## Kategóriák
+
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Osztályalapú](/#/entry?id=osztalyalapu)

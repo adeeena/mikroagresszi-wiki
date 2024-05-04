@@ -19,6 +19,8 @@ Ez a megközelítés szorosan kapcsolódik ahhoz a problémához, hogy a mainstr
 
 <div class="categories">
 
+## Kategóriák
+
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>

@@ -18,6 +18,8 @@ A jobb megértés és elfogadás érdekében fontos felismerni és elutasítani 
 
 <div class="categories">
 
+## Kategóriák
+
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>

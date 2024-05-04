@@ -18,6 +18,8 @@ A helyes irány a munkahelyi környezet kialakítása, ahol minden szakember tis
 
 <div class="categories">
 
+## Kategóriák
+
 [Kor](/#/entry?id=kor)
 
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)

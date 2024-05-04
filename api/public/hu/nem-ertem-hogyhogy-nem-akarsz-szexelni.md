@@ -22,6 +22,8 @@ Az ilyen megjegyzések lekicsinylik az aszexuális emberek tapasztalatait azzal,
 
 <div class="categories">
 
+## Kategóriák
+
 [LMBT+](/#/entry?id=lmbt)
 
 </div>

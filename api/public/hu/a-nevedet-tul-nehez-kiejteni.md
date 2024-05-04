@@ -17,6 +17,8 @@ Az ilyen típusú mikroagressziók nem csak személyes kapcsolatokban okozhatnak
 
 <div class="categories">
 
+## Kategóriák
+
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>

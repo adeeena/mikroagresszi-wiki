@@ -18,6 +18,8 @@ A helyes megközelítés a szavak megfelelő és tisztelettudó használata, kü
 
 <div class="categories">
 
+## Kategóriák
+
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Vallás](/#/entry?id=vallas)

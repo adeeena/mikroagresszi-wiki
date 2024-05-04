@@ -18,6 +18,8 @@ Az olyan kifejezések és elvek támogatása, amelyek a teljesítményelvűség 
 
 <div class="categories">
 
+## Kategóriák
+
 [Fogyatékosság](/#/entry?id=fogyatekossag)
 
 [Osztályalapú](/#/entry?id=kor)

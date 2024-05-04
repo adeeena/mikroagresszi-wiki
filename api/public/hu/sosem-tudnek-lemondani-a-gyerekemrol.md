@@ -18,6 +18,8 @@ A tiszteletteljes párbeszéd és a mások érzéseinek tiszteletben tartása se
 
 <div class="categories">
 
+## Kategóriák
+
 [Osztályalapú](/#/entry?id=osztalyalapu)
 
 [Nem](/#/entry?id=nem)

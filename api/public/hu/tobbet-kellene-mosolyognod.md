@@ -18,6 +18,8 @@ A jobb megértés és az egyenlőtlenségek felszámolása érdekében fontos le
 
 <div class="categories">
 
+## Kategóriák
+
 [Nem](/#/entry?id=nem)
 
 </div>

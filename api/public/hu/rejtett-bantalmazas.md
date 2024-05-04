@@ -14,6 +14,8 @@ A manipuláció egy formája, amelyet arra használnak, hogy megkérdőjelezzék
 
 <div class="categories">
 
+## Kategóriák
+
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Fogyatékosság](/#/entry?id=fogyatekossag)

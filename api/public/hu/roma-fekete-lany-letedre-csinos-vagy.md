@@ -14,6 +14,8 @@ Ez a megjegyzés azt sugallja, hogy a nem roma (vagy nem fekete) emberek jelenti
 
 <div class="categories">
 
+## Kategóriák
+
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Nem](/#/entry?id=nem)

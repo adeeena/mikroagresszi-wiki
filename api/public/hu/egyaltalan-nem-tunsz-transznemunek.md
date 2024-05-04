@@ -17,6 +17,8 @@ Ahelyett, hogy az egyének transzidentitását az előítéletes sztereotípiák
 
 <div class="categories">
 
+## Kategóriák
+
 [LMBT+](/#/entry?id=lmbt)
 
 [Nem](/#/entry?id=nem)

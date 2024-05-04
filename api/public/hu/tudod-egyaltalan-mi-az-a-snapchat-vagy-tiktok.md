@@ -18,6 +18,8 @@ A helyes megközelítés az lenne, ha nem a korhoz kötnénk a technológiai tud
 
 <div class="categories">
 
+## Kategóriák
+
 [Kor](/#/entry?id=kor)
 
 </div>

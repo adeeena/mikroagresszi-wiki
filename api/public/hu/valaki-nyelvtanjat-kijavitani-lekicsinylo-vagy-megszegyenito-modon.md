@@ -20,6 +20,8 @@ A jobb megértés és tisztelet érdekében fontos felismerni, hogy a nyelvi kü
 
 <div class="categories">
 
+## Kategóriák
+
 [Osztályalapú](/#/entry?id=osztalyalapu)
 
 </div>

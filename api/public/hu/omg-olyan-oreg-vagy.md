@@ -18,6 +18,8 @@ Ahelyett, hogy az életkorra utaló negatív megjegyzéseket használnánk, font
 
 <div class="categories">
 
+## Kategóriák
+
 [Kor](/#/entry?id=kor)
 
 </div>

@@ -3,39 +3,6 @@
 
 .content {
   .header-card {
-    .search-section {
-      display: flex;
-
-      
-
-      .floating {
-        position: absolute;
-        background: white;
-        padding: 1rem;
-        z-index: 40;
-        box-shadow: 0 0 50px black;
-
-        .item {
-          margin-bottom: 1rem;
-
-          .title {
-            font-size: .8rem;
-            color: map-get(mat.$deep-orange-palette, 400);
-          }
-        }
-      }
-
-      mat-form-field {
-        background: white;
-        border-radius: 5px;
-        padding: .5rem .5rem 0;
-
-        .mat-form-field-wrapper {
-          padding-bottom: 1rem;
-        }
-      }
-    }
-
     .header-card-content {
       display: flex;
       flex-direction: column;
@@ -45,7 +12,7 @@
       .home-box {
         background: white;
         border-radius: 5px;
-        color: map-get(mat.$deep-orange-palette, 700);
+        color: map-get(mat.$purple-palette, 700);
         padding: 1rem;
 
         .home-box-line-welcome {
@@ -94,7 +61,7 @@
         width: 300px;
       }
 
-      .floating { 
+      .floating {
         top: 5rem;
         width: 70vh;
       }
@@ -130,7 +97,7 @@
       .floating {
         top: 4.5rem;
         padding: 1rem;
-       } 
+       }
       }
     }
   }

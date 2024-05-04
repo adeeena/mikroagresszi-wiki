@@ -14,6 +14,8 @@ Ez a feltételezés egy olyan narratívát tart fenn, amelyben a zsidó emberek 
 
 <div class="categories">
 
+## Kategóriák
+
 [Vallás](/#/entry?id=vallas)
 
 </div>

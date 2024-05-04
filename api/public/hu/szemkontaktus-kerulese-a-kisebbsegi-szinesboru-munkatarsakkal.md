@@ -14,6 +14,8 @@ Ez a viselkedés annyira apró és finom, nagyon nehezen észrevehető. A kisebb
 
 <div class="categories">
 
+## Kategóriák
+
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>

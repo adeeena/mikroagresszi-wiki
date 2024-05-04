@@ -18,6 +18,8 @@ Egy példa erre az, amikor valakit csak az etnikai vagy kulturális háttere mia
 
 <div class="categories">
 
+## Kategóriák
+
 [LMBT+](/#/entry?id=lmbt)
 
 [Kor](/#/entry?id=kor)

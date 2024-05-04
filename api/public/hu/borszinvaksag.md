@@ -18,6 +18,8 @@ A bőrszínvakság elutasítása nem csupán figyelmen kívül hagyja az egyéne
 
 <div class="categories">
 
+## Kategóriák
+
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>

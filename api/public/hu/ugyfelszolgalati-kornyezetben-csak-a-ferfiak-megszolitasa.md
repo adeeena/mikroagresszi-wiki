@@ -17,6 +17,8 @@ Ahhoz, hogy kezeljük és csökkentsük az ilyen mikroagressziókat az ügyféls
 
 <div class="categories">
 
+## Kategóriák
+
 [Nem](/#/entry?id=nem)
 
 </div>

@@ -18,6 +18,8 @@ Ezen előítéleteknek következményei vannak nem csak a szegény emberek szám
 
 <div class="categories">
 
+## Kategóriák
+
 [Osztályalapú](/#/entry?id=osztalyalapu)
 
 </div>

@@ -17,6 +17,8 @@ A helyes megközelítés az lenne, ha mindenkit személyiségük, képességeik 
 
 <div class="categories">
 
+## Kategóriák
+
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Nem](/#/entry?id=nem)

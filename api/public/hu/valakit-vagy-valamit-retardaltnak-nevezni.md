@@ -18,6 +18,8 @@ A tudatos és felelős nyelvhasználat kulcsfontosságú az inkluzív társadalo
 
 <div class="categories">
 
+## Kategóriák
+
 [Fogyatékosság](/#/entry?id=kor)
 
 [Nem](/#/entry?id=nem)

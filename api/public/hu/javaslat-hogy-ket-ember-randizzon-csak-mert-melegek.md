@@ -16,6 +16,8 @@ Ezen túlmenően, a javaslat dehumanizáló hatású lehet, mivel elhanyagolja a
 
 <div class="categories">
 
+## Kategóriák
+
 [LMBT+](/#/entry?id=lmbt)
 
 </div>
