@@ -18,8 +18,6 @@ A helyes kommunikáció és tiszteletteljes kapcsolatok kialakításának érdek
 
 <div class="categories">
 
-## Kategóriák
-
 [Kor](/#/entry?id=kor)
 
 [Nem](/#/entry?id=nem)

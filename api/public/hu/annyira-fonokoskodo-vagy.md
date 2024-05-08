@@ -17,8 +17,6 @@ A mikroagressziók elleni küzdelemben fontos az ilyen kifejezések felismerése
 
 <div class="categories">
 
-## Kategóriák
-
 [Nem](/#/entry?id=nem)
 
 </div>

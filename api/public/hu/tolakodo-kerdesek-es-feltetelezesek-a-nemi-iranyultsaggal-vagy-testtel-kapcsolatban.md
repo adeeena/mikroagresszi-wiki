@@ -17,8 +17,6 @@ Az ilyen kérdések elkerülése és helyette a tiszteletteljes, elfogadó kommu
 
 <div class="categories">
 
-## Kategóriák
-
 [LMBT+](/#/entry?id=lmbt)
 
 [Nem](/#/entry?id=nem)

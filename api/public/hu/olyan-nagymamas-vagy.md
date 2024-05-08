@@ -18,8 +18,6 @@ Ahelyett, hogy az idősödést negatív fényben látnánk, fontos hangsúlyozni
 
 <div class="categories">
 
-## Kategóriák
-
 [Kor](/#/entry?id=kor)
 
 </div>

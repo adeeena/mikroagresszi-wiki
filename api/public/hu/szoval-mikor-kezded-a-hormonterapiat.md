@@ -17,8 +17,6 @@ Fontos megérteni, hogy a transznemű nők és férfiak valódi és érvényes i
 
 <div class="categories">
 
-## Kategóriák
-
 [LMBT+](/#/entry?id=lmbt)
 
 [Nem](/#/entry?id=nem)

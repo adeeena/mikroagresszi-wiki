@@ -18,8 +18,6 @@ A rózsaszín színnel kapcsolatos sztereotípiák nemcsak a gyerekeket érintik
 
 <div class="categories">
 
-## Kategóriák
-
 [Kor](/#/entry?id=kor)
 
 [Nem](/#/entry?id=nem)

@@ -20,8 +20,6 @@ Egy elfogadóbb és inkluzív munkahelyi környezet kialakítása érdekében fo
 
 <div class="categories">
 
-## Kategóriák
-
 [Nem](/#/entry?id=nem)
 
 </div>

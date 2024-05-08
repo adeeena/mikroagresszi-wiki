@@ -20,8 +20,6 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 <div class="categories">
 
-## Kategóriák
-
 [Fogyatékosság](/#/entry?id=fogyatekossag)
 
 </div>

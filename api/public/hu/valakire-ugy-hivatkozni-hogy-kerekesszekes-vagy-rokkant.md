@@ -17,8 +17,6 @@ Az ilyen kifejezések elkerülése és helyettük tiszteletteljes és pontos nye
 
 <div class="categories">
 
-## Kategóriák
-
 [Fogyatékosság](/#/entry?id=fogyatekossag)
 
 </div>

@@ -18,8 +18,6 @@ Ahhoz, hogy ezen mikroagressziók ellen hatékonyan fellépjünk, fontos az ilye
 
 <div class="categories">
 
-## Kategóriák
-
 [Nem](/#/entry?id=nem)
 
 </div>

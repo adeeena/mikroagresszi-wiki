@@ -18,8 +18,6 @@ Egy jobb megközelítés az lenne, ha az emberek elhagynák az ilyen káros kife
 
 <div class="categories">
 
-## Kategóriák
-
 [LMBT+](/#/entry?id=lmbt)
 
 [Nem](/#/entry?id=nem)

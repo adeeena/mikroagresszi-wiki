@@ -17,8 +17,6 @@ A valódi elfogadás és tisztelet iránti elkötelezettség elengedhetetlen a v
 
 <div class="categories">
 
-## Kategóriák
-
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Vallás](/#/entry?id=vallas)

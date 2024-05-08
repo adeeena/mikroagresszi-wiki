@@ -14,8 +14,6 @@ Az ilyen típusú megjegyzések a megjelenésen alapuló rasszista sztereotípi�
 
 <div class="categories">
 
-## Kategóriák
-
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Vallás](/#/entry?id=vallas)

@@ -1,41 +1,35 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Nem teszek különbséget bőrszínek közt."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: c4165205-7b06-46a2-879a-528ebd44f458
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Nem teszek különbséget bőrszínek közt.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A kijelentés elsőre úgy hangzik, mintha a személy egyenlőséget sugallna, de valójában ez a gondolkodásmód figyelmen kívül hagyja egy faji csoport sajátos identitását, történelmét és tapasztalatait.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**Azzal, hogy valaki tagadja a bőrszín jelentőségét, mintha azt mondaná, hogy nem hajlandó felismerni vagy elfogadni a másik személy identitásának egy fontos részét. Ez a hozzáállás azt is jelezheti, hogy nincs szándékában megérteni vagy tisztelni azoknak az embereknek a küzdelmeit, akik különböző faji csoportokhoz tartoznak.**
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+Az állítás, hogy "nem látom a színeket", gyakran használatos annak kifejezésére, hogy "mindenki ember, és mindannyian egyenlőek vagyunk." Bár az egyenlőség az ideális állapot, a valóságban azonban a különböző faji csoportoknak nagyon eltérő tapasztalatai vannak a társadalomban. Az egyenlőség elérése érdekében fontos elismerni a faji csoportok történetét, identitását és azokat a konkrét kihívásokat, amelyeket tapasztalnak. Ha nem vesszük figyelembe a színt, akkor nem fogjuk felismerni azokat a rendszerszintű egyenlőtlenségeket és igazságtalanságokat, amelyekkel szembe kell nézniük. Ezért inkább arra kellene törekednünk, hogy megismerjük a különböző csoportok tapasztalatait, elismerjük a küzdelmeiket, és aktívan dolgozzunk a valódi egyenlőségért.
 
 <div class="categories">
 
-## Kategóriák
-
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>
 
 ## Példák
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
+➡️ [College Humor: I don’t see race.](https://www.youtube.com/watch?v=5qArvBdHkJA )
 
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [Marshall Gillson - ‘Tell me again how you don't see colour’.](https://www.youtube.com/watch?v=eg6Dj2rdgiQ )
 
 ## Forrás
+
+➡️ [Colour blind vs. anti-racist - getting race right.](https://blogs.hope.edu/getting-race-right/our-context-where-we-are/the-history-we-inhaled/color-blind-vs-anti-racist/)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

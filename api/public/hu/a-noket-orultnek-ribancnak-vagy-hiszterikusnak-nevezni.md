@@ -18,8 +18,6 @@ A társadalmi normák megváltoztatásához és a mikroagressziók elleni küzde
 
 <div class="categories">
 
-## Kategóriák
-
 [Nem](/#/entry?id=nem)
 
 </div>

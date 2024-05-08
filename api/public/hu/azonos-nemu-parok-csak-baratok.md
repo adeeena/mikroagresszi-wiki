@@ -18,8 +18,6 @@ Az ilyen mikroagressziók elleni küzdelemben fontos a társadalmi tudatosság n
 
 <div class="categories">
 
-## Kategóriák
-
 [LMBT+](/#/entry?id=lmbt)
 
 </div>

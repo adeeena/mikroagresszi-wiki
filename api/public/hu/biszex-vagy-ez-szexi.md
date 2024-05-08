@@ -18,8 +18,6 @@ A mikroagressziók megelőzésének és kezelésének részeként fontos a társ
 
 <div class="categories">
 
-## Kategóriák
-
 [LMBT+](/#/entry?id=lmbt)
 
 [Nem](/#/entry?id=nem)
@@ -36,6 +34,5 @@ A mikroagressziók megelőzésének és kezelésének részeként fontos a társ
 ## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
-
 
 </div>

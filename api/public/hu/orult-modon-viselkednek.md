@@ -17,8 +17,6 @@ A helyes megközelítés a szóhasználat változtatása, például "szokatlanul
 
 <div class="categories">
 
-## Kategóriák
-
 [Fogyatékosság](/#/entry?id=fogyatekossag)
 
 [Nem](/#/entry?id=nem)

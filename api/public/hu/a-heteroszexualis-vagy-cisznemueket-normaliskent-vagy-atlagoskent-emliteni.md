@@ -18,8 +18,6 @@ Az ilyen kifejezések használata nem csak a heteroszexuális és cisznemű embe
 
 <div class="categories">
 
-## Kategóriák
-
 [LMBT+](/#/entry?id=lmbt)
 
 [Nem](/#/entry?id=nem)

@@ -18,8 +18,6 @@ Az elmozdulás a pontosabb és tiszteletteljes szóhasználat felé hozzájárul
 
 <div class="categories">
 
-## Kategóriák
-
 [Fogyatékosság](/#/entry?id=fogyatekossag)
 
 </div>

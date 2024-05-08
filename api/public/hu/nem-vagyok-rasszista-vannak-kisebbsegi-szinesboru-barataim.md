@@ -1,41 +1,37 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Nem vagyok rasszista. Vannak kisebbségi/színesbőrű barátaim."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 2d3ee376-9f56-45a4-a188-79e0a59f6e8b
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Nem vagyok rasszista. Vannak kisebbségi/színesbőrű barátaim.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Ezzel a fajta megjegyzéssel a saját barátságaidat használod fel egyfajta pajzsként, mintha ezzel igazolnád a hibás viselkedést vagy a helytelen kijelentéseket. Mintha a baráti kapcsolatok lehetővé tennék, hogy valaki büntetlenül mondhasson vagy tegyen olyasmit, ami sértő vagy diszkriminatív. 
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
-
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+**Ez a hozzáállás rákényszerítheti a kisebbségi vagy színesbőrű barátot arra, hogy elviselje vagy tolerálja mások rasszista vagy elutasító viselkedését.**
+ 
+Azt sugallja, hogy ha van egy barátod egy bizonyos csoportból, akkor ez feljogosít a bántó vagy érzéketlen megnyilvánulásokra, és nem szükséges reflektálni a viselkedésedre. Az ilyen megjegyzést tevő személy gyakran nem veszi figyelembe a barátja hétköznapi küzdelmeit vagy azokat a mindennapi problémákat, amelyekkel szembe kell néznie a kisebbségi csoportok tagjaként. Az, hogy valaki barátságban áll egy másik személlyel, nem jelenti azt, hogy mentes lenne a rasszista vagy sértő viselkedéstől, akár tudatosan, akár tudattalanul.
 
 <div class="categories">
 
-## Kategóriák
-
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>
 
 ## Példák
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
+➡️ [No Mark Meadows. Having a Black friend doesn't mean you’re not racist.](https://www.washingtonpost.com/politics/2019/02/28/no-mark-meadows-having-black-friend-doesnt-mean-youre-not-racist/)
 
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [The “some of my best friends are Black” defense.](https://www.nytimes.com/2019/02/16/sunday-review/ralph-northam-blackface-friends.html )
 
 ## Forrás
+
+➡️ [A brief history of the Black friend.](https://www.popsugar.com/smart-living/having-black-friends-doesnt-make-you-anti-racist-essay-47533208 )
+
+➡️ [Having Black friends doesn’t make you anti-racist.](https://www.aaihs.org/a-brief-history-of-the-black-friend/)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

@@ -20,8 +20,6 @@ A társadalomban való egyenlőség és tisztelet előmozdítása létfontosság
 
 <div class="categories">
 
-## Kategóriák
-
 [Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [LMBT+](/#/entry?id=lmbt)

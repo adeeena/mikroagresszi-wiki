@@ -17,8 +17,6 @@ A születési név megkérdezése további problémát is felvet, amikor az ille
 
 <div class="categories">
 
-## Kategóriák
-
 [LMBT+](/#/entry?id=lmbt)
 
 [Nem](/#/entry?id=nem)

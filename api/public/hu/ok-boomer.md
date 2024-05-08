@@ -18,8 +18,6 @@ Fontos megjegyezni, hogy a "OK, Boomer" nemcsak a generációk közötti külön
 
 <div class="categories">
 
-## Kategóriák
-
 [Kor](/#/entry?id=kor)
 
 </div>

@@ -20,8 +20,6 @@ Az ilyen kifejezésekkel való szembesülés azt mutatja, hogy fontos folytatni 
 
 <div class="categories">
 
-## Kategóriák
-
 [Kor](/#/entry?id=kor)
 
 [Nem](/#/entry?id=nem)

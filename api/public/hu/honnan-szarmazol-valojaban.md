@@ -20,8 +20,6 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 <div class="categories">
 
-## Kategóriák
-
 [Kor](/#/entry?id=kor)
 
 [Nem](/#/entry?id=nem)

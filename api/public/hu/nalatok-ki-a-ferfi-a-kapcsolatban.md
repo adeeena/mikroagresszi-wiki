@@ -16,8 +16,6 @@ Ez a kérdés nem csupán elavult és merev nemi szerepekre utal, de egyúttal e
 
 <div class="categories">
 
-## Kategóriák
-
 [LMBT+](/#/entry?id=lmbt)
 
 [Nem](/#/entry?id=nem)
