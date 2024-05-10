@@ -1,39 +1,38 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Feltételezett bűnözés"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: fad81228-f2eb-4810-ad87-ec3cd807e775
+categories: vallas
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Feltételezett bűnözés
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A "feltételezett bűnözés" olyan előítéletet jelent, amely alapján valakiről feltételezik, hogy veszélyes vagy bűnöző, általában a faji hovatartozás vagy kapcsolódó sztereotípiák alapján. Ez a feltételezés igazságtalan és diszkriminatív, mivel az egyének faji vagy etnikai háttere alapján ítélkezik, és azt sugallja, hogy bizonyos csoportokhoz tartozó emberek nagyobb valószínűséggel követnek el bűncselekményeket.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**A "feltételezett bűnözés" káros hatással van a marginalizált csoportokra, mert megerősíti a rasszista sztereotípiákat és hozzájárul a rendszerszintű diszkriminációhoz. Amikor egy személyt azért tekintenek bűnözőnek vagy veszélyesnek, mert egy bizonyos faji csoporthoz tartozik, azzal megsértik az egyenlő bánásmód elvét, és elősegítik a társadalmi előítéletek terjedését.**
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
+Ez a fajta előítélet a mindennapi életben és a jogi rendszerben is megnyilvánulhat, például amikor a faji vagy etnikai kisebbségek tagjait aránytalanul megfigyelik, megállítják vagy letartóztatják a rendőrök. A "feltételezett bűnözés" gyakran az intézményes rasszizmus és a profilalkotás eredménye, ami aláássa a társadalmi igazságosságot és megerősíti a rasszista struktúrákat.
 
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Ez a feltételezés azt is eredményezi, hogy az embereket előítéletes módon kezelik a munkahelyen, az oktatásban vagy a mindennapi társadalmi interakciókban. A faji sztereotípiák alapján történő bűnözés feltételezése erősíti a társadalmi egyenlőtlenséget, és növeli a rasszizmus és a diszkrimináció hatásait a marginalizált csoportokra.
 
+Az ilyen előítéletek elleni küzdelem érdekében fontos tudatosítani a faji sztereotípiák és a rasszista gondolkodásmód káros hatásait. A társadalomnak aktívan dolgoznia kell azon, hogy megszüntesse a rasszizmust és az intézményes diszkriminációt, és elősegítse az egyenlő bánásmódot és a faji igazságosságot. A tiszteletteljes hozzáállás, a faji egyenlőség támogatása és az előítéletek elutasítása alapvető lépések a befogadóbb és igazságosabb társadalom kialakítása felé.
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[Vallás](/#/entry?id=vallas)
 
 </div>
 
 ## Példák
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [The skin I’m in: I’ve been interrogated by police more than 50 times, all because I’m Black.](https://www.nytimes.com/2020/05/27/nyregion/amy-cooper-christian-central-park-video.html)
 
 ## Forrás
+
+➡️ [Examples of verbal and non-verbal microaggressions.](https://www.cambridgema.gov/-/media/Files/officeofthemayor/2019/deepmicroaggressionsworksheetfilledin012619.pdf)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

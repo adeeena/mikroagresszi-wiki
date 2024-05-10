@@ -1,41 +1,41 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Minta kisebbség"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: b398920f-a86a-40fc-a4d0-0adee6ef8bc0
+categories: faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Minta kisebbség
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A "minta kisebbség" kifejezés egy olyan sztereotípiára utal, amely szerint bizonyos kisebbségi csoportok szorgalmasabbak, intelligensebbek és sikeresebbek, mint mások. Ezt a koncepciót gyakran használják arra, hogy egy bizonyos csoportot homogénként kezeljenek, mintha minden tagja egyforma lenne, és egy bizonyos pozitív mércéhez mérjék őket. Bár ez elsőre pozitívnak tűnhet, valójában számos káros hatással jár.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**A "minta kisebbség" mítosza azzal a feltételezéssel jár, hogy a csoport összes tagja sikeres, problémamentes, és képes integrálódni a többségi társadalomba. Ezzel a kisebbségi csoportokat összehasonlítják, és arra ösztönzik a társadalmat, hogy az egyik csoportot mintaként tekintse, mintha ez lenne az ideális vagy a "jobb" kisebbség.** Ez a megközelítés káros, mert homogenizálja a csoportot, figyelmen kívül hagyva annak sokszínűségét és egyedi kihívásait.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
+Ez a koncepció gyakran szembeállítja a "minta kisebbséget" más kisebbségi csoportokkal, ami a versenyt és az előítéleteket erősítheti a kisebbségi csoportok között. Az ilyen sztereotípia megerősíti azt az elképzelést, hogy a kisebbségi csoportoknak bizonyos módon kell viselkedniük, és ha nem felelnek meg ennek a modellnek, akkor alacsonyabb rendűek vagy kevésbé értékesek. Ez a hozzáállás különösen káros lehet azoknak a tagoknak, akik nem felelnek meg a "minta kisebbség" elvárásainak, mivel ez nyomást helyez rájuk, hogy megfeleljenek ezeknek a standardoknak.
 
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+A "minta kisebbség" mítoszával az is a probléma, hogy eltereli a figyelmet a rendszerszintű rasszizmusról és diszkriminációról. Ha a kisebbségi csoportokat pozitív sztereotípiákkal ábrázolják, akkor azzal azt sugallják, hogy a rendszerszintű akadályok nem léteznek, vagy nem jelentenek komoly problémát. Ez csökkentheti a figyelmet a társadalmi igazságtalanságokra és a kisebbségi csoportok által tapasztalt diszkriminációra.
 
+A sztereotípiák és a "minta kisebbség" mítoszának lebontásához fontos elismerni a kisebbségi csoportok sokszínűségét és egyediségét. A társadalomnak el kell ismernie az egyéni különbségeket és azokat a kihívásokat, amelyekkel minden kisebbségi csoport szembesülhet, és nem szabad összehasonlítani vagy rangsorolni őket. A tisztelet és az inkluzivitás a kulcs ahhoz, hogy egy olyan társadalmat építsünk, ahol minden kisebbségi csoport egyenlő megbecsülésben és támogatásban részesül, függetlenül a sztereotípiáktól vagy általánosításoktól.
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>
 
 ## Példák
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [The model minority trope explained.](https://www.youtube.com/watch?v=qWBPGc_dpmY )
 
 ## Forrás
 
-➡️ [The Micropedia](https://www.themicropedia.org/)
+➡️ [The model minority myth explained.](https://www.thestar.com/news/canada/2021/03/27/the-model-minority-myth-explained-what-you-need-to-know-about-how-it-has-propped-up-anti-asian-racism-in-canada.html)
 
+➡️ [Model minority myth again used as a racial wedge between Asian people and Black people.](https://www.npr.org/sections/codeswitch/2017/04/19/524571669/model-minority-myth-again-used-as-a-racial-wedge-between-asians-and-blacks)
+
+➡️ [The Micropedia](https://www.themicropedia.org/)
 
 </div>

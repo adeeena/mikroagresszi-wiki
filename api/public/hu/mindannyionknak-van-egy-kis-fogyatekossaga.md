@@ -1,13 +1,14 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Ugyan már - mindannyiunknak van egy kis fogyatékossága."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 0eabd145-aaef-4d84-8539-748d4868ece4
+categories: fogyatekossag
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Ugyan már - mindannyiunknak van egy kis fogyatékossága.
 
 Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
 

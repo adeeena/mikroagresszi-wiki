@@ -393,46 +393,6 @@
     },
     {
         "examples":
-        [],
-        "resources":
-        [
-            {
-➡️ [How microaggressions affect self-worth in the workplace.](https://www.inhersight.com/blog/microaggressions/affect-self-worth-in-the-workplace )
-        ],
-        "references":
-        [],
-        "status": "published",
-        "title": "You’re a [[little]] [[young]] [[to]] [[lead]] this project.",
-        "definition": "This message dismisses the experience and value a younger person has to offer. It’s based on a perception of their age or age group, and not their personal merits.\n\nThis can diminish a younger person’s skills and downplays the possibility that others would be willing to accept them as knowledgeable or skilled leaders. It can create a cycle where younger people aren’t seen as capable and never able to hold a prominent position. It can also lead to feelings of being ostracized, as the person can feel as though they do not fit in with their peers or coworkers, or that the culture of the group treating them in such a way does not value anyone with different experiences or backgrounds. ",
-        "categories":
-        [
-            "Age"
-        ],
-        "keywords":
-        [
-            "microaggression",
-            "age",
-            "stereotype",
-            "youth",
-            "expectations",
-            "career",
-            "ability",
-            "experience"
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "date": "06/21/21",
-        "id": "1624205898003",
-        "createdAt": 1624248000000,
-        "uid": "c4b95410-4a57-499f-afc5-229697aaf670",
-        "updatedAt": 1637763904374,
-        "featured": false,
-        "related":
-        [],
-        "votes": 0
-    },
-    {
-        "examples":
         [
             {
 ➡️ [Should you be insulted when someone says you look great “for your age”?](https://youtu.be/iW6gqlNLl-Q)
@@ -620,58 +580,6 @@
         "examples":
         [
             {
-➡️ [Chris Rock criticized after Asian joke at Oscars.](https://www.youtube.com/watch?v=dPCJvyk8yBg)
-
-➡️ [Family Guy, Asian kid calculator example.](https://www.youtube.com/watch?v=GUgT9GkeSw0)
-
-➡️ [Family Guy, Asian kid calculator explained.](http://stereotypeoftheday.blogspot.com/2013/05/the-smart-asian.html )
-        ],
-        "resources":
-        [
-            {
-➡️ [“Asians are good at math” is not a compliment.](https://www.hepg.org/her-home/issues/harvard-educational-review-volume-89,-issue-4/herarticle/asians-are-good-at-math-is-not-a-compliment   )
-
-➡️ [Asians are good at math? Why dressing up racism as a compliment just doesn’t add up.](https://theconversation.com/asians-are-good-at-math-why-dressing-up-racism-as-a-compliment-just-doesnt-add-up-128731  )
-
-➡️ [How the model minority myth affects well-being and mental health.](https://www.medicalnewstoday.com/articles/the-model-minority-myth-its-impact-on-well-being-and-mental-health#Silenced,-fatigued,-grappling-with-contradictions  )
-        ],
-        "references":
-        [],
-        "status": "published",
-        "title": "Assuming [[all]] [[Asian]] [[people]] are good at [[math]].",
-        "definition": "This mindset is based on stereotypes about Asian people, and groups all Asian people together. It disregards their individual identities, skills, and talents and can be a form of ascription of intelligence. Lumping all Asian people together homogenizes a diverse population. This can have an impact on cultural identity, and the acceptance of other skills or talents people have. It’s also considered part of the “model minority” myth. Model minority myth is where a racialized group is thought to be “better” or more successful than others due to “inherent” traits. This puts individuals and groups into competition with each other. This can add to internalized pressure or shame when a person feels they haven’t achieved this model minority status despite recognizing it’s problematic, and can serve to diminish the barriers that individuals, particularly Asian people, experience.",
-        "categories":
-        [
-            "Race"
-        ],
-        "keywords":
-        [
-            "microaggression",
-            "person of colour",
-            "BIPOC",
-            "ethnicity",
-            "stereotype",
-            "Asian",
-            "math",
-            "racist",
-            "model minority"
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "date": "21/06/21",
-        "id": "1624499189375",
-        "createdAt": 1624248000000,
-        "uid": "347a4521-0059-4b48-af01-07457f912755",
-        "updatedAt": 1667941500728,
-        "featured": false,
-        "related":
-        [],
-        "votes": 0
-    },
-    {
-        "examples":
-        [
-            {
 ➡️ [When white people cross the street.](http://blackyouthproject.com/when-white-people-cross-the-street-and-black-collective-consciousness/ )
         ],
         "resources":
@@ -763,49 +671,6 @@
         "related":
         [],
         "votes": 0
-    },
-    {
-        "examples":
-        [
-            {
-➡️ [9 examples of microaggression I’ve experienced as an Asian Canadian.](https://aninjusticemag.com/9-examples-of-microaggression-ive-experienced-as-an-asian-canadian-392b7cebec82 )
-        ],
-        "resources":
-        [
-            {
-➡️ [Addressing anti-Asian racism: a resource for educators.](https://www.tdsb.on.ca/Portals/0/docs/Addressing%20Anti-Asian%20Racism%20Resource%20Booklet%20final%20web%20Jan%2024.pdf)
-        ],
-        "references":
-        [],
-        "status": "published",
-        "title": "Asking racialized people to teach you their __native__ __language__.",
-        "definition": "This question assumes that the person was born elsewhere and does not have English as a first language and/or speak English well. Like the comment “where are you really from”, it serves to perpetuate the belief that a person must be white to be North American and that anyone who is not white must from somewhere else.\n\nIt denies people the possibility of being born and raised in Canada and labels them as outsiders. It can make the person on the receiving end feel unwelcome, ashamed of their culture and like they don’t belong. ",
-        "categories":
-        [
-            "Ethnicity"
-        ],
-        "keywords":
-        [
-            "microaggression",
-            "BIPOC",
-            "Asian",
-            "bias",
-            "racism",
-            "perpetual foreigner",
-            "language",
-            "born here"
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "date": "21/06/21",
-        "id": "1624499848386",
-        "createdAt": 1624248000000,
-        "uid": "599fbc3f-dff7-4df8-a135-0d941e8a86e0",
-        "updatedAt": 1637696235328,
-        "featured": false,
-        "related":
-        [],
-        "votes": 1
     },
     {
         "examples":
@@ -975,84 +840,6 @@
         "createdAt": 1624248000000,
         "uid": "a3e8a869-fdda-4b72-8e95-4d9f680ec821",
         "updatedAt": 1667941251516,
-        "featured": false,
-        "related":
-        [],
-        "votes": 0
-    },
-    {
-        "examples":
-        [
-            {
-➡️ [The skin I’m in: I’ve been interrogated by police more than 50 times, all because I’m Black.](https://www.nytimes.com/2020/05/27/nyregion/amy-cooper-christian-central-park-video.html)
-        ],
-        "resources":
-        [
-            {
-➡️ [Examples of verbal and non-verbal microaggressions.](https://www.cambridgema.gov/-/media/Files/officeofthemayor/2019/deepmicroaggressionsworksheetfilledin012619.pdf)
-        ],
-        "references":
-        [],
-        "status": "published",
-        "title": "Assumed Criminality***",
-        "definition": "Assuming that a person is dangerous or a criminal. This is often based on racial stereotypes and it perpetuates the false notion that all individuals from a particular racial group are aggressive, violent, and/or criminal. An example of this would be clutching your purse when a racialized person walks by.",
-        "categories":
-        [
-            "Race",
-            "Ethnicity",
-            "Indigenous",
-            "Religion"
-        ],
-        "keywords":
-        [
-            "microaggression"
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "date": "06/21/21",
-        "id": "1624564725034",
-        "createdAt": 1624248000000,
-        "uid": "fad81228-f2eb-4810-ad87-ec3cd807e775",
-        "updatedAt": 1667941195303,
-        "featured": false,
-        "related":
-        [],
-        "votes": 1
-    },
-    {
-        "examples":
-        [
-            {
-➡️ [The model minority trope explained.](https://www.youtube.com/watch?v=qWBPGc_dpmY )
-        ],
-        "resources":
-        [
-            {
-➡️ [The model minority myth explained.](https://www.thestar.com/news/canada/2021/03/27/the-model-minority-myth-explained-what-you-need-to-know-about-how-it-has-propped-up-anti-asian-racism-in-canada.html)
-
-➡️ [Model minority myth again used as a racial wedge between Asian people and Black people.](https://www.npr.org/sections/codeswitch/2017/04/19/524571669/model-minority-myth-again-used-as-a-racial-wedge-between-asians-and-blacks)
-        ],
-        "references":
-        [],
-        "status": "published",
-        "title": "Model Minority***",
-        "definition": "The idea that some racialized groups are more hardworking, intelligent, and successful than others. This is often used as a way to hold a certain group to a certain standard and homogenize them (i.e., treat them as though they’re all the same).",
-        "categories":
-        [
-            "Race",
-            "Ethnicity"
-        ],
-        "keywords":
-        [
-            "microaggression"
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "date": "06/21/21",
-        "id": "1624565775581",
-        "createdAt": 1624248000000,
-        "uid": "b398920f-a86a-40fc-a4d0-0adee6ef8bc0",
-        "updatedAt": 1637786863572,
         "featured": false,
         "related":
         [],
