@@ -12,7 +12,7 @@ main_category: true
 
 ## Mik azok a mikroagressziók?
 
-**A mikroagressziók olyan mindennapi bántások és sértések, amelyekkel marginalizált csoportok szembesülnek. Ezek gyakran nagyon finom megjegyzések vagy cselekedetek, amelyek implicit előítéletből és/vagy sztereotípiákból erednek.** Ezek tűnhetnek bóknak (például ["Transznemű lány létedre gyönyörű vagy"](/#/TODO)), ártalmatlan megjegyzésnek (például ["Honnan jöttél valójában?"](/#/TODO)) vagy tudatalatti cselekvésnek (például [átkelés az utcán, hogy elkerülj egy színesbőrű személyt](/#/TODO)).
+**A mikroagressziók olyan mindennapi bántások és sértések, amelyekkel marginalizált csoportok szembesülnek. Ezek gyakran nagyon finom megjegyzések vagy cselekedetek, amelyek implicit előítéletből és/vagy sztereotípiákból erednek.** Ezek tűnhetnek bóknak (például ["Transznemű lány létedre gyönyörű vagy"](/#/entry?id=transznemu-lany-letedre-gyonyoru-vagy)), ártalmatlan megjegyzésnek (például ["Honnan jöttél valójában?"](/#/entry?id=honnan-szarmazol-valojaban)) vagy tudatalatti cselekvésnek (például [ha szorongatni kezded a táskádat, amikor egy színesbőrű ember közeledik](/#/entry?id=a-taskadat-szorongatod-amikor-egy-kisebbsegi-szinesboru-kozeledik)).
 
 A mikroagresszió lehet szándékos vagy szándéktalan, és egyszerre terméke a sztereotípiáknak és előítéleteknek, ugyanakkor fenntartja azokat. Megsérthetik az ember érzéseit, csökkenthetik az önbizalmát, hatással lehetnek a mentális egészségére stb. A mikroagresszióknak makroszintű hatásai is vannak: **a sztereotípiák folyamatos és nyílt fenntartása és valakinek a leminősítése megerősítheti az akadályokat az egyén életében** (*többek között a munkahelyen, vezetői szerepek betöltése során és más területeken*).
 

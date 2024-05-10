@@ -3,6 +3,7 @@ title: "🚫 Olyan nagymamás vagy."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 09464f23-2ff7-4203-9540-08dba3a2a856
+categories: kor
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 A judaizmus olyan, mint a kereszténység, csak Jézus nélkül, ig
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 0eabd145-aaef-4d84-8539-748d4868ece4
+categories: vallas, faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">

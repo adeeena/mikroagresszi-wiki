@@ -3,6 +3,7 @@ title: "🚫 Tehát, ha nem hiszel Istenben, akkor miben hiszel?"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: e9b6a399-73df-4b7d-93e7-c3468b8e5992
+categories: vallas
 ---
 
 <div class="wiki-content agression-title">

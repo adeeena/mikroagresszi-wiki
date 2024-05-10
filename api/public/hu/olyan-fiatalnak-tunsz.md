@@ -3,6 +3,7 @@ title: "🚫 Hány éves vagy? Olyan fiatalnak tűnsz."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 709d8eaf-cd93-44e7-88e0-8722ea110e51
+categories: kor, nem
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 Egy fogyatékossággal élő személyt speciális igényűként eml
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 3bfc16cf-9d66-409e-b8a8-119fd012571f
+categories: fogyatekossag
 ---
 
 <div class="wiki-content agression-title">

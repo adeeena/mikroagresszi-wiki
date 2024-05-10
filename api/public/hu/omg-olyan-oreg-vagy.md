@@ -3,6 +3,7 @@ title: "🚫 OMG, olyan öreg vagy."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 956f1874-e7a9-45e8-895d-2a9838a2d66c
+categories: kor
 ---
 
 <div class="wiki-content agression-title">

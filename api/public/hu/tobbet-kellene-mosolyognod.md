@@ -3,6 +3,7 @@ title: "🚫 Többet kellene mosolyognod."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: be22b9db-b761-43d2-91db-7485bcbefaf8
+categories: nem
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 Biztosan menstruál."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: c76d4f28-55b3-4214-804f-1e2673d7bda5
+categories: nem
 ---
 
 <div class="wiki-content agression-title">

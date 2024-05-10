@@ -3,6 +3,7 @@ title: "🚫 No homo."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 81b506b5-8e92-48de-b6fa-0e85893a3661
+categories: lmbt, nem
 ---
 
 <div class="wiki-content agression-title">

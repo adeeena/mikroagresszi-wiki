@@ -3,6 +3,7 @@ title: "🚫 Mansplaining"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: e073d2a3-49fd-4e3b-b83a-4304e156a605
+categories: nem
 ---
 
 <div class="wiki-content agression-title">

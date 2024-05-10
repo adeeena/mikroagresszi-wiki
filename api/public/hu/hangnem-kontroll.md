@@ -3,6 +3,7 @@ title: "🚫 Hangnem-kontroll"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 58afe2ce-f531-4495-a215-38be4e1e3c76
+categories: fogyatekossag, lmbt, faji-hovatartozas-etnikum, nem
 ---
 
 <div class="wiki-content agression-title">

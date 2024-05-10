@@ -3,6 +3,7 @@ title: "🚫 Feltételezés, hogy az azonos nemű párok csak barátok"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: a009be45-07d5-4e17-a4b9-04b21383276f
+categories: lmbt
 ---
 
 <div class="wiki-content agression-title">

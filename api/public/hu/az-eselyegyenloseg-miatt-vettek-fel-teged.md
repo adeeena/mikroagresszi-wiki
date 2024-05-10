@@ -3,6 +3,7 @@ title: "🚫 Az esélyegyenlőség miatt vettek fel téged?"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 86230f96-dc74-4809-97bc-cfeb287d0e38
+categories: faji-hovatartozas-etnikum, nem
 ---
 
 <div class="wiki-content agression-title">

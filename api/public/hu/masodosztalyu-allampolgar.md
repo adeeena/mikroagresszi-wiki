@@ -3,6 +3,7 @@ title: "🚫 Másodosztályú állampolgár"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 28bafadc-84e7-4da9-9218-8742349ff8bd
+categories: faji-hovatartozas-etnikum, lmbt, nem
 ---
 
 <div class="wiki-content agression-title">

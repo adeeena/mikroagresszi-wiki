@@ -3,6 +3,7 @@ title: "🚫 Egzotikusság fetisizálása"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: eb345732-3c94-4d63-a300-1a6a7a56ec49
+categories: lmbt, kor, nem, faji-hovatartozas-etnikum, vallas
 ---
 
 <div class="wiki-content agression-title">

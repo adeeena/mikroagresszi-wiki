@@ -3,6 +3,7 @@ title: "🚫 Születési név megkérdezése."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 0ef33a89-f43e-45ca-887a-9415f8d1fc9c
+categories: lmbt, nem
 ---
 
 <div class="wiki-content agression-title">

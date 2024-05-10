@@ -3,6 +3,7 @@ title: "🚫 Örökös idegen sztereotípia"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 4a21646d-dd63-48ad-9319-73d6e2605391
+categories: faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">

@@ -4,7 +4,6 @@ description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 7c0e5259-3d4b-4fe6-9d82-0bf503f49421
 categories: kor
-keywords: asd, foo, bar
 ---
 
 <div class="wiki-content agression-title">

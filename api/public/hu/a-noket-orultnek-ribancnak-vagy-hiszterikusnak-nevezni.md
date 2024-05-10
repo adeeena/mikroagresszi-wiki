@@ -3,6 +3,7 @@ title: "🚫 A nőket őrültnek, ribancnak vagy hisztérikusnak nevezni."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 404e9bc3-27a2-493e-a426-82175032f2f5
+categories: nem
 ---
 
 <div class="wiki-content agression-title">

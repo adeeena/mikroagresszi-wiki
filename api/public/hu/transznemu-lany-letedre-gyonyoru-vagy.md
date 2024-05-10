@@ -3,6 +3,7 @@ title: "🚫 Transznemű lány létedre gyönyörű vagy."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 9dbb846a-6744-4c19-b648-1ce6f399ddb0
+categories: lmbt, nem
 ---
 
 <div class="wiki-content agression-title">
@@ -26,7 +27,7 @@ Egy jobb megközelítés az lenne, amikor elismerjük, hogy minden nő egyedi é
 
 ## Forrás
 
- [4 ‘compliments’ trans people don’t need you to make about their bodies.](https://everydayfeminism.com/2015/12/cissexist-compliments/)
+➡️ [4 ‘compliments’ trans people don’t need you to make about their bodies.](https://everydayfeminism.com/2015/12/cissexist-compliments/)
 
 ➡️ [What you need to know about microaggressions | trans women & non-binary POC.](https://www.youtube.com/watch?v=XoHzS-XNCSw)
 

@@ -3,6 +3,7 @@ title: "🚫 Szóval, mikor kezded a hormonterápiát?"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: c6fb1db6-c8d6-4414-81a0-f948ef0ca8d8
+categories: lmbt, nem
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 Rejtett bántalmazás, Gaslighting"
 description: "🚫 Faji hovatartozás, etnikum elleni mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 20b6b654-cee3-433c-8a53-6e2ae8419796
+categories: faji-hovatartozas-etnikum, fogyatekossag, nem, vallas, lmbt
 ---
 
 <div class="wiki-content agression-title">
@@ -22,7 +23,7 @@ A manipuláció egy formája, amelyet arra használnak, hogy megkérdőjelezzék
 
 [Vallás](/#/entry?id=vallas)
 
-[LMBT](/#/entry?id=lmbt)
+[LMBT+](/#/entry?id=lmbt)
 
 </div>
 

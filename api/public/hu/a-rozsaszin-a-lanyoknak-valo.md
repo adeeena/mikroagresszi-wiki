@@ -3,6 +3,7 @@ title: "🚫 A rózsaszín a lányoknak való."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 70ba3df6-9f18-491d-8efb-c35bc7af0a78
+categories: nem, kor
 ---
 
 <div class="wiki-content agression-title">

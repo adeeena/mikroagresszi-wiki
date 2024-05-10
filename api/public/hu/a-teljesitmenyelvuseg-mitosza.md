@@ -3,6 +3,7 @@ title: "🚫 A teljesítményelvűség mítosza"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 5c249eea-0c6d-4299-b49c-6d004a5eb08f
+categories: fogyatekossag, kor, faji-hovatartozas-etnikum, nem
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 Úgy viselkedik, mint egy őrült."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 9ab4911b-2662-4021-b8f9-692ee8e0a7db
+categories: fogyatekossag, nem
 ---
 
 <div class="wiki-content agression-title">

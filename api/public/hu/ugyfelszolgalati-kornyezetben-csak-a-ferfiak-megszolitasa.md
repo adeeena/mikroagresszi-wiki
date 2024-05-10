@@ -3,6 +3,7 @@ title: "🚫 Ügyfélszolgálati környezetben csak a férfiak megszólítása."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 5ffe446a-96c3-4610-a1db-dd71ff67be69
+categories: nem
 ---
 
 <div class="wiki-content agression-title">

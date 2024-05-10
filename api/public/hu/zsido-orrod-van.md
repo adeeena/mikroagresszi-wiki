@@ -3,6 +3,7 @@ title: "🚫 Zsidó orrod van."
 description: "🚫 Faji hovatartozás, etnikum elleni mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 99902840-75c2-4397-b5e9-a586938a9c07
+categories: faji-hovatartozas-etnikum, vallas
 ---
 
 <div class="wiki-content agression-title">

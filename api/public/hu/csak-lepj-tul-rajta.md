@@ -3,6 +3,7 @@ title: "🚫 Csak lépj túl rajta."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: ad2e791c-5cf0-4748-ae9b-1211e49b6312
+categories: fogyatekossag, nem
 ---
 
 <div class="wiki-content agression-title">

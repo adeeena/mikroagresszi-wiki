@@ -3,6 +3,7 @@ title: "🚫 Ledöbbenni, ha a fogyatékkal élő személy valamit képess megcs
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 35c2567f-5723-4b5c-a8eb-35c817d71356
+categories: fogyatekossag
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 Nagyon inspiráló, ahogyan leküzdötted a fogyatékosságodat."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: ad7b7aec-6853-46dd-b0cb-1687ce97a03d
+categories: fogyatekossag
 ---
 
 <div class="wiki-content agression-title">

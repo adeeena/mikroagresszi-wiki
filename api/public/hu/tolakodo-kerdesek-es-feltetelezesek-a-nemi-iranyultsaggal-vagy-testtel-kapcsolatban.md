@@ -3,6 +3,7 @@ title: "🚫 Tolakodó kérdések / feltételezések a nemi irányultsággal és
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 32532a71-47e1-4363-8506-0452e2ede7af
+categories: lmbt, nem
 ---
 
 <div class="wiki-content agression-title">

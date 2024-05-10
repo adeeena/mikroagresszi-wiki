@@ -3,6 +3,7 @@ title: "🚫 Bőrszínvakság"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: e89b45a3-bc84-49b4-ae1f-5dc2349e170b
+categories: faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">

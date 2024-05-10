@@ -3,6 +3,7 @@ title: "🚫 Nálatok ki a férfi a kapcsolatban?"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 7c6b55b5-5bd0-4936-9ce7-44e9d28ed33d
+categories: lmbt, nem
 ---
 
 <div class="wiki-content agression-title">

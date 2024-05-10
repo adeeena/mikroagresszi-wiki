@@ -3,6 +3,7 @@ title: "🚫 A heteroszexuális vagy ciszneműeket 'normálisként' vagy 'átlag
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 39b332b8-bf54-4087-9875-cd5d35cc83f6
+categories: lmbt, nem
 ---
 
 <div class="wiki-content agression-title">

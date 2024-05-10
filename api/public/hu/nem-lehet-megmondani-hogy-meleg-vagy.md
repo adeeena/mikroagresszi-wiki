@@ -2,6 +2,7 @@
 title: "🚫 Nem lehet megmondani, hogy meleg vagy."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
+categories: lmbt, nem
 ---
 
 <div class="wiki-content agression-title">

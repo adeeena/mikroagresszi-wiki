@@ -3,6 +3,7 @@ title: "🚫 Hűha, olyan profi vagy."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: fe010c1c-6342-4e5e-98ba-05ed6d50be5a
+categories: kor, faji-hovatartozas-etnikum, nem
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 Megkérni az egyetlen nőt, hogy ő készítse a jegyzőkönyvet."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: f6c4c22b-d5db-484b-b56a-141bf1faa96f
+categories: nem
 ---
 
 <div class="wiki-content agression-title">

@@ -2,7 +2,7 @@
 title: "🚫 Nem viselkedsz úgy, mint a többi roma."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-
+categories: faji-hovatartozas-etnikum, nem
 ---
 
 <div class="wiki-content agression-title">

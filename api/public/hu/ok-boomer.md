@@ -3,6 +3,7 @@ title: "🚫 OK, Boomer."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: d0793908-7c21-49d7-a2a5-738736f9e977
+categories: kor
 ---
 
 <div class="wiki-content agression-title">

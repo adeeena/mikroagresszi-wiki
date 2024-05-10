@@ -3,6 +3,7 @@ title: "🚫 Legyél férfi."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 7ef7b5c0-079d-42be-877b-4d56a9bcb4ef
+categories: kor, nem
 ---
 
 <div class="wiki-content agression-title">

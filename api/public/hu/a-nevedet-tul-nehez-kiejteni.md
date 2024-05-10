@@ -3,6 +3,7 @@ title: "🚫 A nevedet túl nehéz kiejteni."
 description: "🚫 Faji hovatartozás, etnikum elleni mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: e1ec247b-ecb7-482b-801d-264817b6b0c5
+categories: faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">

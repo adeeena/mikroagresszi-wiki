@@ -3,6 +3,7 @@ title: "🚫 Valakire úgy hivatkozni, mint \"kerekesszékes\" vagy \"rokkant\".
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 5523e1f7-e1a4-44dd-afb0-b32a1a4df6e2
+categories: fogyatekossag
 ---
 
 <div class="wiki-content agression-title">

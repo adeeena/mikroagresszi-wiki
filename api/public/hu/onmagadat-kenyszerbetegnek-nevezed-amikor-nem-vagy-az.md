@@ -3,6 +3,7 @@ title: "🚫 Önmagadat kényszerbetegnek nevezed, amikor nem vagy az."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 9f4faa92-2e5d-4bfa-acb1-7606e31b5d75
+categories: fogyatekossag
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 Ez a nő annyira agresszívan viselkedik."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: c9149361-cb52-4fd2-a4ce-ca8798d8ddd1
+categories: nem, faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">

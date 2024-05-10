@@ -3,6 +3,7 @@ title: "🚫 Annyira főnökösködő vagy."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 1e26bcd5-299e-48b2-9cc8-82b1a55efedd
+categories: nem
 ---
 
 <div class="wiki-content agression-title">

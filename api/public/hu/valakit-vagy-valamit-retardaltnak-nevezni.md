@@ -3,6 +3,7 @@ title: "🚫 Valakit vagy valamit retardáltnak nevezni."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: b35d19f3-6693-43b6-a876-400b8b5b91fd
+categories: fogyatekossag, nem
 ---
 
 <div class="wiki-content agression-title">

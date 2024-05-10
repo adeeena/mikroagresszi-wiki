@@ -3,6 +3,7 @@ title: "🚫 Egyáltalán nem tűnsz transzneműnek!"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok. "
 lang: hu
 source: 243ab2ea-5aea-4bd8-abe0-1a835e7c759e
+categories: lmbt, nem
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 Azt hinni, hogy a kisebbségi emberek nem elég képzettek egy fela
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 551ac681-758d-4de9-b3b0-5e08eab07b6c
+categories: faji-hovatartozas-etnikum, osztalyalapu, nem
 ---
 
 <div class="wiki-content agression-title">

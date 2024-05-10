@@ -3,6 +3,7 @@ title: "🚫 Csak ne nyomulj rám, kérlek."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: fe5e98b2-d364-4247-a3fd-54e077d807cb
+categories: lmbt
 ---
 
 <div class="wiki-content agression-title">

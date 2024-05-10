@@ -3,6 +3,7 @@ title: "🚫 Király! Te vagy az első transz barátom."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: b8f37be9-c177-4346-8599-0e5ae31a79ff
+categories: lmbt, nem
 ---
 
 <div class="wiki-content agression-title">

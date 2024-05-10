@@ -3,6 +3,7 @@ title: "🚫 Javaslat, hogy két ember randizzon csak azért, mert mindketten me
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 0dd4aa66-8c41-488e-9118-21efb4c5b3e8
+categories: lmbt
 ---
 
 <div class="wiki-content agression-title">

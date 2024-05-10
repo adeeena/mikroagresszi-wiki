@@ -3,6 +3,7 @@ title: "🚫 Honnan származol valójában?"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 7f4d0dcd-3141-4bf9-8967-9b435f21b725
+categories: faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 Csak férfiaknak adni elismerést egy nő munkájáért vagy ötlet
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 3403861f-0495-4220-bc54-e5446cb3606e
+categories: nem
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 Olyan egzotikusan nézel ki."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: cab19bbf-1dec-407e-9575-cd50b489e4fd
+categories: faji-hovatartozas-etnikum, nem
 ---
 
 <div class="wiki-content agression-title">

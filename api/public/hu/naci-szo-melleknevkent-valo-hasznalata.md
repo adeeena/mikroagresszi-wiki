@@ -3,6 +3,7 @@ title: "🚫 A 'náci' szó melléknévként való használata."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 68b8b989-c0a8-41d4-b7f4-a304dd7dc248
+categories: faji-hovatartozas-etnikum, vallas
 ---
 
 <div class="wiki-content agression-title">

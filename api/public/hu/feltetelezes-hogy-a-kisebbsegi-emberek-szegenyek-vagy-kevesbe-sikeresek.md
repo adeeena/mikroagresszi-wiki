@@ -3,6 +3,7 @@ title: "🚫 Feltételezés, hogy a kisebbségi emberek szegények vagy kevésb�
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: cbfbc2e4-e3cb-4202-bc3e-809f205bf8bc
+categories: faji-hovatartozas-etnikum, osztalyalapu
 ---
 
 <div class="wiki-content agression-title">

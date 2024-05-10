@@ -3,6 +3,7 @@ title: "🚫 Nem teszek különbséget bőrszínek közt."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: c4165205-7b06-46a2-879a-528ebd44f458
+categories: faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">

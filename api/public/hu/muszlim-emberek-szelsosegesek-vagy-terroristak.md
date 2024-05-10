@@ -3,6 +3,7 @@ title: "🚫 Feltételezés, hogy a muszlim emberek szélsőségesek vagy terror
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: cbe705c2-80bc-42be-87ff-779feaf7206e
+categories: vallas, faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">
@@ -18,6 +19,8 @@ Egy ilyen sztereotípia azt is eredményezheti, hogy az embereket jogtalanul meg
 <div class="categories">
 
 [Vallás](/#/entry?id=vallas)
+
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>
 

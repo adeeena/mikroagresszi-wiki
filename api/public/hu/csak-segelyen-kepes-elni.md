@@ -3,6 +3,7 @@ title: "🚫 Csak segélyen képes élni."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 27005f9c-5e51-4308-b4b7-0706724b5c15
+categories: faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">

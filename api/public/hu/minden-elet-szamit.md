@@ -3,6 +3,7 @@ title: "🚫 Minden élet számít."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: e53aed3d-6896-40e6-8409-e0d36c7e9c00
+categories: faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 Idősek nyelvén való beszélés"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: e3299936-447b-4f81-9278-a57c75fe7c4c
+categories: kor
 ---
 
 <div class="wiki-content agression-title">

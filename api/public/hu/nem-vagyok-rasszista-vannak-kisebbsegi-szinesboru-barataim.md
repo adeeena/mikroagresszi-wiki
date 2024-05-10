@@ -3,6 +3,7 @@ title: "🚫 Nem vagyok rasszista. Vannak kisebbségi/színesbőrű barátaim."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 2d3ee376-9f56-45a4-a188-79e0a59f6e8b
+categories: faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">

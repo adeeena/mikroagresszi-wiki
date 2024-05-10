@@ -3,6 +3,7 @@ title: "🚫 Ez annyira buzis."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: c3405d55-ecaa-4d11-97f2-d8f2ac7633ef
+categories: lmbt
 ---
 
 <div class="wiki-content agression-title">

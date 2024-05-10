@@ -3,6 +3,7 @@ title: "🚫 Feltételezni, hogy valaki azért szegény, mert lusta."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: e6887b72-d0e3-49ce-93c8-32430c338e2c
+categories: osztalyalapu
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 Tudod egyáltalán, mi az a Snapchat vagy a TikTok?"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 232395b5-d776-4b85-b35d-8f70d75b9def
+categories: kor
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 Nem értem, hogyhogy nem akarsz szexelni?"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 9c058fb0-b8e5-4ba8-bd80-5f272f666b1d
+categories: lmbt
 ---
 
 <div class="wiki-content agression-title">

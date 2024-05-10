@@ -3,6 +3,7 @@ title: "🚫 Az apád kényszerített, hogy hidzsábot viselj?"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 56a805f3-b739-4c51-98ad-eb61eb69320
+categories: vallas, faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">

@@ -3,6 +3,7 @@ title: "🚫 A fiúk már csak ilyenek."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 0eabd145-aaef-4d84-8539-748d4868ece4
+categories: kor, nem
 ---
 
 <div class="wiki-content agression-title">

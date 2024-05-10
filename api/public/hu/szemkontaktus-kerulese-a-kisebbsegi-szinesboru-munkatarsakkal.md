@@ -3,6 +3,7 @@ title: "🚫 Szemkontaktus kerülése a kisebbségi/színesbőrű munkatársakka
 description: "🚫 Faji hovatartozás, etnikum elleni mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 5398b1a1-b1bf-452b-9452-3344836f3a4e
+categories: faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">

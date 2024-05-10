@@ -3,6 +3,7 @@ title: "🚫 Roma (vagy Fekete) lány létedre csinos vagy."
 description: "🚫 Faji hovatartozás, etnikum elleni mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 0219229b-3ba3-4077-bd97-ef7a436d4de9
+categories: faji-hovatartozas-etnikum, nem
 ---
 
 <div class="wiki-content agression-title">

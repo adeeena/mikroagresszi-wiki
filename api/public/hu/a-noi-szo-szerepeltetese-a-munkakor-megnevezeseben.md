@@ -3,6 +3,7 @@ title: "🚫 A 'női' szó szerepeltetése a munkakör megnevezésében."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 7d74a038-f245-4c0a-928c-2568e04288b9
+categories: nem
 ---
 
 <div class="wiki-content agression-title">

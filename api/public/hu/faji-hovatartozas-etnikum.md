@@ -4,7 +4,6 @@ description: "🚫 Faji hovatartozás, etnikum elleni mikroagressziók magyaráz
 lang: hu
 main_category: true
 category: faji-hovatartozas-etnikum
-
 ---
 
 # 🚫 Faji hovatartozás, etnikum elleni mikroagressziók

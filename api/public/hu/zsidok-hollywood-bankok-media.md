@@ -3,6 +3,7 @@ title: "🚫 A feltételezés, hogy zsidó emberek irányítják a bankokat, a m
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 7b18caec-880e-47da-81d7-872ddd9fde49
+categories: vallas
 ---
 
 <div class="wiki-content agression-title">
