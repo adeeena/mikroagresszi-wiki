@@ -1,39 +1,33 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Csak lépj túl rajta."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: ad2e791c-5cf0-4748-ae9b-1211e49b6312
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Csak lépj túl rajta.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A  kifejezés egy olyan gondolkodásmódból ered, amely szerint a mentális egészség kizárólag az adott személy elhatározásán és erőfeszítésén múlik, mintha csak akarat kérdése lenne a problémák legyőzése. Ez a megközelítés figyelmen kívül hagyja a mentális egészség sokrétű természetét, amelyet befolyásolhatnak az agyi kémia, a személyes történetek, az élettapasztalatok és a környezeti tényezők. Amikor ezt a kifejezést mondják valakinek, azzal azt sugallhatják, hogy a küzdelmük nem elég súlyos vagy komoly ahhoz, hogy odafigyelést érdemeljen, és mintha az egyetlen út a gyors és erőltetett "továbblépés" lenne.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**Ez a megjegyzés különösen gyakran hangzik el férfiak felé, mivel a társadalmi elvárások szerint a férfiaknak "keményeknek" és "erőseknek" kell lenniük, és kerülniük kell az érzelmek nyílt kifejezését.** Az ilyen üzenetek azonban hatalmas nyomást gyakorolhatnak az egyénekre, arra kényszerítve őket, hogy elrejtsék a belső küzdelmeiket és "keménynek" tűnjenek, még ha valójában szenvednek is. A "Csak lépj túl rajta" hozzáállás azt sugallja, hogy az érzelmek kimutatása vagy a segítségkérés gyengeség jele, ami növelheti a szégyenérzetet és az elszigeteltséget azoknál, akik mentális egészséggel kapcsolatos problémákkal küzdenek.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
+Ez a fajta mikroagresszió arra késztetheti az embereket, hogy bezárkózzanak és csendben szenvedjenek, félve attól, hogy elítélik vagy nem veszik komolyan a problémáikat. A mentális egészség azonban sokkal összetettebb annál, mint hogy egyszerűen túl lehetne rajta lépni. Fontos felismerni, hogy a mentális egészség problémái nem az egyén gyengeségét vagy hiányosságát jelentik, és gyakran szakmai segítségre, támogatásra és időre van szükség a gyógyuláshoz.
 
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+Ahelyett, hogy azt mondanánk valakinek, hogy "lépjen túl rajta", fontos empatikusan meghallgatni őt, elismerni a küzdelmét, és támogatást nyújtani. A mentális egészség problémáival kapcsolatban a nyitott és elfogadó hozzáállás segíthet az egyéneknek abban, hogy biztonságosan és ítéletmentesen beszéljenek a problémáikról, és megtalálják a szükséges segítséget. Az ilyen hozzáállás elősegíti a mentális egészség és jólét jobb megértését és támogatását a társadalomban.
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
+[Fogyatékosság](/#/entry?id=fogyatekossag)
 
 [Nem](/#/entry?id=nem)
 
 </div>
 
-## Példák
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás
+
+➡️ [“Get over it” is unhelpful advice for mental illness sufferers.](https://www.healthyplace.com/blogs/survivingmentalhealthstigma/2016/09/get-over-it-is-not-helpful-advice-for-mental-illnesses  )
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

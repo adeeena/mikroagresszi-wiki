@@ -1,39 +1,31 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Ledöbbenni, ha a fogyatékkal élő személy valamit képess megcsinálni."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 35c2567f-5723-4b5c-a8eb-35c817d71356
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Ledöbbenni, ha a fogyatékkal élő személy valamit képess megcsinálni.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Amikor valaki ledöbben azon, hogy egy fogyatékkal élő személy képes valamit megcsinálni, ez azt a gondolkodásmódot tükrözi, hogy a fogyatékkal élő emberek általában kevésbé alkalmasak vagy képességeik korlátozottak. Az ilyen reakciók azt sugallják, hogy a fogyatékkal élő emberek várhatóan nem tudnak megtenni bizonyos dolgokat, amelyek mások számára természetesek. Ez a hozzáállás azt erősíti, hogy a fogyatékkal élő embereknek állandó gondoskodásra vagy segítségre van szükségük, és nincs meg a személyes szabadságuk a cselekvéshez és a döntéshozatalhoz.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**Az ilyen megdöbbenés vagy meglepetés azt a tévhitet erősítheti, hogy a fogyatékkal élő emberek mind szánalmat vagy lenézést érdemelnek.** A valóságban azonban a fogyatékkal élő emberek ugyanolyan változatos képességekkel és tehetségekkel rendelkeznek, mint bárki más, és a fogyatékosságuk nem határozza meg teljes mértékben az életüket vagy képességeiket. Az ilyen meglepett reakciók alááshatják a fogyatékkal élők önbizalmát, és megnehezíthetik számukra, hogy ugyanolyan elismerést és tiszteletet kapjanak, mint mások.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
+A fogyatékkal élő emberekkel való tiszteletteljes bánásmód magában foglalja azt, hogy a képességeiket és eredményeiket nem kezeljük rendkívüliként pusztán azért, mert fogyatékosságuk van. Az előítéletek és sztereotípiák elkerülése érdekében fontos a fogyatékkal élő embereket egyenlő felekként kezelni, elismerve az autonómiájukat és a tehetségüket. Ez azt is jelenti, hogy nem feltételezzük, hogy állandó gondoskodásra van szükségük, vagy hogy kevésbé képesek önállóan élni és döntéseket hozni.
 
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+Az inkluzív társadalom érdekében fontos olyan környezetet teremteni, ahol a fogyatékkal élő emberek szabadon élhetnek, dolgozhatnak és részt vehetnek a társadalomban anélkül, hogy sztereotípiákkal vagy előítéletekkel kellene szembenézniük. A tiszteletteljes hozzáállás és a pozitív elvárások segíthetnek abban, hogy a fogyatékkal élők ugyanolyan megbecsülést és elismerést kapjanak, mint a fogyatékossággal nem rendelkező társaik.
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[Fogyatékosság](/#/entry?id=fogyatekossag)
 
 </div>
 
-## Példák
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás
+
+➡️ [Words matter and it’s time to explore the meaning of ableism.](https://www.forbes.com/sites/andrewpulrang/2020/10/25/words-matter-and-its-time-to-explore-the-meaning-of-ableism/?sh=6481dc357162)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

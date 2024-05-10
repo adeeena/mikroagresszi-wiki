@@ -1,39 +1,32 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Idősek nyelvén való beszélés"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: e3299936-447b-4f81-9278-a57c75fe7c4c
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Idősek nyelvén való beszélés
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Az "idősek nyelvén való beszélés" kifejezés azokra a módokra utal, ahogyan a fiatalabbak gyakran beszélnek az idősebbekkel, olyan feltételezések alapján, amelyek az idősebbek szellemi képességeinek alábecsülését tükrözik. Ilyenkor a fiatalabbak egyszerűsített szókincset használnak, lassabban beszélnek, vagy eltúlzott becéző kifejezéseket alkalmaznak, mintha az idősebbek nem lennének képesek a normális beszédet megérteni vagy követni. Ez a viselkedés a szellemi képességek és a megértés terén fennálló negatív előítéletekből ered, és súlyos következményekkel járhat az idősebbek számára.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**Az ilyen hozzáállás azt sugallja, hogy az idősebb emberek nem képesek tartani a lépést a fiatalabb generációkkal, vagy hogy mentális képességeik csökkennek az életkorral.** Az "idősek nyelvén való beszélés" leereszkedő és tiszteletlen lehet az idősebbek számára, mivel azt sugallja, hogy ők már nem tudnak hozzájárulni a beszélgetéshez vagy értelmes módon kommunikálni. Ez a viselkedés nemcsak sértő, hanem a koralapú diszkrimináció egyik formája is, amely hozzájárulhat az idősebb emberek marginalizálásához és társadalmi elszigeteltségéhez.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
+Fontos felismerni, hogy az idősebb emberek nagy tapasztalattal, tudással és életbölcsességgel rendelkeznek. Ha fiatalabbak túlzottan leegyszerűsítve beszélnek velük, azzal csökkentik az idősebbek autonómiáját és tiszteletét. Az ilyen viselkedés elkerülése érdekében a fiatalabb generációknak tiszteletteljesen kellene beszélniük az idősebbekkel, a szokásos módon, és figyelembe venniük, hogy az idősebbek ugyanúgy képesek megérteni és részt venni a beszélgetésben, mint bárki más.
 
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+A beszédmód és a kommunikáció javítása hozzájárulhat az idősebbek és a fiatalabb generációk közötti jobb megértéshez és kapcsolatokhoz. A korosztályok közötti tisztelet alapja az egyenlő bánásmód, ahol senkit sem kezelnek leereszkedően vagy megkülönböztetően az életkora miatt. Az idősek tisztelete és megbecsülése a társadalom egészének előnyére válik, és elősegíti a generációk közötti kohéziót és együttműködést.
 
 <div class="categories">
 
 [Kor](/#/entry?id=kor)
 
-[Nem](/#/entry?id=nem)
-
 </div>
 
-## Példák
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
 
 ## Forrás
+
+➡️ [How to discourage caregivers from using “elderspeak”.](https://www.aarp.org/caregiving/basics/info-2017/discouraging-elderspeak-from-caregivers-fd.html)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

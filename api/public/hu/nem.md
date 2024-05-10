@@ -2,25 +2,19 @@
 title: "🚫 Nem"
 description: "🚫 Nemmel kapcsolatos mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-
+main_category: true
+categories: nem
 ---
 
-<div class="floating-columns">
+# Nemmel kapcsolatos mikroagressziók
 
-<div class="floating-bar">
+<div class="infobox warning">
 
-[Bevezető a mikroagressziókhoz](/#/entry?id=mikroagressziok)
+<h5>📚 Bevezető</h5>
 
-[Bevezető a dossziéhoz](/#/entry?id=nem)
-
-<hr />
-
+Ha a mikroagressziókról általában szeretnél olvasni, [keresd fel az ezzel kapcsolatos bevezető cikkünket.](/#/entry?id=mikroagressziok)
 
 </div>
-
-<div class="wiki-content">
-
-# 🚫 Nemmel kapcsolatos mikroagressziók
 
 A nemmel kapcsolatos mikroagressziók olyan cselekedetek és megjegyzések, amelyek a személy neméhez vagy nemi identitásához kapcsolódó sztereotípiákból fakadnak. Az ilyen típusú mikroagressziók gyakran sértőek és lekicsinylőek lehetnek, mivel erősítik a hagyományos nemi szerepekkel, normákkal és előítéletekkel kapcsolatos elavult elképzeléseket. **Például, egy nőt a vezetési képességei aláásásával vagy egy férfi érzelmi kifejezőképességének kérdőjelezésével megkérdőjelezhetik ezek a mikroagressziók.**
 
@@ -31,5 +25,3 @@ A változás előmozdítása érdekében elengedhetetlen a szemléletváltás é
 ## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
-
-</div>

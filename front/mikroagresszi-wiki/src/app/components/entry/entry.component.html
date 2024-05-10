@@ -2,6 +2,15 @@
   <div class="entry-content" *ngIf="entry">
     <div class="entry-markdown" [@enter1] [innerHTML]="entry | utf8EmojisToImages:'apple'"></div>
 
+    <div class="entry-related" *ngIf="related && related.length">
+      <h2>Kapcsolódó</h2>
+      <div *ngFor="let r of related">
+        <a routerLink="/entry" [queryParams]="{ id: r.file }">
+          {{ r.title }}
+        </a>
+      </div>
+    </div>
+
     <div class="entry-actions" [@enter3]>
       <div class="back-to-home">
         <a [routerLink]="['/']">

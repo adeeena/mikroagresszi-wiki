@@ -3,6 +3,7 @@ title: "🚫 Biszex vagy? Ez szexi."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: 7aeddaf0-ce60-4d1f-9e01-6147798bfade
+categories: lmbt, nem
 ---
 
 <div class="wiki-content agression-title">

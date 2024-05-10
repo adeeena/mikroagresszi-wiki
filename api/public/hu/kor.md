@@ -2,25 +2,21 @@
 title: "🚫 Kor"
 description: "🚫 Korral kapcsolatos mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-
+main_category: true
+categories: kor
 ---
 
-<div class="floating-columns">
+# 🚫 Korral kapcsolatos mikroagressziók
 
-<div class="floating-bar">
 
-[Bevezető a mikroagressziókhoz](/#/entry?id=mikroagressziok)
+<div class="infobox warning">
 
-[Bevezető a dossziéhoz](/#/entry?id=kor)
+<h5>📚 Bevezető</h5>
 
-<hr />
-
+Ha a mikroagressziókról általában szeretnél olvasni, [keresd fel az ezzel kapcsolatos bevezető cikkünket.](/#/entry?id=mikroagressziok)
 
 </div>
 
-<div class="wiki-content">
-
-# 🚫 Korral kapcsolatos mikroagressziók
 
 A korral kapcsolatos mikroagressziók olyan káros cselekedetek és megjegyzések, amelyek az egyének életkorát veszik alapul, és sokféle formában jelentkezhetnek. Ez lehet tréfálkozás az életkorral, kérdőjelek felvetése a személy képességeivel kapcsolatban, vagy életkorhoz kapcsolódó előítéletekkel teli sztereotípiák alkalmazása. **Például, az ilyen mikroagressziók során egy idősebb személyt könnyen hátrányos helyzetbe hozhatnak a munkahelyén vagy társadalmi kapcsolataiban, mert mások alábecsülik vagy elbagatellizálják tapasztalataikat és tudásukat.**
 
@@ -32,5 +28,3 @@ A mikroagressziók csökkentése érdekében elengedhetetlen a társadalmi tudat
 ## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
-
-</div>

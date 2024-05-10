@@ -1,22 +1,21 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Legyél férfi."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 7ef7b5c0-079d-42be-877b-4d56a9bcb4ef
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Legyél férfi.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A "Legyél férfi" kifejezést gyakran arra használják, hogy a férfiakat vagy fiúkat keménységre és érzelmi elzárkózásra ösztönözzék. Gyakran arra irányul, hogy lebeszélje a fiúkat és férfiakat az érzelmek nyílt kifejezéséről, például a sírásról vagy a sebezhetőség kimutatásáról. Ez a kifejezés azonban súlyos nemi sztereotípiákat táplál, és azt az üzenetet közvetíti, hogy az érzelmek kimutatása gyengeség vagy női tulajdonság, míg a férfiasságot a keménységgel és az érzelmi elzárkózással azonosítják.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**Ez a gondolkodásmód káros hatással lehet a férfiak mentális egészségére, mivel rákényszeríti őket, hogy elrejtsék az érzéseiket, és belsővé tegyék azokat a sztereotípiákat, amelyek szerint a férfiasság az érzelmi sebezhetőség hiányát jelenti.** Ez a fajta mikroagresszió már fiatal korban megtanítja a fiúkat arra, hogy elnyomják az érzéseiket, ami a későbbi életszakaszokban érzelmi elszigeteltséghez vagy kapcsolati problémákhoz vezethet. 
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
+A "Legyél férfi" kifejezés fenntartja azt a tévhitet, hogy a férfiasság kizárólag az erő és a keménység köré épül, miközben a nők szerepét az érzelmi támogatással és gondoskodással azonosítja. Ez a szűk és egyoldalú megközelítés ártalmas mind a férfiakra, mind a nőkre nézve, mivel megszilárdítja azokat a nemi szerepeket, amelyek korlátozzák a nők és a férfiak lehetőségeit a társadalomban.
 
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+A társadalmi egyenlőség érdekében szükség van arra, hogy felhagyjunk az ilyen káros sztereotípiák erősítésével. Mindenkit, nemtől függetlenül, bátorítani kell arra, hogy természetes módon fejezze ki az érzelmeit, és hogy megértse: az érzelmi sebezhetőség és az őszinteség nem azonos a gyengeséggel. Hasonlóképpen fontos felismerni, hogy a férfiasság nemcsak a keménységet jelenti, és hogy a férfiak is lehetnek gondoskodóak, érzelmesek és együttérzők. Az ilyen üzenetekkel nemcsak az egyéneket, hanem az egész társadalmat is segíthetjük abban, hogy elfogadóbbá és kiegyensúlyozottabbá váljon a nemek közötti kapcsolatok terén.
 
 <div class="categories">
 
@@ -28,12 +27,13 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 ## Példák
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [UK Foreign Secretary Jeremy Hunt tells rival, Boris Johnson, to ‘man up’.](https://www.bbc.com/news/uk-48743113 )
 
 ## Forrás
+
+➡️ [Man up! Our “male code” fails boys and men.](https://www.psychologytoday.com/ca/blog/mind-games/201903/man-our-male-code-fails-boys-and-men)
+
+➡️ [Gender microaggressions – We’re all guilty of them.](https://momentousinstitute.org/blog/gender-microaggressions-were-all-guilty-of-them)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

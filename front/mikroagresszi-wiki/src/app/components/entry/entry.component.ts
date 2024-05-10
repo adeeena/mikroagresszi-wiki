@@ -5,7 +5,6 @@ import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog
 import {fadeInUpOnEnterAnimation} from "angular-animations";
 import {Meta, Title} from "@angular/platform-browser";
 import {TranslateService} from "@ngx-translate/core";
-import {Utf8EmojisToImagesPipe} from "../../lib/pipes/utf8-emojis-to-images.pipe";
 import {MarkdownService} from "ngx-markdown";
 
 export interface DialogData {
@@ -28,6 +27,7 @@ export class EntryComponent implements OnInit {
   public entryId: string = '';
   public metadata: any;
   public entry: any;
+  public related: any;
   private innerWidth: number = 0;
 
   constructor(private route: ActivatedRoute,
@@ -73,6 +73,12 @@ export class EntryComponent implements OnInit {
 
             this.meta.updateTag({ name: 'description', content: description });
           });
+
+        this.related = [];
+        this.entryService.related(this.entryId)
+          .subscribe((data: any) => {
+            this.related = JSON.parse(data);
+        });
       }
     });
   }

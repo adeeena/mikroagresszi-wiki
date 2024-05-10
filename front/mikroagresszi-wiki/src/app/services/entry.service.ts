@@ -9,9 +9,8 @@ declare let process: any;
 })
 export class EntryService {
   private readonly baseUrl:string = '';
-  private entryUrl:string = '/entry?languageCode=hu&id=';
   private entryByUrl:string = '/entry?languageCode=hu&id=';
-  private searchByUrl:string = '/entry/searchBy?query=';
+  private relatedByUrl:string = '/related?languageCode=hu&id=';
 
   constructor(private http: HttpClient) {
     const env = process.env.NODE_ENV;
@@ -23,15 +22,11 @@ export class EntryService {
     }
   }
 
-  getBy(categoryId: string) {
-    return this.http.get<any>(this.baseUrl + this.entryUrl + categoryId);
-  }
-
   getById(entryId: string) {
     return this.http.get(this.baseUrl + this.entryByUrl + entryId, {responseType: 'text'});
   }
 
-  searchBy(query: string) {
-    return this.http.get<any>(this.baseUrl + this.searchByUrl + query);
+  related(entryId: string) {
+    return this.http.get(this.baseUrl + this.relatedByUrl + entryId, {responseType: 'text'});
   }
 }

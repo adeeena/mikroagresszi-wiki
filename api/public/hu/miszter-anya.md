@@ -3,6 +3,7 @@ title: "🚫 Miszter Anya"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 source: ddedbfd2-dc49-42a0-b6d0-c27aac14d4cb
+categories: nem
 ---
 
 <div class="wiki-content agression-title">

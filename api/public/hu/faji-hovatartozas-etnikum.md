@@ -2,25 +2,20 @@
 title: "🚫 Faji hovatartozás, etnikum elleni mikroagressziók"
 description: "🚫 Faji hovatartozás, etnikum elleni mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
+main_category: true
+category: faji-hovatartozas-etnikum
 
 ---
 
-<div class="floating-columns">
+# 🚫 Faji hovatartozás, etnikum elleni mikroagressziók
 
-<div class="floating-bar">
+<div class="infobox warning">
 
-[Bevezető a mikroagressziókhoz](/#/entry?id=mikroagressziok)
+<h5>📚 Bevezető</h5>
 
-[Bevezető a dossziéhoz](/#/entry?id=faji-hovatartozas-etnikum)
-
-<hr />
-
+Ha a mikroagressziókról általában szeretnél olvasni, [keresd fel az ezzel kapcsolatos bevezető cikkünket.](/#/entry?id=mikroagressziok)
 
 </div>
-
-<div class="wiki-content">
-
-# 🚫 Faji hovatartozás, etnikum elleni mikroagressziók
 
 A faji hovatartozás, etnikum elleni mikroagressziók azok a cselekedetek és megjegyzések, amelyek erősítik vagy fenntartják a más bőrszínű vagy más etnikai hovatartozású emberekkel szembeni negatív nézeteket és előítéleteket. **Ezek a mikroagressziók széles skálán manifesztálódhatnak, beleértve a nyelvet, az akcentust, a vallást, a ruházatot, a bőrszínt, a haj színét és állagát, a szem színét, az arcvonásokat, a testalkatot stb.**
 
@@ -32,4 +27,3 @@ A megelőzés és kezelés érdekében kiemelten fontos a társadalmi tudatossá
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 
-</div>

@@ -1,7 +1,9 @@
 ---
-title: "🚫 Bevezető a mikroagressziókhoz"
+title: "Bevezető a mikroagressziókhoz"
 description: "Mikroagresszió magyarázata, háttere, javaslatok."
 lang: hu
+main_category: true
+
 ---
 
 <div class="header-image"><img src="assets/images/undraw_feeling_blue.svg" /></div>

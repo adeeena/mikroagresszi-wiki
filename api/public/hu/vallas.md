@@ -2,25 +2,21 @@
 title: "🚫 Vallás"
 description: "🚫 Vallással kapcsolatos mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
+main_category: true
+categories: vallas
 
 ---
 
-<div class="floating-columns">
+# 🚫 Vallással kapcsolatos mikroagressziók
 
-<div class="floating-bar">
+<div class="infobox warning">
 
-[Bevezető a mikroagressziókhoz](/#/entry?id=mikroagressziok)
+<h5>📚 Bevezető</h5>
 
-[Bevezető a dossziéhoz](/#/entry?id=vallas)
-
-<hr />
-
+Ha a mikroagressziókról általában szeretnél olvasni, [keresd fel az ezzel kapcsolatos bevezető cikkünket.](/#/entry?id=mikroagressziok)
 
 </div>
 
-<div class="wiki-content">
-
-# 🚫 Vallással kapcsolatos mikroagressziók
 
 A vallással kapcsolatos mikroagressziók olyan megjegyzések és cselekedetek, amelyek valakinek vallására irányulnak, és gyakran azokat érintik negatívan, akik nem a keresztény hitet követik. Ez a fajta megnyilvánulás ártalmas lehet, mivel elősegíti a vallási sokszínűséggel szembeni előítéleteket és diszkriminációt. **Például, egy személy vallását illetően tett sértő megjegyzések vagy kirekesztő magatartások szolgálhatnak arra, hogy az illető kívülállónak vagy megkülönböztetettnek érezze magát a közösségben.**
 
@@ -32,4 +28,3 @@ A változás eléréséhez kulcsfontosságú a vallási sokszínűség tisztelet
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 
-</div>

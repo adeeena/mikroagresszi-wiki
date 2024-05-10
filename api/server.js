@@ -2,6 +2,7 @@ const express = require('express');
 const path = require('path');
 const fs = require('fs');
 const marked = require('marked');
+const matter = require('gray-matter');
 const cors = require('cors'); // Import the cors package
 
 const app = express();
@@ -37,6 +38,63 @@ app.get('/categories', (req, res) => {
     res.status(200).json(sidebarContent);
   } catch (error) {
     res.status(404).json({ error: 'Sidebar content not found.' });
+  }
+});
+
+app.get('/related', (req, res) => {
+  const { id, languageCode } = req.query;
+
+  const currentFilePath = path.join(__dirname, 'public', languageCode, `${id}.md`);
+
+  try {
+    // Read the current file to get its categories
+    const currentFileContent = fs.readFileSync(currentFilePath, 'utf-8');
+    const currentData = matter(currentFileContent);
+    var cc = currentData.data.categories;
+    if (!cc) {
+      return;
+    }
+
+    const currentCategories = currentData.data.categories.split(',').map(c => c.trim());
+
+    // Folder where the markdown files are stored
+    const folderPath = path.join(__dirname, 'public', languageCode);
+
+    const relatedFiles = [];
+    const files = fs.readdirSync(folderPath);
+
+    files.forEach((file) => {
+      if (path.extname(file) === '.md') {
+        if (file === id + '.md') {
+          return;
+        }
+
+        const content = fs.readFileSync(path.join(folderPath, file), 'utf-8');
+        const data = matter(content);
+
+        if (data.data.main_category) {
+          return;
+        }
+
+        const categories = data.data.categories
+            ? data.data.categories.split(',').map(c => c.trim())
+            : [];
+
+        // Check if there's an overlap in categories
+        if (categories.some((category) => currentCategories.includes(category))) {
+          const fileNameWithoutExtension = path.basename(file, '.md');
+          relatedFiles.push({
+            file: fileNameWithoutExtension,
+            title: data.data.title,
+          });
+        }
+      }
+    });
+
+    res.status(200).json(relatedFiles);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: 'Something went wrong.' });
   }
 });
 

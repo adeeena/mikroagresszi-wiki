@@ -2,25 +2,20 @@
 title: "🚫 Fogyatékosság"
 description: "🚫 Fogyatékossággal kapcsolatos mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
+main_category: true
+categories: fogyatekossag
 
 ---
 
-<div class="floating-columns">
+# 🚫 Fogyatékossággal kapcsolatos mikroagressziók
 
-<div class="floating-bar">
+<div class="infobox warning">
 
-[Bevezető a mikroagressziókhoz](/#/entry?id=mikroagressziok)
+<h5>📚 Bevezető</h5>
 
-[Bevezető a dossziéhoz](/#/entry?id=fogyatekossag)
-
-<hr />
-
+Ha a mikroagressziókról általában szeretnél olvasni, [keresd fel az ezzel kapcsolatos bevezető cikkünket.](/#/entry?id=mikroagressziok)
 
 </div>
-
-<div class="wiki-content">
-
-# 🚫 Fogyatékossággal kapcsolatos mikroagressziók
 
 A fogyatékossággal kapcsolatos mikroagressziók sajnálatos megnyilvánulásai az elfogadás és megértés hiányát tükrözik a társadalomban. Ezek a megjegyzések, melyek gyakran a láthatatlan és epizódikus fogyatékosságokat, valamint a mentális betegségeket érintik, azzal az előfeltevéssel járnak, hogy a fogyatékosság hiánya az "erősség" és a "normális" lét jele. **Például, az ilyen megnyilvánulások során az emberek hajlamosak arra, hogy fogyatékossággal élő személyeket a társadalom perifériájára szorítsák, és sajátos szükségleteiket ne tekintsék érvényesnek.**
 
@@ -32,5 +27,3 @@ A javaslatok és megoldási lehetőségek felvázolására összpontosítva, han
 ## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
-
-</div>

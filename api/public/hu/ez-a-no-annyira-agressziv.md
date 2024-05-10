@@ -1,26 +1,25 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Ez a nő annyira agresszívan viselkedik."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: c9149361-cb52-4fd2-a4ce-ca8798d8ddd1
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Ez a nő annyira agresszívan viselkedik.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Az a kijelentés, hogy "Ez a nő annyira agresszív", gyakran fekete vagy roma nőkre irányul, és a mögöttes feltételezés az, hogy ha ezek a nők magabiztosak, szókimondóak vagy határozottak, akkor automatikusan agresszívnak és fenyegetőnek tekintik őket. Ez a megjegyzés nemcsak leértékeli a fekete és roma nők véleményét és nézőpontját, hanem megerősíti azokat a sztereotípiákat, amelyek korlátozzák a nőiesség és a magabiztosság szélesebb értelmezését. 
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**Ez a megjegyzés azt sugallja, hogy ezeknek a nőknek nincsen joguk a határozott fellépéshez vagy az erős hanghoz, ami negatívan befolyásolhatja őket a munkahelyen, a személyes kapcsolatokban és az önértékelésükben.** Az ilyen sztereotípiák továbbá súlyos következményekkel járhatnak, mivel akadályozzák a fekete és roma nők előrelépési lehetőségeit a munkahelyeken, és gátolják őket abban, hogy kifejezzék magukat anélkül, hogy félniük kellene a visszautasítástól vagy a büntetéstől.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
+A médiában is gyakran találkozhatunk azzal a sztereotípiával, hogy a fekete vagy roma nőket hangos, pimasz vagy agresszív karakterként ábrázolják. Ezek a reprezentációk tovább erősítik a negatív hozzáállást és a diszkriminációt a társadalomban, mivel azt sugallják, hogy a fekete vagy roma nők természetüknél fogva nehezen kezelhetők vagy fenyegetőek. Ez a megközelítés megfosztja őket attól a jogtól, hogy magabiztosak legyenek, és elismerést kapjanak az erős vezetői tulajdonságaikért.
 
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+A sztereotípiák lebontása érdekében fontos felismerni, hogy a magabiztosság és a szókimondás nem azonos az agresszivitással vagy a fenyegetéssel. A fekete és roma nőknek ugyanolyan joguk van a magabiztos megnyilvánuláshoz, mint bárki másnak, és megérdemlik a tiszteletet és az elismerést, amikor kiállnak az értékeik és véleményük mellett. A társadalomnak támogatnia kell az inkluzív és tiszteletteljes hozzáállást, amely minden nőnek megadja a szabadságot és a lehetőséget, hogy kifejezze magát anélkül, hogy sztereotípiákkal vagy előítéletekkel kellene szembenéznie.
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 [Nem](/#/entry?id=nem)
 
@@ -28,12 +27,17 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 ## Példák
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
+➡️ [Shocking US Open final as Serena Williams loses, breaks her racket.](https://www.youtube.com/watch?v=Qvy0d_65aKU)
 
+➡️ [Michelle Obama on the stereotype of the “Angry Black Woman”.](https://www.youtube.com/watch?v=vBZRbQMEYUo)
 
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [RHONY star Eboni K. Williams opens up about co-stars’ microaggressions.](https://www.etonline.com/rhony-star-eboni-k-williams-opens-up-about-co-stars-microaggressions-167103)
 
 ## Forrás
+
+➡️ [Serena Williams and the trope of the “angry Black woman”.](https://www.bbc.com/news/world-us-canada-45476500 )
+
+➡️ [Michelle Obama speaks out about being labeled “Angry Black Woman”.](https://time.com/4606458/michelle-obama-angry-black-woman-label-oprah/)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

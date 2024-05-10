@@ -1,39 +1,35 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Feltételezés, hogy egy idősebb személy nem ért a technológiához."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 7c0e5259-3d4b-4fe6-9d82-0bf503f49421
+categories: kor
+keywords: asd, foo, bar
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Feltételezés, hogy egy idősebb személy nem ért a technológiához.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Az a feltételezés, hogy egy idősebb ember nem ért a technológiához, egy olyan sztereotípián alapul, amely azt sugallja, hogy az idősebb generációk nem tartják a lépést a modern technológiával, trendekkel vagy a gyorsan változó világgal. Ez a nézet különösen káros lehet a munkahelyeken, ahol az ilyen előítéletek alapján az idősebb munkavállalókat hátrányosan megkülönböztetik, mivel úgy gondolják, hogy nem rendelkeznek a szükséges technikai készségekkel vagy nem tudnak gyorsan alkalmazkodni az új eszközökhöz és rendszerekhez.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**Ez a feltételezés nemcsak alaptalan, hanem sértő is lehet az idősebb emberek számára, akik gyakran évtizedek tapasztalatával és gazdag tudással rendelkeznek.** Az az elképzelés, hogy az idősebb generációk technológiailag járatlanok, egy olyan korszak maradványa, amikor a technológiai ismeretek a fiatalok privilégiumának tűntek. Ma már azonban a technológia minden korosztály számára hozzáférhető és hasznos, és sok idősebb ember aktívan használja a modern eszközöket, sőt, innovatív módon alkalmazza őket.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
+Az ilyen sztereotípiák továbbá ahhoz vezethetnek, hogy a fiatalabb munkavállalókat túlértékelik a technológiai készségek tekintetében, mintha természetes hajlamuk lenne a technológiára, ami szintén téves. Ez a hozzáállás azt sugallja, hogy a fiatalabb generációknak nincs szükségük további képzésre, miközben az idősebbeknek feltétlenül szükségük van rá, ami torzítja a munkahelyi egyenlőséget és előléptetési lehetőségeket.
 
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+A feltételezések helyett a munkahelyeknek és a társadalomnak egyaránt olyan megközelítést kellene alkalmazniuk, amely a technológiai készségeket és a hozzáállást egyénenként értékeli, nem pedig életkor alapján. Az idősebb munkavállalóknak meg kell adni a lehetőséget, hogy bizonyítsák képességeiket és tudásukat, miközben a fiatalabb munkavállalók számára is elérhetővé kell tenni a technológiai képzéseket és továbbfejlődési lehetőségeket.
 
+Az előítéletek lebontása és a technológiai ismeretek korlátozás nélküli megközelítése elősegítheti a befogadóbb és egyenlőbb munkahelyi kultúrát, ahol mindenki hozzájárulhat a maga tapasztalatával és tudásával, függetlenül az életkortól. Ezzel a megközelítéssel jobban kiaknázhatjuk a munkahelyek és a társadalom sokszínűségét, és előmozdíthatjuk a generációk közötti együttműködést és megértést.
 
 <div class="categories">
 
 [Kor](/#/entry?id=kor)
 
-[Nem](/#/entry?id=nem)
-
 </div>
 
-## Példák
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás
+
+➡️ [Microaggressions that are ageist against your coworkers.](https://www.businessinsider.com/microaggressions-ageism-against-coworkers-workplace-issues-2020-9 )
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

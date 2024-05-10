@@ -69,7 +69,10 @@
     .entry-markdown {
       ::ng-deep {
         h1 {
-          margin-top: 4rem;
+          .emoji-pipe-image {
+            height: 32px !important;
+            width: 32px !important;
+          }
         }
 
         h2 {
@@ -84,6 +87,13 @@
           color: #c03f90;
           font-weight: bold;
           text-decoration: underline;
+        }
+
+        p {
+          .emoji-pipe-image {
+            height: 16px !important;
+            width: 16px !important;
+          }
         }
 
         .categories {
@@ -173,9 +183,17 @@
     }
 
     .entry-title {
-      //font-family: Merriweather;
       font-size: 2rem;
       line-height: 3rem;
+    }
+
+    .entry-related {
+      margin: 3rem 0 2rem;
+
+      a {
+        font-weight: bold;
+        text-decoration: underline;
+      }
     }
 
     .entry-categories {
@@ -226,15 +244,6 @@
 
       a {
         color: map-get(mat.$gray-palette, 500);
-      }
-    }
-
-    .might-interest-you {
-      margin: 2rem auto 0;
-
-      .might-interest-you-result-set {
-        display: flex;
-        flex-wrap: wrap;
       }
     }
   }
@@ -299,7 +308,7 @@
   }
 
   .entry-content {
-    padding: 0 5rem 5rem;
+    padding: 4rem 5rem 5rem;
 
     .entry-title, .entry-categories, .separator {
       margin-bottom: 2rem;

@@ -1,13 +1,13 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Feltételezés, hogy a kisebbségi emberek szegények vagy kevésbé sikeresek."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: cbfbc2e4-e3cb-4202-bc3e-809f205bf8bc
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Feltételezés, hogy a kisebbségi emberek szegények vagy kevésbé sikeresek.
 
 Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
 
@@ -20,20 +20,23 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
-[Nem](/#/entry?id=nem)
+[Osztályalapú](/#/entry?id=osztalyalapu)
 
 </div>
 
 ## Példák
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
+➡️ [Why didn’t the store just let Oprah buy the $38,000 handbag?](https://www.npr.org/sections/codeswitch/2013/08/10/210574193/why-didnt-the-store-just-let-oprah-buy-the-38-000-handbag)
 
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [Black Twitter defends Flo Jo after a Karen’s false doping claims.]( https://newsone.com/playlist/black-twitter-defends-flo-jo-from-a-karens-false-claims/item/4  )
 
 ## Forrás
+
+➡️ [The source of Black poverty isn’t Black culture, it's American culture.](https://www.theatlantic.com/politics/archive/2014/04/the-source-of-black-poverty-isnt-black-culture-its-american-culture/359937/)
+
+➡️ [For Black Americans, experiences of racial discrimation vary by education level, gender.](https://www.pewresearch.org/fact-tank/2019/05/02/for-black-americans-experiences-of-racial-discrimination-vary-by-education-level-gender/)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

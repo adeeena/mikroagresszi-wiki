@@ -2,25 +2,21 @@
 title: "🚫 LMBT+"
 description: "🚫 LMBT+-szal kapcsolatos mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
+main_category: true
+categories: lmbt
 
 ---
 
-<div class="floating-columns">
+# 🚫 LMBT+-szal kapcsolatos mikroagressziók
 
-<div class="floating-bar">
+<div class="infobox warning">
 
-[Bevezető a mikroagressziókhoz](/#/entry?id=mikroagressziok)
+<h5>📚 Bevezető</h5>
 
-[Bevezető a dossziéhoz](/#/entry?id=lmbt)
-
-<hr />
-
+Ha a mikroagressziókról általában szeretnél olvasni, [keresd fel az ezzel kapcsolatos bevezető cikkünket.](/#/entry?id=mikroagressziok)
 
 </div>
 
-<div class="wiki-content">
-
-# 🚫 LMBT+-szal kapcsolatos mikroagressziók
 
 Az LMBT+-szal kapcsolatos mikroagressziók olyan megjegyzések és cselekedetek, amelyek nemi identitás és/vagy szexuális irányultság alapján irányulnak az emberek ellen. Ez gyakran kifogásolható és káros, mivel erősíti a társadalom által elfogadott ciszhetero-normákat, és hátrányos helyzetbe hozza azokat, akik ezen normákba nem illeszkednek. **Az ilyen típusú mikroagressziók számos formában jelentkezhetnek, például sértő viccekkel, diszkriminatív kifejezésekkel vagy az LMBT+-személyek nemi identitásának és kapcsolatainak alábecsülésével.**
 
@@ -31,5 +27,3 @@ A megoldások között szerepel a társadalmi tudatosság növelése az LMBT+-t�
 ## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
-
-</div>

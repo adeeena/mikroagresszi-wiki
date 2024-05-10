@@ -2,25 +2,22 @@
 title: "🚫 Osztályalapú"
 description: "🚫 Osztályalapú mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
+main_category: true
+categories: osztalyalapu
 
 ---
 
-<div class="floating-columns">
+# 🚫 Osztályalapú mikroagressziók
 
-<div class="floating-bar">
 
-[Bevezető a mikroagressziókhoz](/#/entry?id=mikroagressziok)
+<div class="infobox warning">
 
-[Bevezető a dossziéhoz](/#/entry?id=osztalyalapu)
+<h5>📚 Bevezető</h5>
 
-<hr />
-
+Ha a mikroagressziókról általában szeretnél olvasni, [keresd fel az ezzel kapcsolatos bevezető cikkünket.](/#/entry?id=mikroagressziok)
 
 </div>
 
-<div class="wiki-content">
-
-# 🚫 Osztályalapú mikroagressziók
 
 Az osztályalapú kapcsolatos mikroagressziók olyan cselekedetek és megjegyzések, amelyek az egyén életében betöltött státuszára, különféle társadalmi csoportokhoz való tartozására épülnek. Ezek a mikroagressziók árnyalják az egyén értékét a pénzügyi helyzetén, oktatási hátterén, osztályon belüli helyzetén stb. keresztül. **Például, egy személyt az anyagi helyzetének függvényében megítélni vagy az oktatási háttere alapján kritizálni ilyen típusú mikroagressziók lehetnek.**
 
@@ -31,5 +28,3 @@ Az osztályalapú kapcsolatos mikroagressziók elleni küzdelemhez kulcsfontoss�
 ## Forrás
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
-
-</div>
