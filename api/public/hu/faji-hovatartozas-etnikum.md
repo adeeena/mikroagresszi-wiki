@@ -3,7 +3,7 @@ title: "🚫 Faji hovatartozás, etnikum elleni mikroagressziók"
 description: "🚫 Faji hovatartozás, etnikum elleni mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
 main_category: true
-category: faji-hovatartozas-etnikum
+categories: faji-hovatartozas-etnikum
 ---
 
 # 🚫 Faji hovatartozás, etnikum elleni mikroagressziók
