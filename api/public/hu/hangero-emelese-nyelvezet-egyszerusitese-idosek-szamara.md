@@ -1,39 +1,40 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 A hangerő emelése és a nyelvezet egyszerűsítése az idősek számára."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 6b0a1c02-1324-4de2-a379-1124f9f11259
+categories: kor
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 A hangerő emelése és a nyelvezet egyszerűsítése az idősek számára.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Az idősebb emberekkel való kommunikáció során a hangerő emelése és a nyelvezet egyszerűsítése gyakran azért történik, hogy segítségnyújtást vagy tiszteletet fejezzenek ki irántuk. Azonban érdemes figyelembe venni, hogy ezek a gesztusok hogyan értelmezhetők az idős emberek szemszögéből.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**Az időseknek szánt egyszerűsített nyelvezet és az erősített hangerő gyakran azt sugallhatja számukra, hogy a környezetük szerint kevésbé kompetensek vagy halláskárosodással küzdenek. Ez a gyakorlat megerősítheti az öregedéssel és a képességek csökkenésével kapcsolatos negatív sztereotípiákat, és azt az üzenetet közvetítheti, hogy az idős emberek már nem képesek ugyanolyan módon kommunikálni, mint a fiatalabbak.**
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
+Ezen felül, az egyszerűsített nyelvezet és a kiegyenesített hangerő használata, valamint az olyan kifejezések alkalmazása, mint "kedves" vagy "édesem", vagy az idősek felé irányuló gyermekes beszédmód, valóban csökkentheti az idősek önbecsülését és önértékelését. Ezek a gesztusok úgy érinthetik az időseket, hogy úgy érzik, nincs meg bennük az a szintű tisztelet és figyelem, amit megérdemelnek. Emellett az ilyen kommunikációs módszerek használata az idősek bizalmának elvesztéséhez is vezethet a saját képességeik iránt.
 
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+Ezért fontos az idősek tiszteletteljes és figyelemmeljes kommunikációja, amely nem alázza meg őket vagy erősíti meg negatív sztereotípiákat az öregedésről. Az idősebb emberekkel való kommunikáció során érdemes figyelembe venniük az egyéni különbségeket és preferenciákat, és megbecsülniük az idősebb generáció tapasztalatát és bölcsességét. A tiszteletteljes kommunikáció hozzájárulhat az idősek méltóságának és önértékelésének megőrzéséhez, és segíthet abban, hogy érzelmileg és társadalmilag kapcsolódjanak a fiatalabb generációkkal.
 
 <div class="categories">
 
 [Kor](/#/entry?id=kor)
 
-[Nem](/#/entry?id=nem)
-
 </div>
 
 ## Példák
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [Older people and technology - advertising & Big Bang Theory.](http://thelamp.org/new-lamplatoon-ageist-ad-breaks/)
 
 ## Forrás
+
+➡️ [Elderspeak: is it helpful or just baby talk?](https://merrill.ku.edu/elderspeak-it-helpful-or-just-baby-talk)
+
+➡️ [Plymouth nurses give advice on elderspeak.](https://youtu.be/Trl_afHOP14)
+
+➡️ [The problems with Elderspeak.](https://www.verywellhealth.com/elderspeak-and-older-adults-97972#:~:text=Elderspeak%20is%20a%20term%20that,or%20another%20kind%20of%20dementia)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

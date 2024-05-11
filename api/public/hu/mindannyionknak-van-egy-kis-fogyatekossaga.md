@@ -2,7 +2,7 @@
 title: "🚫 Ugyan már - mindannyiunknak van egy kis fogyatékossága."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: af642cb8-ecc7-443c-9501-a30463ad6dec
 categories: fogyatekossag
 ---
 
@@ -10,31 +10,24 @@ categories: fogyatekossag
 
 # 🚫 Ugyan már - mindannyiunknak van egy kis fogyatékossága.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Igen, ez a megjegyzés valóban lekicsinyelheti az egyének fogyatékossággal kapcsolatos küzdelmeit és élményeit. Amikor valaki azt mondja, hogy "mindannyiunknak van egy kis fogyatékossága", az azt sugallhatja, hogy a fogyatékosság valami általános vagy jelentéktelen dolog, ami mindenkit érint, és emiatt nem kell túl nagy jelentőséget tulajdonítani neki.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**Ez a megjegyzés figyelmen kívül hagyja azokat az egyéni nehézségeket és kihívásokat, amelyekkel a fogyatékossággal élő embereknek nap mint nap szembe kell nézniük.** Azt az üzenetet közvetítheti, hogy a fogyatékosság nem olyan komoly dolog, és hogy az érintett személyeknek nem kellene aggódniuk vagy segítséget kérniük a problémáikkal kapcsolatban.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
+Ez a megközelítés megnehezítheti az érintettek számára, hogy nyíltan beszéljenek a fogyatékosságukról vagy segítséget kérjenek, mivel úgy érezhetik, hogy mások nem fogják komolyan venni őket. Emellett elháríthatja a figyelmet a fogyatékosság valódi hatásairól és kihívásairól, és ezáltal akadályozhatja az érintettek számára a megfelelő támogatás és segítség elérését.
 
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Fontos, hogy érzékenyen és megértően kezeljük a fogyatékossággal kapcsolatos témákat, és elismerjük az érintettek egyéni élményeit és küzdelmeit. Ez segíthet abban, hogy támogatóbb és befogadóbb környezet alakuljon ki mindazok számára, akik fogyatékossággal élnek.
 
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[Fogyatekossag](/#/entry?id=fogyatekossag)
 
 </div>
 
-## Példák
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás
+
+➡️ [Examples of disability microaggressions in everyday life.](https://www.vancouver.wsu.edu/equity-diversity/examples-disability-microaggressions-everyday-life)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

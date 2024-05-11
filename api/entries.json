@@ -197,64 +197,6 @@
         "examples":
         [
             {
-➡️ [CNN Cop: Black people are more prone to criminality.](https://youtu.be/rJHJwTP40Ok)
-
-➡️ [Trump called BLM protestors “thugs” but Capitol-storming supporters “very special”. ](https://www.forbes.com/sites/tommybeer/2021/01/06/trump-called-blm-protesters-thugs-but-capitol-storming-supporters-very-special/?sh=50e14c813465 )
-
-➡️ [Black barrister mistaken for defendant 3 times.](https://youtu.be/O9joVcbZYx4)
-
-➡️ [The skin I’m skin: I’ve been interrogated by police more than 50 times, all because I’m Black.](https://torontolife.com/life/skin-im-ive-interrogated-police-50-times-im-black/)
-        ],
-        "resources":
-        [
-            {
-➡️ [Study: people see Black men as larger and more threatening than similar-sized white men.](https://www.vox.com/identities/2017/3/17/14945576/black-white-bodies-size-threat-study )
-
-➡️ [For Black men, being tall increases threat stereotyping and police stops.](https://www.pnas.org/content/115/11/2711)
-
-➡️ [From brute to thug: the demonization and criminalization of unarmed Black men in America.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5004736/)
-
-➡️ [People see Black men as larger, more threatening than same-sized white men.](https://www.apa.org/news/press/releases/2017/03/black-men-threatening)
-        ],
-        "references":
-        [],
-        "status": "published",
-        "title": "Suggesting all [[Black]] people are [[aggressive]] / [[threatening]].",
-        "definition": "This thought is rooted in racism. It dehumanizes Black people and justifies the harsh treatment of them by suggesting they're a threat.\n\nThese beliefs have led to unjust profiling by civilians and police, and increased use of force against Black people. It not only harms someone's self-worth, but creates life-threatening situations for the Black community.",
-        "categories":
-        [
-            "Race",
-            "Ethnicity"
-        ],
-        "keywords":
-        [
-            "microaggression",
-            "person of colour",
-            "BIPOC",
-            "ethnicity",
-            "stereotype",
-            "aggressive",
-            "threat",
-            "fear",
-            "profiling",
-            "dehumanizing"
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "date": "06/21/21",
-        "id": "1624202648400",
-        "createdAt": 1624248000000,
-        "uid": "331b3954-5704-406c-9856-a0f4a8e096aa",
-        "updatedAt": 1667941459689,
-        "featured": false,
-        "related":
-        [],
-        "votes": 0
-    },
-    {
-        "examples":
-        [
-            {
 ➡️ []()
 
 ➡️ []()
@@ -386,96 +328,6 @@
         "createdAt": 1624248000000,
         "uid": "367a2ca9-a1f8-4de8-bb41-95a7bbc2f5c3",
         "updatedAt": 1663537515539,
-        "featured": false,
-        "related":
-        [],
-        "votes": 0
-    },
-    {
-        "examples":
-        [
-            {
-➡️ [Should you be insulted when someone says you look great “for your age”?](https://youtu.be/iW6gqlNLl-Q)
-        ],
-        "resources":
-        [
-            {
-➡️ [Are you guilty of microaggressions?](https://www.seniorconcerns.org/are-you-guilty-of-microaggressions/)
-        ],
-        "references":
-        [],
-        "status": "published",
-        "title": "Wow, you look great __for__ __your__ __age__.",
-        "definition": "This may be spoken as a compliment, but it implies that the person does not look as good as they would if they were younger, and also implies that people’s looks diminish as they age. \n\nIt’s based on the belief that you’re expected to be frail, weak or less attractive the older you get. It can also communicate that older people aren’t expected to live healthy, strong and independent lives.",
-        "categories":
-        [
-            "Age"
-        ],
-        "keywords":
-        [
-            "microaggression",
-            "age",
-            "stereotype",
-            "youth",
-            "appearance",
-            "beauty",
-            "expectations"
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "date": "06/21/21",
-        "id": "1624205949462",
-        "createdAt": 1624248000000,
-        "uid": "053e4f5e-a063-4927-9384-03ef2c6d3d8e",
-        "updatedAt": 1637763981414,
-        "featured": false,
-        "related":
-        [],
-        "votes": 0
-    },
-    {
-        "examples":
-        [
-            {
-➡️ [Older people and technology - advertising & Big Bang Theory.](http://thelamp.org/new-lamplatoon-ageist-ad-breaks/)
-        ],
-        "resources":
-        [
-            {
-➡️ [Elderspeak: is it helpful or just baby talk?](https://merrill.ku.edu/elderspeak-it-helpful-or-just-baby-talk)
-
-➡️ [Plymouth nurses give advice on elderspeak.](https://youtu.be/Trl_afHOP14)
-
-➡️ [The problems with Elderspeak.](https://www.verywellhealth.com/elderspeak-and-older-adults-97972#:~:text=Elderspeak%20is%20a%20term%20that,or%20another%20kind%20of%20dementia)
-        ],
-        "references":
-        [],
-        "status": "published",
-        "title": "Raising your voice & simplifying language for older person.***",
-        "definition": "This kind of behaviour is also known as “Elderspeak”. Elderspeak is often considered belittling. Changing speech to make it “easier” for an older person to understand reinforces negative stereotypes about aging and ability. Changing speech patterns, tone, and using words like “dear” or “sweetie” can be patronizing. When treated this way, people can start to lose confidence in their capabilities, which may damage self-esteem and self-worth.",
-        "categories":
-        [
-            "Age"
-        ],
-        "keywords":
-        [
-            "microaggression",
-            "age",
-            "stereotype",
-            "elderly",
-            "elderspeak",
-            "incompetent",
-            "speech",
-            "mental ability",
-            "speaking down"
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "date": "06/21/21",
-        "id": "1624206129700",
-        "createdAt": 1624248000000,
-        "uid": "6b0a1c02-1324-4de2-a379-1124f9f11259",
-        "updatedAt": 1663856752064,
         "featured": false,
         "related":
         [],
@@ -714,47 +566,6 @@
     },
     {
         "examples":
-        [],
-        "resources":
-        [
-            {
-➡️ [Examples of disability microaggressions in everyday life.](https://www.vancouver.wsu.edu/equity-diversity/examples-disability-microaggressions-everyday-life)
-        ],
-        "references":
-        [],
-        "status": "published",
-        "title": "Come on now – we all have some disability.***",
-        "definition": "This comment can signal to someone that their thoughts and feelings are “not that bad” or an overreaction.\n\nIt can minimize someone’s struggles and make it less likely they’ll talk about their struggles or seek support. This is also known as denial of disability experience.",
-        "categories":
-        [
-            "Disability"
-        ],
-        "keywords":
-        [
-            "microaggression",
-            "disability",
-            "ability",
-            "stereotype",
-            "autonomy",
-            "independence",
-            "identity",
-            "denial",
-            ""
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "date": "06/21/21",
-        "id": "1624560104552",
-        "createdAt": 1624248000000,
-        "uid": "af642cb8-ecc7-443c-9501-a30463ad6dec",
-        "updatedAt": 1637773121703,
-        "featured": false,
-        "related":
-        [],
-        "votes": 0
-    },
-    {
-        "examples":
         [
             {
 ➡️ [Tracee Ellis on being single and not having kids.](https://www.glamour.com/video/watch/tracee-ellis-ross-is-living-for-herself?_ga=2.240979653.776790262.1622935721-1444438658.1622935720)
@@ -851,41 +662,6 @@
         "resources":
         [
             {
-➡️ [What is a microaggression?](https://www.businessinsider.com/microaggression-unconscious-bias-at-work-2018-6#youre-transgender-wow-you-dont-look-like-it-at-all-2)
-        ],
-        "references":
-        [],
-        "status": "published",
-        "title": "Homogenization***",
-        "definition": "Treating all people from one racial or ethnic group as if they’re the same.",
-        "categories":
-        [
-            "Race",
-            "Ethnicity",
-            "Indigenous"
-        ],
-        "keywords":
-        [
-            "microaggression"
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "date": "06/21/21",
-        "id": "1624565832113",
-        "createdAt": 1624248000000,
-        "uid": "974bd083-17af-4af6-a769-ff0a9d563f1b",
-        "updatedAt": 1637786955011,
-        "featured": false,
-        "related":
-        [],
-        "votes": 0
-    },
-    {
-        "examples":
-        [],
-        "resources":
-        [
-            {
 
         ],
         "references":
@@ -908,46 +684,6 @@
         "createdAt": 1624248000000,
         "uid": "e3299936-447b-4f81-9278-a57c75fe7c4c",
         "updatedAt": 1667940722052,
-        "featured": false,
-        "related":
-        [],
-        "votes": 0
-    },
-    {
-        "examples":
-        [
-            {
-➡️ [ ABC’s ‘Speechless’ sitcom addresses ‘Inspiration Porn’.](https://www.huffpost.com/entry/speechless-disability-porn_n_5877ddf6e4b0e58057fdc342)
-
-➡️ [‘Inspiration Porn’: Paralympians know it when they see it.](https://www.nytimes.com/2021/09/05/sports/olympics/inspiration-porn-paralympians-know-it-when-they-see-it.html)
-        ],
-        "resources":
-        [
-            {
-➡️ [I’m not your inspiration, thank you very much.](https://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much/transcript?language=en)
-
-➡️ [How to avoid inspiration porn.](https://www.forbes.com/sites/andrewpulrang/2019/11/29/how-to-avoid-inspiration-porn/?sh=2d371195b3db)
-        ],
-        "references":
-        [],
-        "status": "published",
-        "title": "Inspiration Porn***",
-        "definition": "This refers to forms of media and expression that draw attention to disabilities for inspiration, usually at the expense of the wholeness of a person’s experience.  It is usually considered harmful when it reduces a person to just their disability and how it can be “triumphed”. It also has the potential to make other people with disabilities feel as if they have to be extraordinary to be respected and appreciated. Inspiration porn presents disabilities as obstacles to overcome, or as only valid if the person with the disability is “exceptional”. This messaging can make people living with disabilities feel that they have to shape their lives in ways that appeal to this narrative. It is important to emphasize and celebrate the successes of people with disabilities, however it is equally important to be mindful of objectification and perpetuating narratives related to inspiration porn.",
-        "categories":
-        [
-            "Disability"
-        ],
-        "keywords":
-        [
-            "microaggression"
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "date": "06/21/21",
-        "id": "1624565956487",
-        "createdAt": 1624248000000,
-        "uid": "7e34484f-c118-42a8-97b4-8035fd6a89c6",
-        "updatedAt": 1667940543372,
         "featured": false,
         "related":
         [],
@@ -991,91 +727,6 @@
         "createdAt": 1624248000000,
         "uid": "4a5e1fa3-4d19-4550-96e5-a3f0fa4f8a0c",
         "updatedAt": 1637783283709,
-        "featured": false,
-        "related":
-        [],
-        "votes": 0
-    },
-    {
-        "examples":
-        [
-            {
-➡️ [TEDx #StellasChallenge campaign using Stella Young angers disability sector.](https://www.theguardian.com/australia-news/2015/may/22/inspiration-porn-disability-sector-angry-tedx-using-stella-young-in-promotion)
-        ],
-        "resources":
-        [
-            {
-➡️ [Don’t ask disabled people “what happened?”](https://www.healthline.com/health/dont-ask-disabled-what-happened#5 )
-
-➡️ [Stop asking disabled people “what happened to you?”](https://jessicagimeno.com/stop-asking-disabled-people-what-happened-to-you/)
-        ],
-        "references":
-        [],
-        "status": "published",
-        "title": "What happened to you?***",
-        "definition": "This question typically comes from a place of curiosity. It might seem harmless but it signals to a person that they're viewed by their disability first.\n\nSociety tends to see disability as negative and all-consuming. Movies, TV and culture portray disability as limiting, and full of hardships and unhappy people. This can be what makes people so curious to ask the question. It can suggest to a person that their disability is the most important thing about them. It can make them believe they have nothing else to offer. It can make them feel different, singled-out, or inadequate.",
-        "categories":
-        [
-            "Disability"
-        ],
-        "keywords":
-        [
-            "microaggression",
-            "disability",
-            "ability",
-            "stereotype",
-            "autonomy",
-            "independence",
-            "identity",
-            "denial",
-            ""
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "date": "06/21/21",
-        "id": "1626811890882",
-        "createdAt": 1624248000000,
-        "uid": "f2e2657b-b3d2-4c9e-8f05-de902a4dc3a1",
-        "updatedAt": 1637774786227,
-        "featured": false,
-        "related":
-        [],
-        "votes": 0
-    },
-    {
-        "examples":
-        [
-            {
-➡️ [Tennis Federation ‘respects’ Federer, fines Osaka.](https://jezebel.com/tennis-federation-president-who-fined-osaka-says-he-res-1847065296?rev=1623265055339 )
-
-➡️ [Simone Biles draws criticism for prioritizing mental health in Tokyo.](https://www.esquire.com/sports/a37154782/simone-biles-olympics-mental-health-criticism/ )
-        ],
-        "resources":
-        [
-            {
-➡️ [Microaggressions towards people affected by mental health problems: a scoping review.](https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences/article/microaggressions-towards-people-affected-by-mental-health-problems-a-scoping-review/3D2704A4FB3833247D3E265B5CDBCC52 )
-        ],
-        "references":
-        [],
-        "status": "published",
-        "title": "[[Criticizing]] [[someone]] for putting their mental health first.",
-        "definition": "This train of thought sustains the belief that mental health is something to be ashamed of and a sign of weakness. \n\nIt can deter people from having the confidence to share their struggles and seek help. It makes mental health struggles seem abnormal or wrong and can leave people feeling ashamed or judged. When society believes that mental health struggles are a sign of weakness, it means that other individuals, governments, and systems are less likely to support those who need it. It can make it seem impossible to look at mental health as a health issue.",
-        "categories":
-        [
-            "Disability",
-            "Gender"
-        ],
-        "keywords":
-        [
-            "microaggression"
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "date": "06/21/21",
-        "id": "1629227789789",
-        "createdAt": 1624248000000,
-        "uid": "524827e7-c16d-47dc-b094-af6ac1a2a484",
-        "updatedAt": 1637773270154,
         "featured": false,
         "related":
         [],
@@ -1338,54 +989,6 @@
         "examples":
         [
             {
-➡️ [16 people with disabilities shared how they get treated differently at work, and their stories are both disturbing and eye-opening.](https://www.buzzfeed.com/meganeliscomb/disability-and-discrimination-at-work   )
-
-➡️ [When I started losing my sight I decided to hide it from my work.](https://metro.co.uk/2021/11/21/when-i-started-losing-my-sight-i-decided-to-hide-it-from-my-work-15624024/ )
-        ],
-        "resources":
-        [
-            {
-➡️ [Understanding privilege and microaggressions.](https://us.humankinetics.com/blogs/excerpt/understanding-privilege-and-microaggressions )
-
-➡️ [You look fine! Ableist experiences by people with invisible disabilities.]( https://journals.sagepub.com/doi/10.1177/0886109918778073)
-
-➡️ [Living with non-visible disabilities.](https://disabilityunit.blog.gov.uk/2020/12/17/living-with-non-visible-disabilities/)
-        ],
-        "references":
-        [],
-        "related":
-        [],
-        "status": "published",
-        "title": "But you look so ((normal)).",
-        "definition": "This phrase is typically used towards individuals living with invisible and/or episodic disablities. It is problematic for multiple reasons. It perpetuates the notion that living with a disability is abnormal. It also dictates what constitutes a disability and implies that in order to be considered as someone with a disability, this disability should be visible and constant.",
-        "categories":
-        [
-            "Disability"
-        ],
-        "keywords":
-        [
-            "microaggression",
-            "disability",
-            "ability",
-            "stereotype",
-            "autonomy",
-            "independence",
-            "identity",
-            "denial",
-            ""
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "createdAt": 1637730000000,
-        "featured": false,
-        "uid": "43b41c7c-a0bc-43c3-8787-aa986ccbc278",
-        "updatedAt": 1637785643684,
-        "votes": 0
-    },
-    {
-        "examples":
-        [
-            {
 ➡️ [The ‘drunken Indian’ stereotype and social healing.](https://www.cbc.ca/news/canada/the-drunken-indian-stereotype-and-social-healing-1.729514)
         ],
         "resources":
@@ -1419,41 +1022,6 @@
         "featured": false,
         "uid": "abcb1841-a5b6-49b2-a034-91e94e1e9780",
         "updatedAt": 1637786541719,
-        "votes": 0
-    },
-    {
-        "examples":
-        [
-            {
-➡️ [Black Twitter defends Flo Jo after a Karen’s false doping claims.](https://newsone.com/playlist/black-twitter-defends-flo-jo-from-a-karens-false-claims/item/4    )
-        ],
-        "resources":
-        [],
-        "references":
-        [],
-        "related":
-        [],
-        "status": "published",
-        "title": "[[Being]] [[suspicious]] of the success of racialized people.",
-        "definition": "This belief undermines the success of racialized people.\n\nIt stems from a larger societal bias that racialized individuals are incapable of success compared to white individuals. Thus, any success is met with suspicion. It can hinder racialized individuals from being recognized, celebrated or trusted. This can effect their lives (i.e., jobs, promotions, relationships, etc.).",
-        "categories":
-        [
-            "Ethnicity",
-            "Race",
-            "Gender"
-        ],
-        "keywords":
-        [
-            "microaggression",
-            "race",
-            "ethnicity"
-        ],
-        "type": "Verbal",
-        "author": "Micropedia_Team",
-        "createdAt": 1624248000000,
-        "featured": false,
-        "uid": "58e0e81d-552b-497b-8231-755342eba083",
-        "updatedAt": 1637790933800,
         "votes": 0
     },
     {
@@ -1664,50 +1232,6 @@
             "class-based",
             "gender",
             ""
-        ],
-        "references":
-        [],
-        "related":
-        [],
-        "votes": 0,
-        "notified": true,
-        "type": "Verbal"
-    },
-    {
-        "title": "You don’t want to have children?  [[You’ll]] [[change]] [[your]] [[mind]].",
-        "categories":
-        [
-            "Class-Based",
-            "Gender"
-        ],
-        "definition": "This implies that women have little perceived importance in society other than procreation.  It also implies that a woman's life is not fulfilled if they are childless.  Lastly, it implies that women cannot be trusted to make life altering decisions for themselves.",
-        "points":
-        [],
-        "examples":
-        [
-            {
-➡️ [I don’t want children and I won’t change my mind.](https://www.womenshealthmag.com/uk/health/female-health/a707184/why-i-dont-want-kids/)
-
-➡️ [I don’t want kids. No, I’m not going to “change my mind”. | Ti Talks](https://www.youtube.com/watch?v=B8-_8G51qrE)
-
-➡️ [I don’t want children - stop telling me I’ll change my mind. | Ted Talk](https://www.youtube.com/watch?v=A_xXC37CDSw)
-        ],
-        "resources":
-        [
-            {
-➡️ [Childfree by choice.](https://www.theguardian.com/lifeandstyle/2019/jun/02/childfree-by-choice-stop-telling-me-ill-change-my-mind-later)
-        ],
-        "uid": "bd98bdf8-b072-4b58-81d2-bde4ac846d91",
-        "createdAt": 1638939600000,
-        "updatedAt": 1652450163382,
-        "author": "rebeccakane",
-        "status": "published",
-        "featured": false,
-        "keywords":
-        [
-            "microaggression",
-            "class-based",
-            "gender"
         ],
         "references":
         [],

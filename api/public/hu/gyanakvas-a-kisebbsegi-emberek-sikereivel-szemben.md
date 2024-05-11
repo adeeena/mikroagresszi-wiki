@@ -1,37 +1,30 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Gyanakvás a kisebbségi emberek sikereivel szemben."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 58e0e81d-552b-497b-8231-755342eba083
+categories: faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Gyanakvás a kisebbségi emberek sikereivel szemben.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Ez a hiedelem alapvetően a kisebbségi emberekkel szembeni társadalmi előítéletből táplálkozik, ami azt sugallja, hogy a sikerük vagy a kiválóságuk nem lehet eredeti vagy jogos. A gyanakvás a kisebbségi emberek sikereivel szemben az előítéletekre épül, amelyek megkérdőjelezik az őszinteséget, a képességeket vagy éppen az érdemet. Ez az előítéletesség gyökerezhet a hatalmi egyenlőtlenségekben és a kulturális sztereotípiákban, amelyek azt sugallják, hogy bizonyos etnikai vagy kulturális csoportok tagjai kevésbé képesek a sikerre.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**A gyanakvás nemcsak egyénekre, hanem egész kisebbségi közösségekre is hatással lehet, mivel az általánosítások és a sztereotípiák miatt lehet, hogy a siker bizonyítására törekvő kisebbségi emberek nehezebben találnak támogatást vagy lehetőségeket.** Ezáltal a gyanakvás nemcsak az egyének karrierjét vagy lehetőségeit korlátozhatja, hanem az egész kisebbségi közösséget érintő strukturális akadályokat is erősítheti.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+Az előítéletekkel és a gyanakvással szembeni fellépés fontos része annak, hogy igazságosabb és befogadóbb társadalmat alakítsunk ki. Ez magában foglalja az olyan intézkedéseket és politikákat, amelyek elősegítik a kisebbségi emberek egyenlő esélyeit és elismerik az őszinte és érdemi teljesítményüket. A kulturális érzékenység és az előítéletek lebontása hozzájárulhat ahhoz, hogy a társadalom minden tagja megbecsülje és támogassa egymást, függetlenül az etnikai vagy kulturális hovatartozástól.
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>
 
 ## Példák
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [Black Twitter defends Flo Jo after a Karen’s false doping claims.](https://newsone.com/playlist/black-twitter-defends-flo-jo-from-a-karens-false-claims/item/4)
 
 ## Forrás
 

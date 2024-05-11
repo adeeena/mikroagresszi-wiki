@@ -1,39 +1,30 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Homogenizáció"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 974bd083-17af-4af6-a769-ff0a9d563f1b
+categories: faji-hovatartozas-etnikum
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Homogenizáció
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A homogenizáció fogalma az egyének csoportokba sorolására utal olyan tulajdonságok alapján, mint például a faji vagy etnikai hovatartozás. Ez azt jelenti, hogy minden egyes egyént ugyanolyannak tekintenek, mintha egy csoportba tartoznának, és ezt a csoportot egységes egészként kezelik, figyelmen kívül hagyva az egyéni különbségeket vagy egyediséget. A homogenizáció megfosztja az egyéneket identitásuktól és egyéni személyiségüktől, és azáltal erősíti a sztereotípiákat és előítéleteket.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**Az ilyen homogenizáló megközelítés korlátozza az egyének szabadságát és önrendelkezését, mivel nem tekintik őket egyedülálló egyénekként, hanem csupán a csoportjuk jellemzőinek egy részeként.** Ezáltal elveszítik a lehetőséget arra, hogy az egyéniséggel, tapasztalatokkal és érzelmekkel kapcsolatban különbséget tegyenek.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+A homogenizáció a társadalmi egyenlőtlenségek fenntartásához is hozzájárul, mivel nem tesz különbséget az egyének között az egyenlőtlenségek és a jogok szempontjából. Ez a fajta homogenizálás lehetetlenné teszi az egyének teljes kibontakozását és potenciáljuk megvalósítását, és fennáll a veszélye annak, hogy kizárólagos vagy diszkriminatív társadalmi struktúrákat eredményez.
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
 
 </div>
 
-## Példák
-
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
-
 ## Forrás
+
+➡️ [What is a microaggression?](https://www.businessinsider.com/microaggression-unconscious-bias-at-work-2018-6#youre-transgender-wow-you-dont-look-like-it-at-all-2)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

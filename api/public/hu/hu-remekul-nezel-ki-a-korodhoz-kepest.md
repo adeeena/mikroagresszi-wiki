@@ -1,39 +1,35 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Hű, remekül nézel ki a korodhoz képest."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 053e4f5e-a063-4927-9384-03ef2c6d3d8e
+categories: kor
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Hű, remekül nézel ki a korodhoz képest.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Ez a megjegyzés látszólag bóknak szánt, de valójában rávilágít az elvárásokra és a korral kapcsolatos sztereotípiákra. Azzal, hogy az illetőt a korához képest dicsérik, alapvetően azt üzenik, hogy az öregedés negatív dolog, és az embereknek nem szabadna jól nézniük vagy jól érezniük magukat az életük későbbi szakaszában. Ez az elvárás nyomást gyakorolhat az idős emberekre, hogy fiatalosak és vonzóak maradjanak, és elrejtik az öregedés jeleit, ahelyett hogy elfogadnák és tisztelnék az idő múlását.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Az ilyen típusú megjegyzés a társadalom által elterjesztett sztereotípiákat táplálja, amelyek szerint az öregedés szinonimája a hanyatlásnak és az egészségromlásnak. Ezáltal az idősebb embereket nem csak az öregedéssel kapcsolatos szégyen érzése sújthatja, hanem az is, hogy nem felelnek meg a fiatalos ideális kinézetnek és életstílusnak.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Az ilyen típusú megjegyzésekkel szembeni fellépés része annak, hogy megkérdőjelezzük az öregedéssel kapcsolatos előítéleteket és elvárásokat. Fontos hangsúlyozni, hogy az embereknek joga van ahhoz, hogy egészséges és boldog életet éljenek az öregedés minden szakaszában, és hogy az értéket nem csupán a külső megjelenésük vagy a koruk határozza meg.
 
 
 <div class="categories">
 
 [Kor](/#/entry?id=kor)
 
-[Nem](/#/entry?id=nem)
-
 </div>
 
 ## Példák
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
-
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [Should you be insulted when someone says you look great “for your age”?](https://youtu.be/iW6gqlNLl-Q)
 
 ## Forrás
+
+➡️ [Are you guilty of microaggressions?](https://www.seniorconcerns.org/are-you-guilty-of-microaggressions/)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

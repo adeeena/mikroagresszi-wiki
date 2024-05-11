@@ -1,26 +1,24 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 Hogyhogy nem akarsz gyereket?"
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: bd98bdf8-b072-4b58-81d2-bde4ac846d91
+categories: nem
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 Hogyhogy nem akarsz gyereket?
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Ez a megjegyzés gyakran a nőkhöz intézett kérdés, és az elváráson alapszik, hogy minden nőnek anyának kell lennie, hogy teljes életet élhessen. **Ez az elvárás azonban figyelmen kívül hagyja az egyéni körülményeket és döntéseket. Sok nőnek lehetnek jól átgondolt okai arra, hogy nem vállal gyermeket, legyen az pénzügyi, karrierrel kapcsolatos, egészségügyi vagy más egyéb indok. Az ilyen típusú nyomás és sztereotípiák könnyen szorongást és bizonytalanságot kelthetnek azokban a nőkben, akik nem szeretnének gyereket, de eztől eltérően választanak.**
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Fontos megérteni és tiszteletben tartani az egyéni döntéseket, és nem feltételezni, hogy minden nőnek ugyanazok az életcélok és értékek fontosak. Az ilyen típusú megjegyzések inkább arra ösztönözhetnek, hogy a nők érezze, hogy az életük értékét a gyermekvállalásban kell megkeresniük, ahelyett, hogy saját céljaik és boldogságuk mentén alakítsák az életüket.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
+A társadalomban gyakran elfogadott norma az, hogy a nőknek gyerekeket kell szülniük, és ez a norma a nem várt nyomást és elvárásokat eredményezheti azokra a nőkre, akik nem kívánnak anyák lenni. Ennek eredményeként az ilyen típusú megjegyzések fokozhatják az önértékelési problémákat és személyes bizonytalanságot, különösen azokban a nőkben, akik más életutat választanak.
 
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+Az ilyen nyomás és sztereotípiák felszabadítása érdekében fontos, hogy támogató és befogadó légkört teremtsünk, amely elismeri és tiszteletben tartja az egyéni döntéseket és életutakat. Ez lehetővé teszi minden nőnek, hogy saját céljai és boldogsága mentén alakítsa ki az életét, függetlenül attól, hogy gyermeket szeretne-e vagy sem.
 
 <div class="categories">
-
-[Kor](/#/entry?id=kor)
 
 [Nem](/#/entry?id=nem)
 
@@ -28,12 +26,16 @@ Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erős
 
 ## Példák
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
+➡️ [I don’t want children and I won’t change my mind.](https://www.womenshealthmag.com/uk/health/female-health/a707184/why-i-dont-want-kids/)
 
+➡️ [I don’t want kids. No, I’m not going to “change my mind”. | Ti Talks](https://www.youtube.com/watch?v=B8-_8G51qrE)
 
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [I don’t want children - stop telling me I’ll change my mind. | Ted Talk](https://www.youtube.com/watch?v=A_xXC37CDSw)
+
 
 ## Forrás
+
+➡️ [Childfree by choice.](https://www.theguardian.com/lifeandstyle/2019/jun/02/childfree-by-choice-stop-telling-me-ill-change-my-mind-later)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 

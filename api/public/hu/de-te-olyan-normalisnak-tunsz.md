@@ -1,39 +1,41 @@
 ---
-title: "🚫 A fiúk már csak ilyenek."
+title: "🚫 De te olyan normálisnak tűnsz."
 description: "🚫 Mikroagressziók magyarázata, háttere, javaslatok."
 lang: hu
-source: 0eabd145-aaef-4d84-8539-748d4868ece4
+source: 43b41c7c-a0bc-43c3-8787-aa986ccbc278
+categories: fogyatekossag
 ---
 
 <div class="wiki-content agression-title">
 
-# 🚫 A fiúk már csak ilyenek.
+# 🚫 De te olyan normálisnak tűnsz.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+Ez a gyakran elhangzó megjegyzés, bár látszólag tiszteletteljesnek szánják, valójában problémás és erősíti a fogyatékossággal kapcsolatos előítéleteket. Azáltal, hogy azt sugallja, hogy valaki "olyan normálisnak tűnik", mintha a fogyatékossága vagy az érintett személy nem lenne része a normálisnak tekintett kategóriának, lekicsinyli vagy érvényteleníti a fogyatékosságot mint olyat. Ezzel összefüggésben azt a gondolatot közvetíti, hogy a fogyatékossággal élő személyek valamilyen módon "nem normálisak", ami tovább erősíti a fogyatékossággal kapcsolatos stigma és előítéletek kialakulását.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+**Az ilyen megjegyzés emellett megnehezítheti a fogyatékossággal élő személyeknek, hogy nyíltan beszéljenek a fogyatékosságukról vagy kérjenek segítséget, mivel a társadalmi normák és elvárások szerint az "normálisnak" kell látszaniuk.** Ez a nyomás és szégyenérzet tovább súlyosbíthatja a fogyatékossággal élők mentális egészségét és életminőségét.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
+Fontos felismerni és megérteni, hogy a fogyatékosság nem egyenlő a "nem normális" vagy "nem elfogadható" állapottal. A fogyatékossággal élő emberek is részei a társadalomnak, és joguk van ahhoz, hogy tiszteletben tartsák őket és elfogadják őket olyannak, amilyenek. Az elfogadás és az empátia segíthet abban, hogy létrehozzunk egy olyan környezetet, ahol mindenki szabadon kifejezheti magát és elfogadva érezheti magát, függetlenül attól, hogy van-e fogyatékossága vagy sem.
 
 
 <div class="categories">
 
-[Kor](/#/entry?id=kor)
-
-[Nem](/#/entry?id=nem)
+[Fogyatékosság](/#/entry?id=fogyatekossag)
 
 </div>
 
 ## Példák
 
-➡️ [Thank you to my daughter’s Principal for not falling back on ‘boys will be boys’.](https://www.scarymommy.com/gtfo-of-others-personal-bubbles/)
+➡️ [16 people with disabilities shared how they get treated differently at work, and their stories are both disturbing and eye-opening.](https://www.buzzfeed.com/meganeliscomb/disability-and-discrimination-at-work   )
 
-
-➡️ [5 reasons to stop calling Trump’s comments ‘locker room talk’.](https://www.vox.com/identities/2016/10/11/13230414/trump-leaked-audio-locker-room-sexual-assault)
+➡️ [When I started losing my sight I decided to hide it from my work.](https://metro.co.uk/2021/11/21/when-i-started-losing-my-sight-i-decided-to-hide-it-from-my-work-15624024/ )
 
 ## Forrás
+
+➡️ [Understanding privilege and microaggressions.](https://us.humankinetics.com/blogs/excerpt/understanding-privilege-and-microaggressions )
+
+➡️ [You look fine! Ableist experiences by people with invisible disabilities.]( https://journals.sagepub.com/doi/10.1177/0886109918778073)
+
+➡️ [Living with non-visible disabilities.](https://disabilityunit.blog.gov.uk/2020/12/17/living-with-non-visible-disabilities/)
 
 ➡️ [The Micropedia](https://www.themicropedia.org/)
 
