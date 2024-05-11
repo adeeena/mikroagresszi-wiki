@@ -190,6 +190,10 @@
     .entry-related {
       margin: 3rem 0 2rem;
 
+      .related-entry-item {
+        margin-bottom: 12px;
+      }
+
       a {
         font-weight: bold;
         text-decoration: underline;

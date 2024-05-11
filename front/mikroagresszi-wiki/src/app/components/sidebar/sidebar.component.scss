@@ -29,21 +29,36 @@
 
     .category {
       color: white;
+      display: grid;
+      gap: 1rem;
+      grid-template-columns: 1fr 1fr;
       margin-bottom: 1rem;
-      width: 100%;
+      padding: 1rem;
 
       .category-title {
         border-bottom: 1px solid white;
         font-size: 1rem;
-        height: 1.5rem;
         margin: .5rem;
       }
     }
 
     .sidebar-item {
-      height: 1rem;
+      border: 1px solid #212121;
+      background: radial-gradient(at 6% 13%, #4c2d52 0, transparent 50%), radial-gradient(at 87% 20%, #39213d 0, transparent 50%), radial-gradient(at 45% 86%, #c767d0 0px, transparent 50%);
+      background-size: 40rem 30rem;
+      height: 4rem;
       text-decoration: none;
-      width: 30rem;
+      transition: background 750ms ease-in-out;
+      width: 100%;
+
+      &:nth-child(1) {
+        grid-column-start: 1;
+        grid-column-end: 3;
+      }
+
+      &:hover {
+        background-position: -10rem;
+      }
 
       button {
         background: transparent;
@@ -52,13 +67,13 @@
         cursor: pointer;
         display: flex;
         flex-direction: row;
-        height: 1.5rem;
+        height: 100%;
+        padding-right: 50%;
+        text-align: left;
         transition: 0.3s;
         width: 100%;
 
-        &:hover {
-          background: #4054b2;
-        }
+
 
         .text {
           align-self: center;
@@ -66,34 +81,6 @@
           font-size: .8rem;
           margin-left: .5rem;
         }
-      }
-
-      &:nth-child(1) {
-        background: map-get($my-accent, 900);
-      }
-
-      &:nth-child(2) {
-        background: map-get($my-accent, 800);
-      }
-
-      &:nth-child(3) {
-        background: map-get($my-accent, 700);
-      }
-
-      &:nth-child(4) {
-        background: map-get($my-accent, 600);
-      }
-
-      &:nth-child(5) {
-        background: map-get($my-accent, 500);
-      }
-
-      &:nth-child(6) {
-        background: map-get($my-accent, 400);
-      }
-
-      &:nth-child(7) {
-        background: map-get($my-accent, 300);
       }
     }
   }

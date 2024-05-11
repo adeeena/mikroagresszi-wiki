@@ -4,7 +4,7 @@
 
     <div class="entry-related" *ngIf="related && related.length">
       <h2>Kapcsolódó</h2>
-      <div *ngFor="let r of related">
+      <div class="related-entry-item" *ngFor="let r of related">
         <a routerLink="/entry" [queryParams]="{ id: r.file }">
           {{ r.title }}
         </a>

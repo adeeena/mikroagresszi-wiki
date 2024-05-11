@@ -48,3 +48,19 @@ Nincs egyetlen helyes módja a mikroagresszióra való reagálásnak, de íme n�
 
 ### 4. Dönts a szituációról
 Mi az, amiben irányítani tudsz? Nem tudod mindig az embereket vagy a helyzetet teljesen kontroll alatt tartani, de azt tudod irányítani, hogy mit veszel ki a helyzetből, és mit vesz ki belőled. A legfontosabb, hogy megvédd saját magadat és a boldogságodat.
+
+## Kategóriák
+
+➡️[Faji hovatartozás, etnikum](/#/entry?id=faji-hovatartozas-etnikum)
+
+➡️[Fogyatékosság](/#/entry?id=fogyatekossag)
+
+➡️[Kor](/#/entry?id=kor)
+
+➡️[LMBT+](/#/entry?id=lmbt)
+
+➡️[Nem](/#/entry?id=nem)
+
+➡️[Osztályalapú](/#/entry?id=osztalyalapu)
+
+➡️[Vallás](/#/entry?id=vallas)
