@@ -10,14 +10,11 @@ categories: faji-hovatartozas-etnikum, osztalyalapu
 
 # 🚫 Feltételezés, hogy a kisebbségi emberek szegények vagy kevésbé sikeresek.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A rasszizmus gyakran rejtett formában jelenik meg, és ez az előítélet a társadalmi-gazdasági siker közötti feltételezésben is megmutatkozik. Ez a hiedelem alapvetően elismeri a fehér embereket, miközben alárendeli vagy kisebbíti a rasszizált csoportok tagjait. Ezzel azt sugallja, hogy a fehérek automatikusan nagyobb esélyt kapnak a sikeres életre, míg a nem-fehéreknek nehezebb útjuk van a társadalmi feljebb lépéshez. Ez az állítás alapvetően diszkriminatív és megalázó, mivel kategorikusan ítéli el az egyének képességeit és lehetőségeit a bőrszínük alapján.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Az ilyen mikroagressziók rendszeresen fenntartják és elmélyítik a strukturális egyenlőtlenségeket a társadalomban. Az ilyen előítéletes meggyőződések befolyásolják az intézményi döntéseket, például az állások kiválasztását vagy a munkahelyi előléptetéseket. Ezáltal az emberek rasszal kapcsolatos előítéletek alapján értékelik és kezelik az embereket, ami tovább rontja a rasszizmus által érintett egyének esélyeit a társadalmi felemelkedésre és sikerre.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+Ezenkívül az ilyen mikroagressziók terjesztése általánosságban hozzájárul a rasszizmus normalizálásához és elfogadásához a társadalomban. Ha ezeket az előítéletes meggyőződéseket nem támadják meg és nem korrigálják, akkor megerősítik a társadalmi rendszerben bekövetkező diszkriminációt és elnyomást. Ennek következtében a rasszizmus továbbra is jelen van és hat a mindennapi élet különböző területein, amely további megosztottságot és szenvedést okoz az érintett egyének és közösségeik számára.
 
 <div class="categories">
 

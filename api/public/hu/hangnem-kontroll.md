@@ -10,14 +10,11 @@ categories: fogyatekossag, lmbt, faji-hovatartozas-etnikum, nem
 
 # 🚫 Hangnem-kontroll
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A hangnem-kontroll egy olyan viselkedésforma, amelyben az emberek inkább az illető hangjára, hangulatára összpontosítanak, ahelyett hogy meghallgatnák, mit mond. Ezáltal figyelmen kívül hagyják a fontos nézőpontokat, és inkább a beszélő stílusát, hangnemét elemzik. Gyakran alkalmazzák indulatosabban, intenzívebben kommunikáló nőkkel szemben, amikor azt sugallják nekik, hogy változtassanak megfelelőbb hangnemet vagy stílust, amikor megosztják gondolataikat, ezáltal leértékelve azokat.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+A csendesebb nők esetében is gyakori a hangnem-kontroll, amikor azt feltételezik róluk, hogy túl csendesek vagy nem eléggé magabiztosak. Ezáltal figyelemmel kísérik, hogy ezek a nők hogyan mutatják meg magukat, és erősítik a sztereotípiákat és elvárásokat arról, hogy hogyan kellene viselkedniük, beszélniük vagy kifejezniük magukat.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+Ezen viselkedésformák nemcsak lealacsonyítóak, de megerősítik a társadalmi elvárásokat és sztereotípiákat a különböző etnikai és nemi csoportokról. Fontos megérteni, hogy minden személynek joga van a saját hangjának és stílusának szabad kifejezéséhez, függetlenül attól, hogy milyen etnikai vagy nemi hovatartozású. A hangnem-kontroll elutasítása az empátia és megértés iránti elkötelezettség megnyilvánulása, valamint a társadalmi igazságosság támogatása.
 
 <div class="categories">
 

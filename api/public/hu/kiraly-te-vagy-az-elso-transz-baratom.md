@@ -10,14 +10,11 @@ categories: lmbt, nem
 
 # 🚫 Király! Te vagy az első transz barátom.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A transzneműség fontossága személyes identitásunkban meghatározó lehet, de a nemi identitás hangsúlyozása egy barátságban jelképesnek tűnhet. Ez az állítás azt a benyomást kelti, mintha valakivel csak azért barátkoznánk, mert transznemű. Az ilyen jellegű besorolás lehet sértő és lealacsonyító, mivel az emberi kapcsolatok mélysége és értéke nem az ilyesfajta felszínes jelzőkön alapul.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+Az emberi egyediség és érték mindig a kölcsönös megértésen, tiszteleten és szereteten alapul, és nem a különbözőségek kizáró okai. Fontos, hogy tisztelettel és elfogadással bánjanak az emberekkel, és hogy egy barátság ne korlátozódjon semmilyen jelzőre vagy azonosítóra. Minden kapcsolatban az egyéniség és a személyes jellem vonzása és kölcsönös tisztelete az alapvető.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
-
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+Az emberek személyes jellemzőit vagy azonosítóikat semmilyen jelző vagy címkézés ne határozza meg kizárólagosan. A barátság az empátia, a megértés és a kölcsönös támogatás alapján alakul ki, függetlenül attól, hogy valaki milyen identitással rendelkezik. Minden egyes kapcsolat egyedi és értékes az abban résztvevők számára, és a tiszteletteljes kommunikációra és az elfogadó attitűdre való törekvés mindig kiemelkedő fontosságú.
 
 <div class="categories">
 

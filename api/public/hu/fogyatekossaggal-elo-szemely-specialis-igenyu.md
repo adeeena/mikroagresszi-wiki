@@ -10,14 +10,13 @@ categories: fogyatekossag
 
 # 🚫 Egy fogyatékossággal élő személyt speciális igényűként emlegetni.
 
-Ezt a kifejezést arra használják, hogy felmentsenek minden hagyományosan férfias viselkedést vagy hozzáállást a férfiak és a fiúk minden korosztálya számára.
+A "speciális igényű" kifejezésnek sajátos konnotációja van, mely időről-időre kérdéseket vet fel a fogyatékossággal élő emberek identitásának tiszteletben tartása kapcsán. Sokan úgy vélik, hogy ez a kifejezés megkérdőjelezi és elfojtja az egyén fogyatékossággal kapcsolatos azonosulását.
 
-**Jellemzően a lármás vagy pajkos viselkedés elutasítására használják.**
+A "speciális igényű" kifejezés használata általában arra irányul, hogy elkerüljék a "fogyatékosság" szó használatát, mely továbbra is negatív vagy elítélő jelentéssel bírhat.
 
-Arra utal, hogy a fiúknak kevés önkontrolljuk van a tetteik felett. Ez a kifejezés elősegíti és állandósítja a nemi sztereotípiákat. Azt sugallja, hogy a fiúktól elvárható, hogy bizonyos módon viselkedjenek, és hogy ez az emberi természetükből fakad. **Azt sugallja, hogy nem tudnak felelősséget vállalni a tetteikért és azok következményeiért; valamint azok a fiúk, akik nem felelnek meg a férfiasságról alkotott elképzelésnek, abnormálisak.**
+Ezzel párhuzamosan ez a megfogalmazás gyakran infantilizáló hatást kelt, sugallva, hogy az érintetteknek csupán "speciális", és nem egyszerűen csak specifikus szükségleteik vannak.
 
-Ezt a kifejezést néha olyan súlyos bűncselekmények, mint a szexuális erőszak mentségére használják. Ez a mentség nem teszi felelőssé az egyéneket a tetteikért. Azt is sugallja, hogy minden férfi arra van programozva, hogy így viselkedjen.
-
+A kifejezés így könnyen alábecsülheti az egyén igényeit és kihívásait, amelyek az emberi méltóság és tisztelet tiszteletben tartása mellett érhetőek meg. Ennek megfelelően fontos a nyelv és az árnyalatok érzékeny kezelése, hogy az egyének ne érezzék magukat kirekesztve vagy lebecsülve a mindennapi kommunikáció során.
 
 <div class="categories">
 
