@@ -1,3 +1,4 @@
+@use "sass:map";
 /* You can add global styles to this file, and also import other style files */
 @use '@angular/material' as mat;
 @use '@ctrl/ngx-emoji-mart/picker';
@@ -44,10 +45,10 @@ button, body {
   font-family: 'Fira Sans', "Helvetica Neue", sans-serif;
 }
 
-$yellow-color: map-get(mat.$m2-amber-palette, 400);
-$blue-color: map-get(mat.$m2-blue-palette, 400);
-$pink-color: map-get(mat.$m2-purple-palette, 400);
-$pink-light-color: map-get(mat.$m2-purple-palette, 100);
+$yellow-color: map.get(mat.$m2-amber-palette, 400);
+$blue-color: map.get(mat.$m2-blue-palette, 400);
+$pink-color: map.get(mat.$m2-purple-palette, 400);
+$pink-light-color: map.get(mat.$m2-purple-palette, 100);
 
 a {
   color: #c03f90;
@@ -96,7 +97,7 @@ a {
   }
 
   .normal {
-    background: map-get(mat.$m2-blue-palette, 800);
+    background: map.get(mat.$m2-blue-palette, 800);
     font-size: 3rem;
     line-height: 3rem;
 
@@ -119,7 +120,7 @@ a {
   }
 
   .normal {
-    background: map-get(mat.$m2-blue-palette, 800);
+    background: map.get(mat.$m2-blue-palette, 800);
     font-size: 1.3rem;
     line-height: 1.3rem;
 
@@ -134,6 +135,6 @@ a {
 }
 
 .mat-drawer-inner-container {
-  background: map-get(mat.$m2-gray-palette, 900);
+  background: map.get(mat.$m2-gray-palette, 900);
   height: 100vh !important;
 }
