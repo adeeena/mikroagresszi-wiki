@@ -1,12 +1,16 @@
-<button class="toolbar" mat-mini-fab
-        color="primary" *ngIf="!isOpened" (click)="toggleSidenav()">
-  <mat-icon>menu</mat-icon>
-</button>
+@if (!isOpened) {
+  <button class="toolbar" mat-mini-fab
+    color="primary" (click)="toggleSidenav()">
+    <mat-icon>menu</mat-icon>
+  </button>
+}
 
-<button class="toolbar" mat-mini-fab
-        color="accent" *ngIf="isOpened" (click)="toggleSidenav()">
-  <mat-icon>close</mat-icon>
-</button>
+@if (isOpened) {
+  <button class="toolbar" mat-mini-fab
+    color="accent" (click)="toggleSidenav()">
+    <mat-icon>close</mat-icon>
+  </button>
+}
 
 <button class="bottombar" mat-fab (click)="toggleSearch()">
   <mat-icon>search</mat-icon>
@@ -17,7 +21,9 @@
     <app-sidebar (closing)="closeSidenav()"></app-sidebar>
   </mat-sidenav>
   <mat-sidenav-content #mainContent>
-    <app-header *ngIf="isHeaderVisible"></app-header>
+    @if (isHeaderVisible) {
+      <app-header></app-header>
+    }
     <router-outlet></router-outlet>
     <app-footer></app-footer>
   </mat-sidenav-content>

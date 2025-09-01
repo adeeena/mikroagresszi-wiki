@@ -10,14 +10,18 @@
     <input matInput #message (input)="searchUpdated($event)">
   </mat-form-field>
 
-  <div *ngIf="searchResults && searchResults.length" class="floating">
-    <a class="search-result-item"
-       routerLink="/entry"
-       (click)="onClick()"
-       [queryParams]="{ id: res.fileName }"
-       *ngFor="let res of searchResults">
-      <div class="title">{{ res.title }}</div>
-      {{ res.contextBefore }}<b>{{ res.match }}</b>{{ res.contextAfter }}...
-    </a>
-  </div>
+  @if (searchResults && searchResults.length) {
+    <div class="floating">
+      @for (res of searchResults; track res) {
+        <a class="search-result-item"
+          routerLink="/entry"
+          (click)="onClick()"
+          [queryParams]="{ id: res.fileName }"
+          >
+          <div class="title">{{ res.title }}</div>
+          {{ res.contextBefore }}<b>{{ res.match }}</b>{{ res.contextAfter }}...
+        </a>
+      }
+    </div>
+  }
 </div>

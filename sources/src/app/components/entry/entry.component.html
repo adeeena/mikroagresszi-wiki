@@ -1,36 +1,37 @@
 <div class="content">
-  <div class="entry-content" *ngIf="entry">
-    <div class="entry-markdown" [@enter1] [innerHTML]="entry | utf8EmojisToImages:'apple'"></div>
-
-    <div class="entry-related" *ngIf="related && related.length">
-      <h2>Kapcsolódó</h2>
-      <div class="related-entry-item" *ngFor="let r of related">
-        <a routerLink="/entry" [queryParams]="{ id: r.file }">
-          {{ r.title }}
-        </a>
+  @if (entry) {
+    <div class="entry-content">
+      <div class="entry-markdown" [@enter1] [innerHTML]="entry | utf8EmojisToImages:'apple'"></div>
+      @if (related && related.length) {
+        <div class="entry-related">
+          <h2>Kapcsolódó</h2>
+          @for (r of related; track r) {
+            <div class="related-entry-item">
+              <a routerLink="/entry" [queryParams]="{ id: r.file }">
+                {{ r.title }}
+              </a>
+            </div>
+          }
+        </div>
+      }
+      <div class="entry-actions" [@enter3]>
+        <div class="back-to-home">
+          <a [routerLink]="['/']">
+            {{ 'general.backToHome' | translate }}
+          </a>
+        </div>
+        <div class="actions">
+          <button mat-icon-button (click)="openShareDialog()">
+            <mat-icon>share</mat-icon>
+          </button>
+        </div>
+      </div>
+      <div class="disclaimer" [@enter4]>
+        <b>{{ 'entry.foundErrorTitle' | translate }} </b>
+        <span [innerHTML]="'entry.foundErrorText' | translate"></span>
+      </div>
+      <div class="disclaimer" [@enter4]>
       </div>
     </div>
-
-    <div class="entry-actions" [@enter3]>
-      <div class="back-to-home">
-        <a [routerLink]="['/']">
-          {{ 'general.backToHome' | translate }}
-        </a>
-      </div>
-
-      <div class="actions">
-        <button mat-icon-button (click)="openShareDialog()">
-          <mat-icon>share</mat-icon>
-        </button>
-      </div>
-    </div>
-
-    <div class="disclaimer" [@enter4]>
-      <b>{{ 'entry.foundErrorTitle' | translate }} </b>
-      <span [innerHTML]="'entry.foundErrorText' | translate"></span>
-    </div>
-
-    <div class="disclaimer" [@enter4]>
-    </div>
-  </div>
+  }
 </div>

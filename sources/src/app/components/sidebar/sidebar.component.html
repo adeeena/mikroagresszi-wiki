@@ -8,17 +8,21 @@
   </a>
 
   <div class="sidebar-item-container">
-    <div class="category" *ngFor="let category of categories">
-      <a [routerLink]="[subcategory.id ? subcategory.id : '/entry']"
-         [queryParams]="{ id: subcategory.id ? '' : subcategory.entryId}"
-         (click)="linkClicked()"
-         class="sidebar-item" *ngFor="let subcategory of category.children">
-        <button>
-          <div class="text">
-            {{subcategory.title}}
-          </div>
-        </button>
-      </a>
-    </div>
+    @for (category of categories; track category) {
+      <div class="category">
+        @for (subcategory of category.children; track subcategory) {
+          <a [routerLink]="[subcategory.id ? subcategory.id : '/entry']"
+            [queryParams]="{ id: subcategory.id ? '' : subcategory.entryId}"
+            (click)="linkClicked()"
+            class="sidebar-item">
+            <button>
+              <div class="text">
+                {{subcategory.title}}
+              </div>
+            </button>
+          </a>
+        }
+      </div>
+    }
   </div>
 </div>
