@@ -80,10 +80,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "mikroagresszi-wiki:build:production"
+              "buildTarget": "mikroagresszi-wiki:build:production"
             },
             "development": {
-              "browserTarget": "mikroagresszi-wiki:build:development"
+              "buildTarget": "mikroagresszi-wiki:build:development"
             }
           },
           "defaultConfiguration": "development",
@@ -94,7 +94,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "mikroagresszi-wiki:build"
+            "buildTarget": "mikroagresszi-wiki:build"
           }
         },
         "test": {
