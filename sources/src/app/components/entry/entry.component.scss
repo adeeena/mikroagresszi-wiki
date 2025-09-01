@@ -62,7 +62,7 @@
 }
 
 .content {
-  background: map-get(mat.$gray-palette, 100);
+  background: map-get(mat.$m2-gray-palette, 100);
   min-height: 90vh;
 
   .entry-content {
@@ -202,7 +202,7 @@
 
     .entry-categories {
       mat-chip {
-        background: map-get(mat.$amber-palette, 500);
+        background: map-get(mat.$m2-amber-palette, 500);
         cursor: pointer;
       }
     }
@@ -212,7 +212,7 @@
     }
 
     .separator {
-      background: map-get(mat.$gray-palette, 600);
+      background: map-get(mat.$m2-gray-palette, 600);
       height: 1px;
       width: 100%;
     }
@@ -222,7 +222,7 @@
     }
 
     .entry-description {
-      color: map-get(mat.$gray-palette, 600);
+      color: map-get(mat.$m2-gray-palette, 600);
       font-weight: 500;
       line-height: 1.4rem;
       margin-bottom: 1.5rem;
@@ -238,16 +238,16 @@
       }
 
       a, button {
-        color: map-get(mat.$gray-palette, 500);
+        color: map-get(mat.$m2-gray-palette, 500);
       }
     }
 
     .disclaimer {
-      color: map-get(mat.$gray-palette, 500);
+      color: map-get(mat.$m2-gray-palette, 500);
       margin: 2rem 0;
 
       a {
-        color: map-get(mat.$gray-palette, 500);
+        color: map-get(mat.$m2-gray-palette, 500);
       }
     }
   }
@@ -269,7 +269,7 @@
   .close-button {
     border: 0;
     border-radius: 5px;
-    background: map-get(mat.$gray-palette, 200);
+    background: map-get(mat.$m2-gray-palette, 200);
     margin-top: 1rem;
   }
 }
