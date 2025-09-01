@@ -2,7 +2,7 @@ import {Component, EventEmitter, OnInit, Output} from '@angular/core';
 import {fadeInUpOnEnterAnimation} from "angular-animations";
 import {Router} from "@angular/router";
 import {Title} from "@angular/platform-browser";
-import {MatInputModule} from '@angular/material/input';
+import {MatLegacyInputModule as MatInputModule} from '@angular/material/legacy-input';
 import {SidenavService} from "../../services/sidenav-service.service";
 import {SearchService} from "../../services/search.service";
 
